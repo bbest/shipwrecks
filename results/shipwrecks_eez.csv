@@ -1,0 +1,1886 @@
+wreck_num,wreck_name,eez_mrgid,eez_geoname
+1.0,Water Lily,8343,Mauritian Exclusive Economic Zone
+2.0,Tug 2,8343,Mauritian Exclusive Economic Zone
+3.0,Kei Sei 113,8343,Mauritian Exclusive Economic Zone
+4.0,St Gabriel,8343,Mauritian Exclusive Economic Zone
+5.0,Stella Maru,8343,Mauritian Exclusive Economic Zone
+6.0,Carp,8343,Mauritian Exclusive Economic Zone
+7.0,Silver Star,8343,Mauritian Exclusive Economic Zone
+8.0,Orient,8343,Mauritian Exclusive Economic Zone
+9.0,Hassen Mian,8343,Mauritian Exclusive Economic Zone
+10.0,Jabeda,8343,Mauritian Exclusive Economic Zone
+11.0,Amar,8343,Mauritian Exclusive Economic Zone
+12.0,Star Hope,8343,Mauritian Exclusive Economic Zone
+13.0,Hoi Siong,8343,Mauritian Exclusive Economic Zone
+14.0,G. B. Church MV,8493,Canadian Exclusive Economic Zone
+15.0,Chaudiere HMCS (DDE-235),8493,Canadian Exclusive Economic Zone
+16.0,Columbia HMCS (DDE-260),8493,Canadian Exclusive Economic Zone
+17.0,Saskatchewan HMCS (DDE-262),8493,Canadian Exclusive Economic Zone
+18.0,Cape Breton HMCS,8493,Canadian Exclusive Economic Zone
+19.0,Annapolis HMCS (DDH-265),8493,Canadian Exclusive Economic Zone
+20.0,Mackenzie HMCS (DDE-261),8493,Canadian Exclusive Economic Zone
+24.0,Fontao MFV,8396,South African Exclusive Economic Zone
+25.0,HMNZS Canterbury (F421),8455,New Zealand Exclusive Economic Zone
+26.0,HMNZS Tui,8455,New Zealand Exclusive Economic Zone
+27.0,Waikato HMNZS,8455,New Zealand Exclusive Economic Zone
+28.0,HMNZS Wellington,8455,New Zealand Exclusive Economic Zone
+29.0,Rainbow Warrior MV,8455,New Zealand Exclusive Economic Zone
+30.0,Khramto HTMS (L-732),8332,Thailand Exclusive Economic Zone
+31.0,USS Jubilant (AM-255),8429,Mexican Exclusive Economic Zone
+32.0,The Xihwu,8493,Canadian Exclusive Economic Zone
+33.0,NRP Oliveira E Carmo (F489),5688,Portuguese Exclusive Economic Zone
+34.0,NRP Zambeze (P1147),5688,Portuguese Exclusive Economic Zone
+35.0,Almeida Carvalho,5688,Portuguese Exclusive Economic Zone
+36.0,Hermenegildo Capelo,5688,Portuguese Exclusive Economic Zone
+37.0,Beyond,8456,United States Exclusive Economic Zone
+38.0,Peregrine,8456,United States Exclusive Economic Zone
+39.0,The Boat,8456,United States Exclusive Economic Zone
+40.0,Hancock Barge,8456,United States Exclusive Economic Zone
+41.0,Sam Berman MV,8456,United States Exclusive Economic Zone
+42.0,Cape Fear MFV (655734),8456,United States Exclusive Economic Zone
+43.0,Steel Barge No.335,8456,United States Exclusive Economic Zone
+44.0,Captain Sam MFV,8456,United States Exclusive Economic Zone
+45.0,Niagara Falls MFV,8456,United States Exclusive Economic Zone
+46.0,St. George MFV,8456,United States Exclusive Economic Zone
+47.0,Two Friends MFV,8456,United States Exclusive Economic Zone
+48.0,Ana Palmira MFV,8456,United States Exclusive Economic Zone
+49.0,Connie F.,8456,United States Exclusive Economic Zone
+50.0,Hancock,8456,United States Exclusive Economic Zone
+51.0,Mary N,8456,United States Exclusive Economic Zone
+52.0,Alec N,8456,United States Exclusive Economic Zone
+53.0,J. J.,8456,United States Exclusive Economic Zone
+54.0,Unnamed,8456,United States Exclusive Economic Zone
+55.0,Unnamed,8456,United States Exclusive Economic Zone
+56.0,Barge 1,8456,United States Exclusive Economic Zone
+57.0,Barge B,8456,United States Exclusive Economic Zone
+58.0,Barge 2,8456,United States Exclusive Economic Zone
+59.0,Boxcar Barge,8456,United States Exclusive Economic Zone
+60.0,Skimmer Barge,8456,United States Exclusive Economic Zone
+61.0,Elsie M.,8456,United States Exclusive Economic Zone
+62.0,Ole Faithful,8456,United States Exclusive Economic Zone
+63.0,Adeline,8456,United States Exclusive Economic Zone
+64.0,Captain Kevin,8456,United States Exclusive Economic Zone
+65.0,Unnamed,8456,United States Exclusive Economic Zone
+66.0,St. Elmo,8456,United States Exclusive Economic Zone
+67.0,Chevron,8456,United States Exclusive Economic Zone
+68.0,Ship Island C,8456,United States Exclusive Economic Zone
+69.0,Ship Island A,8456,United States Exclusive Economic Zone
+70.0,Gulf States,8456,United States Exclusive Economic Zone
+71.0,Unnamed,8456,United States Exclusive Economic Zone
+72.0,Unnamed,8456,United States Exclusive Economic Zone
+73.0,Hancock,8456,United States Exclusive Economic Zone
+74.0,Squash Channel B,8456,United States Exclusive Economic Zone
+75.0,Harrison County C,8456,United States Exclusive Economic Zone
+76.0,Leo,8456,United States Exclusive Economic Zone
+77.0,Jumbo,8456,United States Exclusive Economic Zone
+78.0,Unnamed,8456,United States Exclusive Economic Zone
+79.0,Grantee,8456,United States Exclusive Economic Zone
+80.0,Von Rosenburg,8456,United States Exclusive Economic Zone
+81.0,Ladnier,8456,United States Exclusive Economic Zone
+82.0,Cat Island,8456,United States Exclusive Economic Zone
+83.0,Unnamed,8456,United States Exclusive Economic Zone
+84.0,Unnamed,8456,United States Exclusive Economic Zone
+85.0,Frank Taylor,8456,United States Exclusive Economic Zone
+86.0,Matthews,8456,United States Exclusive Economic Zone
+87.0,Borries A,8456,United States Exclusive Economic Zone
+88.0,South Hampton,8456,United States Exclusive Economic Zone
+89.0,Gwen Tide,8456,United States Exclusive Economic Zone
+90.0,Kay Eckstein,8456,United States Exclusive Economic Zone
+91.0,Jo Curtis-Mary Landry,8456,United States Exclusive Economic Zone
+92.0,Gerald Corcoran,8456,United States Exclusive Economic Zone
+93.0,Tuan Phuong,8456,United States Exclusive Economic Zone
+94.0,St. John,8456,United States Exclusive Economic Zone
+95.0,Tiger Shark,8456,United States Exclusive Economic Zone
+96.0,Great Wicomico,8456,United States Exclusive Economic Zone
+97.0,Southern Star,8456,United States Exclusive Economic Zone
+98.0,Captain Le,8456,United States Exclusive Economic Zone
+99.0,Barataria Bay,8456,United States Exclusive Economic Zone
+100.0,Unnamed,8456,United States Exclusive Economic Zone
+101.0,My Wife II,8456,United States Exclusive Economic Zone
+102.0,Bandit,8456,United States Exclusive Economic Zone
+103.0,Raven,8456,United States Exclusive Economic Zone
+104.0,Unnamed,8456,United States Exclusive Economic Zone
+105.0,USACE,8456,United States Exclusive Economic Zone
+106.0,Unnamed,8456,United States Exclusive Economic Zone
+107.0,Unnamed,8456,United States Exclusive Economic Zone
+108.0,Unnamed,8456,United States Exclusive Economic Zone
+109.0,Bill Walker,8456,United States Exclusive Economic Zone
+110.0,AR-130 site,8456,United States Exclusive Economic Zone
+111.0,Firefighter (AR-370 site),8456,United States Exclusive Economic Zone
+112.0,AR-370 site,8456,United States Exclusive Economic Zone
+113.0,AR-370 site,8456,United States Exclusive Economic Zone
+114.0,Theodore Parker (AR-315 site),8456,United States Exclusive Economic Zone
+115.0,Alexander Ramsey (AR-370 site),8456,United States Exclusive Economic Zone
+116.0,Finest kind (AR-315 site),8456,United States Exclusive Economic Zone
+117.0,AR-370 site,8456,United States Exclusive Economic Zone
+118.0,Socony 8 (AR-370 site),8456,United States Exclusive Economic Zone
+119.0,Stone Brothers (AR-370 site),8456,United States Exclusive Economic Zone
+120.0,AR-378B site,8456,United States Exclusive Economic Zone
+121.0,AR-378B site,8456,United States Exclusive Economic Zone
+122.0,AR-378B site,8456,United States Exclusive Economic Zone
+123.0,R. R. Stone (AR-382 site),8456,United States Exclusive Economic Zone
+124.0,Pocahontas (AR-382 site),8456,United States Exclusive Economic Zone
+125.0,Novelty (AR-320 site),8456,United States Exclusive Economic Zone
+126.0,AR-145 site,8456,United States Exclusive Economic Zone
+127.0,HT-85 (AR-420 site),8456,United States Exclusive Economic Zone
+128.0,Mr. J.C.,8456,United States Exclusive Economic Zone
+129.0,Hyde (AR-386 site),8456,United States Exclusive Economic Zone
+130.0,AR-140 site,8456,United States Exclusive Economic Zone
+131.0,AR-140 site,8456,United States Exclusive Economic Zone
+132.0,AR-315 site,8456,United States Exclusive Economic Zone
+133.0,LCM 6 (AR-364 site),8456,United States Exclusive Economic Zone
+134.0,FS-26 (AR-300 site),8456,United States Exclusive Economic Zone
+135.0,Nancy Lee (AR-285 site),8456,United States Exclusive Economic Zone
+136.0,Yancey (AR-302 site),8456,United States Exclusive Economic Zone
+137.0,Jell II (AR-455 site),8456,United States Exclusive Economic Zone
+138.0,AR-230 site,8456,United States Exclusive Economic Zone
+139.0,AR-230 site,8456,United States Exclusive Economic Zone
+140.0,Captain Tom (AR-364 site),8456,United States Exclusive Economic Zone
+141.0,Miss Clara (AR-255 site),8456,United States Exclusive Economic Zone
+142.0,A.T. Piner (AR-440 site),8456,United States Exclusive Economic Zone
+143.0,Coopedge (AR-440 site),8456,United States Exclusive Economic Zone
+144.0,Advance II (AR-145 site),8456,United States Exclusive Economic Zone
+145.0,Captain Jerry (AR-364),8456,United States Exclusive Economic Zone
+146.0,LC-16 (AR-368 site),8456,United States Exclusive Economic Zone
+147.0,Markham (AR-386 site),8456,United States Exclusive Economic Zone
+148.0,Gulf Coast (AR-275 site),8456,United States Exclusive Economic Zone
+149.0,Mance Lassiter (AR-465 site),8456,United States Exclusive Economic Zone
+150.0,HT-290 (AR-364 site),8456,United States Exclusive Economic Zone
+151.0,Takos (AR-315 site),8456,United States Exclusive Economic Zone
+152.0,YC-794 Potter Barge (AR-420 site),8456,United States Exclusive Economic Zone
+153.0,Titan (AR-345 site),8456,United States Exclusive Economic Zone
+154.0,Admiral Charlie (AR-455 site),8456,United States Exclusive Economic Zone
+155.0,Pawtucket (AR-455 site),8456,United States Exclusive Economic Zone
+156.0,Capt. Greg Mickey (AR-400 site),8456,United States Exclusive Economic Zone
+157.0,Nepomuk (AR-330 site),8456,United States Exclusive Economic Zone
+158.0,OV10 Broncho (AR-315 site),8456,United States Exclusive Economic Zone
+159.0,A-4E Skyhawk (AR-315 site),8456,United States Exclusive Economic Zone
+160.0,C-130 (AR-330 site),8456,United States Exclusive Economic Zone
+161.0,C-130 (AR-330 site),8456,United States Exclusive Economic Zone
+162.0,USCG HU-25 Falcon 2101 (AR-145 site),8456,United States Exclusive Economic Zone
+163.0,USCG HU-25 Falcon 2101 (AR-145 site),8456,United States Exclusive Economic Zone
+164.0,AR-130 site,8456,United States Exclusive Economic Zone
+165.0,AR-130 site,8456,United States Exclusive Economic Zone
+166.0,AR-130 site,8456,United States Exclusive Economic Zone
+167.0,AR-140 site,8456,United States Exclusive Economic Zone
+168.0,Lookout (AR-298/OS-06 site),8456,United States Exclusive Economic Zone
+169.0,Longbay (AR-298/OS-06 site),8456,United States Exclusive Economic Zone
+170.0,AR-298/OS-06 site,8456,United States Exclusive Economic Zone
+171.0,AR-460 site,8456,United States Exclusive Economic Zone
+172.0,AR-460 site,8456,United States Exclusive Economic Zone
+173.0,AR-460 site,8456,United States Exclusive Economic Zone
+174.0,AR-460 site,8456,United States Exclusive Economic Zone
+175.0,AR-440 site,8456,United States Exclusive Economic Zone
+176.0,Alton Lennon (AR-386 site),8456,United States Exclusive Economic Zone
+177.0,AR-386 site,8456,United States Exclusive Economic Zone
+178.0,AR-378 site,8456,United States Exclusive Economic Zone
+179.0,AR-376 site,8456,United States Exclusive Economic Zone
+180.0,AR-372 site,8456,United States Exclusive Economic Zone
+181.0,AR-372 site,8456,United States Exclusive Economic Zone
+182.0,AR-372 site,8456,United States Exclusive Economic Zone
+183.0,AR-368 site,8456,United States Exclusive Economic Zone
+184.0,AR-366 site,8456,United States Exclusive Economic Zone
+185.0,AR-366 site,8456,United States Exclusive Economic Zone
+186.0,AR-362 site,8456,United States Exclusive Economic Zone
+187.0,AR-355 site,8456,United States Exclusive Economic Zone
+188.0,AR-345 site,8456,United States Exclusive Economic Zone
+189.0,AR-340 site,8456,United States Exclusive Economic Zone
+190.0,TBM IX (AR-330 site),8456,United States Exclusive Economic Zone
+191.0,Cement Lady (AR-330 site),8456,United States Exclusive Economic Zone
+192.0,Indra (AR-330 site),8456,United States Exclusive Economic Zone
+193.0,Hard Rock (AR-330 site),8456,United States Exclusive Economic Zone
+194.0,Tramp (AR-330 site),8456,United States Exclusive Economic Zone
+195.0,James J. Francesconi(AR-330 site),8456,United States Exclusive Economic Zone
+196.0,Zane Grey (AR-160 site),8456,United States Exclusive Economic Zone
+197.0,Dionysus,8456,United States Exclusive Economic Zone
+198.0,AR-225 site,8456,United States Exclusive Economic Zone
+199.0,Spar (AR-305 site),8456,United States Exclusive Economic Zone
+200.0,Aeolus (AR-305 site),8456,United States Exclusive Economic Zone
+201.0,Jim Caudle Reef,8456,United States Exclusive Economic Zone
+202.0,Jim Caudle Reef,8456,United States Exclusive Economic Zone
+203.0,Jim Caudle Reef,8456,United States Exclusive Economic Zone
+204.0,Jim Caudle Reef,8456,United States Exclusive Economic Zone
+205.0,Jim Caudle Reef,8456,United States Exclusive Economic Zone
+206.0,Jim Caudle Reef,8456,United States Exclusive Economic Zone
+207.0,Orion - Jim Caudle Reef,8456,United States Exclusive Economic Zone
+208.0,Jim Caudle Reef,8456,United States Exclusive Economic Zone
+209.0,Jim Caudle Reef,8456,United States Exclusive Economic Zone
+210.0,Jim Caudle Reef,8456,United States Exclusive Economic Zone
+211.0,Jim Caudle Reef,8456,United States Exclusive Economic Zone
+212.0,Jim Caudle Reef,8456,United States Exclusive Economic Zone
+213.0,Jim Caudle Reef,8456,United States Exclusive Economic Zone
+214.0,Jim Caudle Reef,8456,United States Exclusive Economic Zone
+215.0,Jim Caudle Reef,8456,United States Exclusive Economic Zone
+216.0,Jim Caudle Reef,8456,United States Exclusive Economic Zone
+217.0,Jim Caudle Reef,8456,United States Exclusive Economic Zone
+218.0,Jim Caudle Reef,8456,United States Exclusive Economic Zone
+219.0,Jim Caudle Reef,8456,United States Exclusive Economic Zone
+220.0,Jim Caudle Reef,8456,United States Exclusive Economic Zone
+221.0,Jim Caudle Reef,8456,United States Exclusive Economic Zone
+222.0,Jim Caudle Reef,8456,United States Exclusive Economic Zone
+223.0,Jim Caudle Reef,8456,United States Exclusive Economic Zone
+224.0,Jim Caudle Reef,8456,United States Exclusive Economic Zone
+225.0,Little River Offshore Reef,8456,United States Exclusive Economic Zone
+226.0,Little River Offshore Reef,8456,United States Exclusive Economic Zone
+227.0,Little River Offshore Reef,8456,United States Exclusive Economic Zone
+228.0,Little River Offshore Reef,8456,United States Exclusive Economic Zone
+229.0,Little River Offshore Reef,8456,United States Exclusive Economic Zone
+230.0,Little River Offshore Reef,8456,United States Exclusive Economic Zone
+231.0,Little River Offshore Reef,8456,United States Exclusive Economic Zone
+232.0,Little River Offshore Reef,8456,United States Exclusive Economic Zone
+233.0,Little River Offshore Reef,8456,United States Exclusive Economic Zone
+234.0,Little River Offshore Reef,8456,United States Exclusive Economic Zone
+235.0,Little River Offshore Reef,8456,United States Exclusive Economic Zone
+236.0,Barracuda Alley,8456,United States Exclusive Economic Zone
+237.0,Barracuda Alley,8456,United States Exclusive Economic Zone
+238.0,Barracuda Alley,8456,United States Exclusive Economic Zone
+239.0,Barracuda Alley,8456,United States Exclusive Economic Zone
+240.0,Barracuda Alley,8456,United States Exclusive Economic Zone
+241.0,Barracuda Alley,8456,United States Exclusive Economic Zone
+242.0,Barracuda Alley,8456,United States Exclusive Economic Zone
+243.0,Barracuda Alley,8456,United States Exclusive Economic Zone
+244.0,Barracuda Alley,8456,United States Exclusive Economic Zone
+245.0,Barracuda Alley,8456,United States Exclusive Economic Zone
+246.0,Barracuda Alley,8456,United States Exclusive Economic Zone
+247.0,Barracuda Alley,8456,United States Exclusive Economic Zone
+248.0,Barracuda Alley,8456,United States Exclusive Economic Zone
+249.0,Barracuda Alley,8456,United States Exclusive Economic Zone
+250.0,YO-225 - Will Goldfinch Reef,8456,United States Exclusive Economic Zone
+251.0,Will Goldfinch Reef,8456,United States Exclusive Economic Zone
+252.0,BP-25 Reef,8456,United States Exclusive Economic Zone
+253.0,Bill Perry Jr Reef,8456,United States Exclusive Economic Zone
+254.0,Bill Perry Jr Reef,8456,United States Exclusive Economic Zone
+255.0,Bill Perry Jr Reef,8456,United States Exclusive Economic Zone
+256.0,Bill Perry Jr Reef,8456,United States Exclusive Economic Zone
+257.0,Bill Perry Jr Reef,8456,United States Exclusive Economic Zone
+258.0,Bill Perry Jr Reef,8456,United States Exclusive Economic Zone
+259.0,Bill Perry Jr Reef,8456,United States Exclusive Economic Zone
+260.0,Bill Perry Jr Reef,8456,United States Exclusive Economic Zone
+261.0,Bill Perry Jr Reef,8456,United States Exclusive Economic Zone
+262.0,Bill Perry Jr Reef,8456,United States Exclusive Economic Zone
+263.0,Bill Perry Jr Reef,8456,United States Exclusive Economic Zone
+264.0,Bill Perry Jr Reef,8456,United States Exclusive Economic Zone
+265.0,Bill Perry Jr Reef,8456,United States Exclusive Economic Zone
+266.0,Bill Perry Jr Reef,8456,United States Exclusive Economic Zone
+267.0,Bill Perry Jr Reef,8456,United States Exclusive Economic Zone
+268.0,Bill Perry Jr Reef,8456,United States Exclusive Economic Zone
+269.0,Bill Perry Jr Reef,8456,United States Exclusive Economic Zone
+270.0,Bill Perry Jr Reef,8456,United States Exclusive Economic Zone
+271.0,Bill Perry Jr Reef,8456,United States Exclusive Economic Zone
+272.0,Paradise Reef,8456,United States Exclusive Economic Zone
+273.0,Paradise Reef,8456,United States Exclusive Economic Zone
+274.0,Bruce Rush Reef,8456,United States Exclusive Economic Zone
+275.0,Bruce Rush Reef,8456,United States Exclusive Economic Zone
+276.0,Ten Mile Reef,8456,United States Exclusive Economic Zone
+277.0,Eleven Mile Reef,8456,United States Exclusive Economic Zone
+278.0,Eleven Mile Reef,8456,United States Exclusive Economic Zone
+279.0,Eleven Mile Reef,8456,United States Exclusive Economic Zone
+280.0,Eleven Mile Reef,8456,United States Exclusive Economic Zone
+281.0,Eleven Mile Reef,8456,United States Exclusive Economic Zone
+282.0,Eleven Mile Reef,8456,United States Exclusive Economic Zone
+283.0,Eleven Mile Reef,8456,United States Exclusive Economic Zone
+284.0,Eleven Mile Reef,8456,United States Exclusive Economic Zone
+285.0,Pawley's Island Reef,8456,United States Exclusive Economic Zone
+286.0,Pawley's Island Reef,8456,United States Exclusive Economic Zone
+287.0,Pawley's Island Reef,8456,United States Exclusive Economic Zone
+288.0,Pawley's Island Reef,8456,United States Exclusive Economic Zone
+289.0,Pawley's Island Reef,8456,United States Exclusive Economic Zone
+290.0,Pawley's Island Reef,8456,United States Exclusive Economic Zone
+292.0,Pawley's Island Reef,8456,United States Exclusive Economic Zone
+293.0,Pawley's Island Reef,8456,United States Exclusive Economic Zone
+294.0,Pawley's Island Reef,8456,United States Exclusive Economic Zone
+295.0,Tommy Pierce Reef,8456,United States Exclusive Economic Zone
+296.0,Wayne Upchurch Reef,8456,United States Exclusive Economic Zone
+297.0,Wayne Upchurch Reef,8456,United States Exclusive Economic Zone
+298.0,Wayne Upchurch Reef,8456,United States Exclusive Economic Zone
+299.0,Wayne Upchurch Reef,8456,United States Exclusive Economic Zone
+300.0,Wayne Upchurch Reef,8456,United States Exclusive Economic Zone
+301.0,Wayne Upchurch Reef,8456,United States Exclusive Economic Zone
+302.0,Wayne Upchurch Reef,8456,United States Exclusive Economic Zone
+303.0,Georgetown Reef,8456,United States Exclusive Economic Zone
+304.0,Georgetown Reef,8456,United States Exclusive Economic Zone
+305.0,Georgetown Reef,8456,United States Exclusive Economic Zone
+306.0,Georgetown Reef,8456,United States Exclusive Economic Zone
+307.0,Georgetown  Nearshore Reef,8456,United States Exclusive Economic Zone
+308.0,Georgetown  Nearshore Reef,8456,United States Exclusive Economic Zone
+309.0,Georgetown  Nearshore Reef,8456,United States Exclusive Economic Zone
+310.0,Georgetown  Nearshore Reef,8456,United States Exclusive Economic Zone
+311.0,Georgetown  Nearshore Reef,8456,United States Exclusive Economic Zone
+312.0,Georgetown  Nearshore Reef,8456,United States Exclusive Economic Zone
+313.0,Georgetown  Nearshore Reef,8456,United States Exclusive Economic Zone
+314.0,Georgetown  Nearshore Reef,8456,United States Exclusive Economic Zone
+315.0,Georgetown  Nearshore Reef,8456,United States Exclusive Economic Zone
+316.0,Georgetown  Nearshore Reef,8456,United States Exclusive Economic Zone
+317.0,Capt. Sam Crayton reef,8456,United States Exclusive Economic Zone
+318.0,Capt. Sam Crayton reef,8456,United States Exclusive Economic Zone
+319.0,Pop DuBose's Place,8456,United States Exclusive Economic Zone
+320.0,C.J. Davidson Jr Reef,8456,United States Exclusive Economic Zone
+321.0,C.J. Davidson Jr Reef,8456,United States Exclusive Economic Zone
+322.0,Vermilion,8456,United States Exclusive Economic Zone
+323.0,Eagle - Greenville Reef,8456,United States Exclusive Economic Zone
+324.0,YSR-38 - Greenville Reef,8456,United States Exclusive Economic Zone
+325.0,YOG-78 - Greenville Reef,8456,United States Exclusive Economic Zone
+326.0,Greenville Reef,8456,United States Exclusive Economic Zone
+327.0,Greenville Reef,8456,United States Exclusive Economic Zone
+328.0,JoAnn - Greenville Reef,8456,United States Exclusive Economic Zone
+329.0,America - Ralph H Skelton Reef,8456,United States Exclusive Economic Zone
+330.0,Cape Romain Reef,8456,United States Exclusive Economic Zone
+331.0,Cape Romain Reef,8456,United States Exclusive Economic Zone
+332.0,Dolphin - Cape Romain Reef,8456,United States Exclusive Economic Zone
+333.0,Cape Romain Reef,8456,United States Exclusive Economic Zone
+334.0,Cape Romain Reef,8456,United States Exclusive Economic Zone
+335.0,Hector - Hector Reef,8456,United States Exclusive Economic Zone
+336.0,Hector Reef,8456,United States Exclusive Economic Zone
+337.0,Hector Reef,8456,United States Exclusive Economic Zone
+338.0,Hector Reef,8456,United States Exclusive Economic Zone
+339.0,Capers Reef,8456,United States Exclusive Economic Zone
+340.0,Capers Reef,8456,United States Exclusive Economic Zone
+341.0,Capers Reef,8456,United States Exclusive Economic Zone
+342.0,Capers Reef,8456,United States Exclusive Economic Zone
+343.0,Capers Reef,8456,United States Exclusive Economic Zone
+344.0,Capers Reef,8456,United States Exclusive Economic Zone
+345.0,Capers Reef,8456,United States Exclusive Economic Zone
+346.0,Capers Reef,8456,United States Exclusive Economic Zone
+347.0,Capers Reef,8456,United States Exclusive Economic Zone
+348.0,Capers Reef,8456,United States Exclusive Economic Zone
+349.0,Capers Reef,8456,United States Exclusive Economic Zone
+350.0,Capers Reef,8456,United States Exclusive Economic Zone
+351.0,Kimberly - Y-73 Reef,8456,United States Exclusive Economic Zone
+352.0,Tanda - Y-73 Reef,8456,United States Exclusive Economic Zone
+353.0,Helen - Y-73 Reef,8456,United States Exclusive Economic Zone
+354.0,Y-73 - Y-73 Reef,8456,United States Exclusive Economic Zone
+355.0,Charleston 60' Reef,8456,United States Exclusive Economic Zone
+356.0,Charleston 60' Reef,8456,United States Exclusive Economic Zone
+357.0,Charleston 60' Reef,8456,United States Exclusive Economic Zone
+358.0,Charleston 60' Reef,8456,United States Exclusive Economic Zone
+359.0,Charleston Nearshore Reef,8456,United States Exclusive Economic Zone
+360.0,Charleston Nearshore Reef,8456,United States Exclusive Economic Zone
+361.0,Charleston Nearshore Reef,8456,United States Exclusive Economic Zone
+362.0,Charleston Nearshore Reef,8456,United States Exclusive Economic Zone
+363.0,Charleston Coastal Anglers Reef,8456,United States Exclusive Economic Zone
+364.0,Anne Richards - Comanche Reef,8456,United States Exclusive Economic Zone
+365.0,Comanche - Comanche Reef,8456,United States Exclusive Economic Zone
+366.0,Nanami - Comanche Reef,8456,United States Exclusive Economic Zone
+367.0,Kiawah Reef,8456,United States Exclusive Economic Zone
+368.0,Kiawah Reef,8456,United States Exclusive Economic Zone
+369.0,Kiawah Reef,8456,United States Exclusive Economic Zone
+370.0,Kiawah Reef,8456,United States Exclusive Economic Zone
+371.0,Coppedge - Kiawah Reef,8456,United States Exclusive Economic Zone
+372.0,Kiawah Reef,8456,United States Exclusive Economic Zone
+373.0,Kiawah Reef,8456,United States Exclusive Economic Zone
+374.0,Kiawah Reef,8456,United States Exclusive Economic Zone
+375.0,Kiawah Reef,8456,United States Exclusive Economic Zone
+376.0,Kiawah Reef,8456,United States Exclusive Economic Zone
+377.0,Page - Edisto Reef,8456,United States Exclusive Economic Zone
+378.0,YDT-16 - Edisto Reef,8456,United States Exclusive Economic Zone
+379.0,Edisto Reef,8456,United States Exclusive Economic Zone
+380.0,Edisto Reef,8456,United States Exclusive Economic Zone
+381.0,Edisto Reef,8456,United States Exclusive Economic Zone
+382.0,Edisto Reef,8456,United States Exclusive Economic Zone
+383.0,Edisto Reef,8456,United States Exclusive Economic Zone
+384.0,Edisto Reef,8456,United States Exclusive Economic Zone
+385.0,Edisto Reef,8456,United States Exclusive Economic Zone
+386.0,Edisto Reef,8456,United States Exclusive Economic Zone
+387.0,CCA-Edisto reef,8456,United States Exclusive Economic Zone
+389.0,CCA-Edisto reef,8456,United States Exclusive Economic Zone
+390.0,CCA-Edisto reef,8456,United States Exclusive Economic Zone
+391.0,CCA-Edisto reef,8456,United States Exclusive Economic Zone
+392.0,CCA-Edisto reef,8456,United States Exclusive Economic Zone
+393.0,N. Edisto Nearshore reef,8456,United States Exclusive Economic Zone
+394.0,N. Edisto Nearshore reef,8456,United States Exclusive Economic Zone
+395.0,N. Edisto Nearshore reef,8456,United States Exclusive Economic Zone
+396.0,N. Edisto Nearshore reef,8456,United States Exclusive Economic Zone
+397.0,Capt. Morgan - CCA-McClellanville Reef,8456,United States Exclusive Economic Zone
+398.0,Duane Merrit - Jimmy Leland Reef,8456,United States Exclusive Economic Zone
+399.0,Researcher - Edisto Offshore Reef,8456,United States Exclusive Economic Zone
+400.0,Edisto Offshore Reef,8456,United States Exclusive Economic Zone
+401.0,Waban - Edisto Offshore Reef,8456,United States Exclusive Economic Zone
+402.0,Forgiven - Edisto Offshore Reef,8456,United States Exclusive Economic Zone
+403.0,Fripp Island Reef,8456,United States Exclusive Economic Zone
+404.0,Fripp Island Reef,8456,United States Exclusive Economic Zone
+405.0,Fripp Island Reef,8456,United States Exclusive Economic Zone
+406.0,Fripp Island Reef,8456,United States Exclusive Economic Zone
+407.0,Fripp Island Reef,8456,United States Exclusive Economic Zone
+408.0,Fripp Island Reef,8456,United States Exclusive Economic Zone
+409.0,Fripp Island Reef,8456,United States Exclusive Economic Zone
+410.0,Fripp Island Reef,8456,United States Exclusive Economic Zone
+411.0,Hunting Island Reef,8456,United States Exclusive Economic Zone
+412.0,Hunting Island Reef,8456,United States Exclusive Economic Zone
+413.0,Hunting Island Reef,8456,United States Exclusive Economic Zone
+414.0,Hunting Island Reef,8456,United States Exclusive Economic Zone
+415.0,Hunting Island Reef,8456,United States Exclusive Economic Zone
+416.0,Hunting Island Reef,8456,United States Exclusive Economic Zone
+417.0,Hunting Island Reef,8456,United States Exclusive Economic Zone
+418.0,Hunting Island Reef,8456,United States Exclusive Economic Zone
+419.0,Hunting Island Reef,8456,United States Exclusive Economic Zone
+420.0,Hunting Island Reef,8456,United States Exclusive Economic Zone
+421.0,General Gordon Reef,8456,United States Exclusive Economic Zone
+422.0,General Gordon - General Gordon Reef,8456,United States Exclusive Economic Zone
+423.0,Beaufort 45' Reef,8456,United States Exclusive Economic Zone
+424.0,Beaufort 45' Reef,8456,United States Exclusive Economic Zone
+425.0,Beaufort 45' Reef,8456,United States Exclusive Economic Zone
+426.0,Beaufort 45' Reef,8456,United States Exclusive Economic Zone
+427.0,Beaufort 45' Reef,8456,United States Exclusive Economic Zone
+428.0,Beaufort 45' Reef,8456,United States Exclusive Economic Zone
+429.0,Beaufort 45' Reef,8456,United States Exclusive Economic Zone
+430.0,Beaufort 45' Reef,8456,United States Exclusive Economic Zone
+431.0,Beaufort 45' Reef,8456,United States Exclusive Economic Zone
+432.0,Beaufort 45' Reef,8456,United States Exclusive Economic Zone
+433.0,Beaufort 45' Reef,8456,United States Exclusive Economic Zone
+434.0,Beaufort 45' Reef,8456,United States Exclusive Economic Zone
+435.0,Beaufort 45' Reef,8456,United States Exclusive Economic Zone
+436.0,Betsy Ross - Betsy Ross Reef,8456,United States Exclusive Economic Zone
+437.0,YO-224 - Betsy Ross Reef,8456,United States Exclusive Economic Zone
+438.0,Betsy Ross Reef,8456,United States Exclusive Economic Zone
+439.0,Betsy Ross Reef,8456,United States Exclusive Economic Zone
+440.0,Betsy Ross Reef,8456,United States Exclusive Economic Zone
+441.0,Betsy Ross Reef,8456,United States Exclusive Economic Zone
+442.0,Betsy Ross Reef,8456,United States Exclusive Economic Zone
+443.0,Betsy Ross Reef,8456,United States Exclusive Economic Zone
+444.0,Betsy Ross Reef,8456,United States Exclusive Economic Zone
+445.0,White Water Reef,8456,United States Exclusive Economic Zone
+446.0,White Water Reef,8456,United States Exclusive Economic Zone
+447.0,White Water Reef,8456,United States Exclusive Economic Zone
+448.0,White Water Reef,8456,United States Exclusive Economic Zone
+449.0,Eagle's Nest Reef,8456,United States Exclusive Economic Zone
+450.0,Eagle's Nest Reef,8456,United States Exclusive Economic Zone
+451.0,Eagle's Nest Reef,8456,United States Exclusive Economic Zone
+452.0,Eagle's Nest Reef,8456,United States Exclusive Economic Zone
+453.0,Eagle's Nest Reef,8456,United States Exclusive Economic Zone
+454.0,Eagle's Nest Reef,8456,United States Exclusive Economic Zone
+455.0,Eagle's Nest Reef,8456,United States Exclusive Economic Zone
+456.0,Eagle's Nest Reef,8456,United States Exclusive Economic Zone
+457.0,Eagle's Nest Reef,8456,United States Exclusive Economic Zone
+458.0,Eagle's Nest Reef,8456,United States Exclusive Economic Zone
+459.0,Eagle's Nest Reef,8456,United States Exclusive Economic Zone
+460.0,Eagle's Nest Reef,8456,United States Exclusive Economic Zone
+461.0,Eagle's Nest Reef,8456,United States Exclusive Economic Zone
+462.0,Eagle's Nest Reef,8456,United States Exclusive Economic Zone
+463.0,Eagle's Nest Reef,8456,United States Exclusive Economic Zone
+464.0,Hilton Head Reef,8456,United States Exclusive Economic Zone
+465.0,Hilton Head Reef,8456,United States Exclusive Economic Zone
+466.0,Hilton Head Reef,8456,United States Exclusive Economic Zone
+467.0,Hilton Head Reef,8456,United States Exclusive Economic Zone
+468.0,Hilton Head Reef,8456,United States Exclusive Economic Zone
+469.0,Hilton Head Reef,8456,United States Exclusive Economic Zone
+470.0,Hilton Head Reef,8456,United States Exclusive Economic Zone
+471.0,Hilton Head Reef,8456,United States Exclusive Economic Zone
+472.0,Hilton Head Reef,8456,United States Exclusive Economic Zone
+473.0,Hilton Head Reef,8456,United States Exclusive Economic Zone
+474.0,Hilton Head Reef,8456,United States Exclusive Economic Zone
+475.0,BP-25 Reef,8456,United States Exclusive Economic Zone
+476.0,BP-25 Reef,8456,United States Exclusive Economic Zone
+477.0,BP-25 Reef,8456,United States Exclusive Economic Zone
+478.0,BP-25 Reef,8456,United States Exclusive Economic Zone
+479.0,BP-25 Reef,8456,United States Exclusive Economic Zone
+480.0,BP-25 Reef,8456,United States Exclusive Economic Zone
+481.0,Eleven Mile Reef,8456,United States Exclusive Economic Zone
+482.0,Vermilion Reef,8456,United States Exclusive Economic Zone
+483.0,Vermilion Reef,8456,United States Exclusive Economic Zone
+484.0,Vermilion Reef,8456,United States Exclusive Economic Zone
+485.0,Vermilion Reef,8456,United States Exclusive Economic Zone
+486.0,Vermilion Reef,8456,United States Exclusive Economic Zone
+487.0,Vermilion Reef,8456,United States Exclusive Economic Zone
+488.0,Vermilion Reef,8456,United States Exclusive Economic Zone
+489.0,Vermilion Reef,8456,United States Exclusive Economic Zone
+490.0,Doug Mellichamp Jr Reef,8456,United States Exclusive Economic Zone
+491.0,Doug Mellichamp Jr Reef,8456,United States Exclusive Economic Zone
+492.0,Doug Mellichamp Jr Reef,8456,United States Exclusive Economic Zone
+493.0,Doug Mellichamp Jr Reef,8456,United States Exclusive Economic Zone
+494.0,Betsy Ross Reef,8456,United States Exclusive Economic Zone
+495.0,Betsy Ross Reef,8456,United States Exclusive Economic Zone
+496.0,Betsy Ross Reef,8456,United States Exclusive Economic Zone
+497.0,Betsy Ross Reef,8456,United States Exclusive Economic Zone
+498.0,Betsy Ross Reef,8456,United States Exclusive Economic Zone
+499.0,Betsy Ross Reef,8456,United States Exclusive Economic Zone
+500.0,White Water Reef,8456,United States Exclusive Economic Zone
+501.0,White Water Reef,8456,United States Exclusive Economic Zone
+502.0,Eagle's Nest Reef,8456,United States Exclusive Economic Zone
+503.0,Eagle's Nest Reef,8456,United States Exclusive Economic Zone
+504.0,Eagle's Nest Reef,8456,United States Exclusive Economic Zone
+505.0,Hilton Head Reef,8456,United States Exclusive Economic Zone
+506.0,Hilton Head Reef,8456,United States Exclusive Economic Zone
+507.0,Hilton Head Reef,8456,United States Exclusive Economic Zone
+508.0,Grand Strand Saltwater Anglers Reef,8456,United States Exclusive Economic Zone
+509.0,Grand Strand Saltwater Anglers Reef,8456,United States Exclusive Economic Zone
+510.0,Grand Strand Saltwater Anglers Reef,8456,United States Exclusive Economic Zone
+511.0,Grand Strand Saltwater Anglers Reef,8456,United States Exclusive Economic Zone
+512.0,Grand Strand Saltwater Anglers Reef,8456,United States Exclusive Economic Zone
+513.0,Grand Strand Saltwater Anglers Reef,8456,United States Exclusive Economic Zone
+514.0,Parris Island Reef,8456,United States Exclusive Economic Zone
+515.0,Parris Island Reef,8456,United States Exclusive Economic Zone
+516.0,Parris Island Reef,8456,United States Exclusive Economic Zone
+517.0,Keegan,8456,United States Exclusive Economic Zone
+519.0,Coleman Barge II,8456,United States Exclusive Economic Zone
+520.0,Sea Girt Reef,8456,United States Exclusive Economic Zone
+521.0,Sea Girt Reef,8456,United States Exclusive Economic Zone
+522.0,Carlson II,8456,United States Exclusive Economic Zone
+523.0,Cranford,8456,United States Exclusive Economic Zone
+524.0,Spartan,8456,United States Exclusive Economic Zone
+525.0,Rockland county,8456,United States Exclusive Economic Zone
+526.0,Kiley B.,8456,United States Exclusive Economic Zone
+527.0,Swenson I,8456,United States Exclusive Economic Zone
+528.0,Swenson II,8456,United States Exclusive Economic Zone
+529.0,Car Float #52,8456,United States Exclusive Economic Zone
+530.0,Morania,8456,United States Exclusive Economic Zone
+531.0,Dykes,8456,United States Exclusive Economic Zone
+532.0,Horseshoe Wrecks,8456,United States Exclusive Economic Zone
+533.0,Cinderella,8456,United States Exclusive Economic Zone
+534.0,Sea Girt Reef,8456,United States Exclusive Economic Zone
+535.0,Keneth Truesdale Reef,8456,United States Exclusive Economic Zone
+536.0,Capt. Etzel,8456,United States Exclusive Economic Zone
+537.0,FCO Reef,8456,United States Exclusive Economic Zone
+538.0,Ocean Wreck Divers II,8456,United States Exclusive Economic Zone
+539.0,G. A. Venturo,8456,United States Exclusive Economic Zone
+540.0,The Fisherman Reef,8456,United States Exclusive Economic Zone
+541.0,Restorer,8456,United States Exclusive Economic Zone
+542.0,Golden Eagle,8456,United States Exclusive Economic Zone
+543.0,Ocean Wreck Divers IV,8456,United States Exclusive Economic Zone
+544.0,Clifford Lipke Reef,8456,United States Exclusive Economic Zone
+545.0,DVD Banana Barge,8456,United States Exclusive Economic Zone
+546.0,Travis Stephen,8456,United States Exclusive Economic Zone
+547.0,Wedding Barge,8456,United States Exclusive Economic Zone
+548.0,Trevor Dixon Memorial Shipwreck,8456,United States Exclusive Economic Zone
+549.0,Ed Bogart Memorial Reef,8456,United States Exclusive Economic Zone
+550.0,Coney Island,8456,United States Exclusive Economic Zone
+551.0,Alan Martin,8456,United States Exclusive Economic Zone
+552.0,Sam Berman,8456,United States Exclusive Economic Zone
+553.0,USS Algol,8456,United States Exclusive Economic Zone
+554.0,Billy D,8456,United States Exclusive Economic Zone
+555.0,Mako Mania Wreck,8456,United States Exclusive Economic Zone
+556.0,Capt. Bart,8456,United States Exclusive Economic Zone
+557.0,HRFA-NJ,8456,United States Exclusive Economic Zone
+558.0,Jack?s Spot,8456,United States Exclusive Economic Zone
+559.0,Caputi?s Train Wreck,8456,United States Exclusive Economic Zone
+560.0,Muir?s Submarine Express,8456,United States Exclusive Economic Zone
+561.0,Colleen GPPCBA/Budweiser Reef,8456,United States Exclusive Economic Zone
+562.0,Capt. Ed Schmidiger,8456,United States Exclusive Economic Zone
+563.0,Ocean Wreck Divers III,8456,United States Exclusive Economic Zone
+564.0,Joseph M. Doherty Reef,8456,United States Exclusive Economic Zone
+565.0,Manasquan Fishing Club Reef,8456,United States Exclusive Economic Zone
+566.0,The Explorer,8456,United States Exclusive Economic Zone
+567.0,Wasabi Reef,8456,United States Exclusive Economic Zone
+568.0,McGurr?s Tug,8456,United States Exclusive Economic Zone
+569.0,Joan LaRie III,8456,United States Exclusive Economic Zone
+570.0,Jim Lynch,8456,United States Exclusive Economic Zone
+571.0,Barbara Ann,8456,United States Exclusive Economic Zone
+572.0,Patrick S. Murphy,8456,United States Exclusive Economic Zone
+573.0,Veronica M.,8456,United States Exclusive Economic Zone
+574.0,MRMTC Members Memorial Reef,8456,United States Exclusive Economic Zone
+575.0,Four of Clubs,8456,United States Exclusive Economic Zone
+576.0,Lucy 7,8456,United States Exclusive Economic Zone
+577.0,MRMTC #8,8456,United States Exclusive Economic Zone
+578.0,MRMTC #9,8456,United States Exclusive Economic Zone
+579.0,Angelo?s Reef,8456,United States Exclusive Economic Zone
+580.0,MRMTC #10,8456,United States Exclusive Economic Zone
+581.0,Gus Grafas Memorial Reef,8456,United States Exclusive Economic Zone
+582.0,No. 9,8456,United States Exclusive Economic Zone
+583.0,PSI,8456,United States Exclusive Economic Zone
+584.0,Antares,8456,United States Exclusive Economic Zone
+585.0,Hank A. Dukes Reef,8456,United States Exclusive Economic Zone
+586.0,"LTC Joseph P. Callahan, Sr.",8456,United States Exclusive Economic Zone
+587.0,Col. Samuel R. Probasco III,8456,United States Exclusive Economic Zone
+588.0,Gilbert Reef,8456,United States Exclusive Economic Zone
+589.0,Harry White Reef,8456,United States Exclusive Economic Zone
+590.0,VHFC II,8456,United States Exclusive Economic Zone
+591.0,Barnegat Fishin' Hole #2,8456,United States Exclusive Economic Zone
+592.0,FRTC Reef,8456,United States Exclusive Economic Zone
+593.0,Tracy's Treasure,8456,United States Exclusive Economic Zone
+594.0,Willian Berndt Memorial Reef,8456,United States Exclusive Economic Zone
+595.0,Barnegat Fishin' Hole #3,8456,United States Exclusive Economic Zone
+596.0,"Joseph A. Matuska ""Never Enough""",8456,United States Exclusive Economic Zone
+597.0,In Memory of Fish Hawks Saltwater Anglers Reef,8456,United States Exclusive Economic Zone
+598.0,Charles B. Durborow Reef,8456,United States Exclusive Economic Zone
+599.0,Tuna Sub,8456,United States Exclusive Economic Zone
+600.0,Joe Houston Reef,8456,United States Exclusive Economic Zone
+601.0,Johnny Mesday Reef,8456,United States Exclusive Economic Zone
+602.0,Shirley Ann,8456,United States Exclusive Economic Zone
+603.0,A. H. Dumont,8456,United States Exclusive Economic Zone
+604.0,Aqua II,8456,United States Exclusive Economic Zone
+605.0,Molasses,8456,United States Exclusive Economic Zone
+606.0,Fatuk,8456,United States Exclusive Economic Zone
+607.0,Mary C.,8456,United States Exclusive Economic Zone
+608.0,Choctaw,8456,United States Exclusive Economic Zone
+609.0,Coleman II,8456,United States Exclusive Economic Zone
+610.0,Vincent Paul Pessolano,8456,United States Exclusive Economic Zone
+611.0,Weeks 218,8456,United States Exclusive Economic Zone
+612.0,Bear's Reef,8456,United States Exclusive Economic Zone
+613.0,Penn Reels Reef,8456,United States Exclusive Economic Zone
+614.0,John Dobilas,8456,United States Exclusive Economic Zone
+615.0,Jerry,8456,United States Exclusive Economic Zone
+616.0,Red Bird Reef,8456,United States Exclusive Economic Zone
+617.0,Redbird Reef,8456,United States Exclusive Economic Zone
+618.0,Barnegat Fishin' Hole Reef,8456,United States Exclusive Economic Zone
+619.0,Redbird Reef,8456,United States Exclusive Economic Zone
+620.0,Redbird Reef,8456,United States Exclusive Economic Zone
+621.0,JCAA Redbird Reef,8456,United States Exclusive Economic Zone
+622.0,Helis,8456,United States Exclusive Economic Zone
+623.0,The Rhino,8456,United States Exclusive Economic Zone
+624.0,Miller,8456,United States Exclusive Economic Zone
+625.0,Starcraft,8456,United States Exclusive Economic Zone
+626.0,Holgate 1,8456,United States Exclusive Economic Zone
+627.0,VHFC,8456,United States Exclusive Economic Zone
+628.0,Ocean Wreck Divers I,8456,United States Exclusive Economic Zone
+629.0,BHMTC,8456,United States Exclusive Economic Zone
+630.0,BHMTC V,8456,United States Exclusive Economic Zone
+631.0,BHMTC VI,8456,United States Exclusive Economic Zone
+632.0,Whittle Wet Wabbit Weef,8456,United States Exclusive Economic Zone
+633.0,Ed Hall,8456,United States Exclusive Economic Zone
+634.0,Absecon Saltwater Sportsmen Memorial Reef,8456,United States Exclusive Economic Zone
+635.0,Marin's Reef,8456,United States Exclusive Economic Zone
+636.0,BHMTC Tank II,8456,United States Exclusive Economic Zone
+637.0,Kochka's Reef,8456,United States Exclusive Economic Zone
+638.0,J. Drew Messler Reef,8456,United States Exclusive Economic Zone
+639.0,J. Drew Messler Reef,8456,United States Exclusive Economic Zone
+640.0,Jessie C,8456,United States Exclusive Economic Zone
+641.0,BHMTC Tank III,8456,United States Exclusive Economic Zone
+642.0,5 bitts,8456,United States Exclusive Economic Zone
+643.0,Marc R. Stroud Memorial Reef,8456,United States Exclusive Economic Zone
+644.0,BHMTC Tank IV,8456,United States Exclusive Economic Zone
+645.0,Waldorf,8456,United States Exclusive Economic Zone
+646.0,Southwick's Wreck,8456,United States Exclusive Economic Zone
+647.0,Pauline Marie,8456,United States Exclusive Economic Zone
+648.0,The American,8456,United States Exclusive Economic Zone
+649.0,First Lady,8456,United States Exclusive Economic Zone
+650.0,Morania Abaco,8456,United States Exclusive Economic Zone
+651.0,Francis S. Bushy,8456,United States Exclusive Economic Zone
+652.0,Nils S.,8456,United States Exclusive Economic Zone
+653.0,A. C. Wescoat,8456,United States Exclusive Economic Zone
+654.0,Vicki-Pat,8456,United States Exclusive Economic Zone
+655.0,Troy,8456,United States Exclusive Economic Zone
+656.0,Point Pub,8456,United States Exclusive Economic Zone
+657.0,Margaret Nancy,8456,United States Exclusive Economic Zone
+658.0,Ada Adelia,8456,United States Exclusive Economic Zone
+659.0,Beach Haven,8456,United States Exclusive Economic Zone
+660.0,Boston,8456,United States Exclusive Economic Zone
+661.0,Blue Crown,8456,United States Exclusive Economic Zone
+662.0,Big Mama,8456,United States Exclusive Economic Zone
+663.0,JR's Tank,8456,United States Exclusive Economic Zone
+664.0,N. J. State Aquarium,8456,United States Exclusive Economic Zone
+665.0,Phil Weintraub Memorial,8456,United States Exclusive Economic Zone
+666.0,Joseph J. Palladino Reef,8456,United States Exclusive Economic Zone
+667.0,RFA Redbird Reef,8456,United States Exclusive Economic Zone
+668.0,Redbird Reef,8456,United States Exclusive Economic Zone
+669.0,Redbird Reef,8456,United States Exclusive Economic Zone
+670.0,Redbird Reef,8456,United States Exclusive Economic Zone
+671.0,Redbird Reef,8456,United States Exclusive Economic Zone
+672.0,Captain Applegate,8456,United States Exclusive Economic Zone
+674.0,Stainless Steel Subway,8456,United States Exclusive Economic Zone
+675.0,Stainless Steel Subway,8456,United States Exclusive Economic Zone
+676.0,1000 Fathom Reef,8456,United States Exclusive Economic Zone
+677.0,OCMTC I,8456,United States Exclusive Economic Zone
+678.0,OCMTC II,8456,United States Exclusive Economic Zone
+679.0,OCMTC III,8456,United States Exclusive Economic Zone
+680.0,OCMTC IV,8456,United States Exclusive Economic Zone
+681.0,OCMTC V,8456,United States Exclusive Economic Zone
+682.0,Jersey Fresh I,8456,United States Exclusive Economic Zone
+683.0,Atlantic County Sportsmen's Reef,8456,United States Exclusive Economic Zone
+684.0,Bud Evans Reef,8456,United States Exclusive Economic Zone
+685.0,Rothenbach Reef II,8456,United States Exclusive Economic Zone
+686.0,Kathy,8456,United States Exclusive Economic Zone
+687.0,Maria,8456,United States Exclusive Economic Zone
+688.0,Nash's Reef,8456,United States Exclusive Economic Zone
+689.0,Libra,8456,United States Exclusive Economic Zone
+690.0,Klus Mermaid Reef,8456,United States Exclusive Economic Zone
+691.0,Joseph J. Palladino Redhook,8456,United States Exclusive Economic Zone
+692.0,Fred Eckardt Reef,8456,United States Exclusive Economic Zone
+693.0,Shamrock Towing Reef,8456,United States Exclusive Economic Zone
+694.0,AC Westcoat Reef,8456,United States Exclusive Economic Zone
+695.0,Smoot Reef,8456,United States Exclusive Economic Zone
+696.0,Bay Jack,8456,United States Exclusive Economic Zone
+697.0,Donna's Star,8456,United States Exclusive Economic Zone
+698.0,Margie Starns,8456,United States Exclusive Economic Zone
+699.0,TI Fluke 06,8456,United States Exclusive Economic Zone
+700.0,TI Fluke 07,8456,United States Exclusive Economic Zone
+701.0,thebassbarn.com,8456,United States Exclusive Economic Zone
+702.0,Capt. Walt Hendee,8456,United States Exclusive Economic Zone
+703.0,Redbird Reef I,8456,United States Exclusive Economic Zone
+704.0,Redbird Reef VII,8456,United States Exclusive Economic Zone
+705.0,Redbird Reef VIII,8456,United States Exclusive Economic Zone
+706.0,Redbird Reef IX,8456,United States Exclusive Economic Zone
+707.0,Redbird Reef X,8456,United States Exclusive Economic Zone
+708.0,Ann E. Clark,8456,United States Exclusive Economic Zone
+709.0,The Diver's Abyss,8456,United States Exclusive Economic Zone
+710.0,Reinhart's Reef,8456,United States Exclusive Economic Zone
+711.0,"Philip A. Cameron, Jr. Reef",8456,United States Exclusive Economic Zone
+712.0,Michael De Palma I,8456,United States Exclusive Economic Zone
+713.0,Michael De Palma II,8456,United States Exclusive Economic Zone
+714.0,Capt. Ray Vandergrift Wreck,8456,United States Exclusive Economic Zone
+715.0,Fallen Friends Wreck,8456,United States Exclusive Economic Zone
+716.0,The Bass Barn-Maelstrom,8456,United States Exclusive Economic Zone
+717.0,Pair of Kings,8456,United States Exclusive Economic Zone
+718.0,Laita,8456,United States Exclusive Economic Zone
+719.0,Peggy Diana,8456,United States Exclusive Economic Zone
+720.0,Winthrop,8456,United States Exclusive Economic Zone
+721.0,Captain Henry,8456,United States Exclusive Economic Zone
+722.0,Lisa Michelle,8456,United States Exclusive Economic Zone
+723.0,Becky Lee,8456,United States Exclusive Economic Zone
+724.0,Wyoming,8456,United States Exclusive Economic Zone
+725.0,Sea Transporter,8456,United States Exclusive Economic Zone
+726.0,Salt Barge,8456,United States Exclusive Economic Zone
+727.0,Onandaga,8456,United States Exclusive Economic Zone
+728.0,Celia Brown,8456,United States Exclusive Economic Zone
+729.0,Cape Strait,8456,United States Exclusive Economic Zone
+730.0,Rothenbach Reef I,8456,United States Exclusive Economic Zone
+731.0,George B. Shuda Reef,8456,United States Exclusive Economic Zone
+732.0,Roy C. Titus Memorial Reef 2,8456,United States Exclusive Economic Zone
+733.0,Red Oak,8456,United States Exclusive Economic Zone
+734.0,Point Swift,8456,United States Exclusive Economic Zone
+735.0,Dr. Tom's Reef,8456,United States Exclusive Economic Zone
+736.0,Redbird Reef I,8456,United States Exclusive Economic Zone
+737.0,Redbird Reef II,8456,United States Exclusive Economic Zone
+738.0,Redbird Reef III,8456,United States Exclusive Economic Zone
+739.0,Redbird Reef IV,8456,United States Exclusive Economic Zone
+740.0,Redbird Reef V,8456,United States Exclusive Economic Zone
+741.0,Allan R.,8456,United States Exclusive Economic Zone
+742.0,Guido's Tug,8456,United States Exclusive Economic Zone
+743.0,Elizabeth,8456,United States Exclusive Economic Zone
+744.0,Miss Beth (Cape May Reef),8456,United States Exclusive Economic Zone
+745.0,Stainless Steel Subway,8456,United States Exclusive Economic Zone
+746.0,Stainless Steel Subway,8456,United States Exclusive Economic Zone
+747.0,Stainless Steel Subway,8456,United States Exclusive Economic Zone
+748.0,Stainless Steel Subway,8456,United States Exclusive Economic Zone
+749.0,Stainless Steel Subway,8456,United States Exclusive Economic Zone
+750.0,Stainless Steel Subway,8456,United States Exclusive Economic Zone
+751.0,Mahi MV,8453,United States Exclusive Economic Zone (Hawaii)
+752.0,Navy Barge,8453,United States Exclusive Economic Zone (Hawaii)
+753.0,Ke?ehi Barge,8453,United States Exclusive Economic Zone (Hawaii)
+754.0,Mud Skow Barge,8453,United States Exclusive Economic Zone (Hawaii)
+756.0,Navy LCU,8453,United States Exclusive Economic Zone (Hawaii)
+757.0,Shallow LCU,8453,United States Exclusive Economic Zone (Hawaii)
+758.0,Deep LCU,8453,United States Exclusive Economic Zone (Hawaii)
+759.0,Vancouver,8456,United States Exclusive Economic Zone
+760.0,Rachel Jackson SS (bow),8456,United States Exclusive Economic Zone
+761.0,Edward W. Scripps SS,8456,United States Exclusive Economic Zone
+762.0,George L. Farley SS,8456,United States Exclusive Economic Zone
+763.0,Joshua Thomas SS,8456,United States Exclusive Economic Zone
+764.0,Charles A. Dana SS,8456,United States Exclusive Economic Zone
+765.0,Conrad Weiser SS,8456,United States Exclusive Economic Zone
+766.0,Dwight L. Moody SS,8456,United States Exclusive Economic Zone
+767.0,George Dewey SS,8456,United States Exclusive Economic Zone
+768.0,Jim Bridger SS,8456,United States Exclusive Economic Zone
+769.0,William H. Allen SS,8456,United States Exclusive Economic Zone
+770.0,B. F. Shaw,8456,United States Exclusive Economic Zone
+771.0,Site 11,8456,United States Exclusive Economic Zone
+772.0,"NA",8456,United States Exclusive Economic Zone
+773.0,"NA",8456,United States Exclusive Economic Zone
+774.0,"NA",8456,United States Exclusive Economic Zone
+775.0,"NA",8456,United States Exclusive Economic Zone
+776.0,"NA",8456,United States Exclusive Economic Zone
+777.0,"NA",8456,United States Exclusive Economic Zone
+778.0,P3,8456,United States Exclusive Economic Zone
+779.0,Dolphin,8456,United States Exclusive Economic Zone
+780.0,Margie Ann,8456,United States Exclusive Economic Zone
+781.0,Yon 80,8456,United States Exclusive Economic Zone
+782.0,Margaret,8456,United States Exclusive Economic Zone
+783.0,William C. Snow,8456,United States Exclusive Economic Zone
+784.0,Fels Points,8456,United States Exclusive Economic Zone
+785.0,Cittie Point,8456,United States Exclusive Economic Zone
+786.0,Golden Eagle,8456,United States Exclusive Economic Zone
+787.0,Delilah,8456,United States Exclusive Economic Zone
+788.0,YC 1479,8456,United States Exclusive Economic Zone
+789.0,Buchannon,8456,United States Exclusive Economic Zone
+790.0,Gregory Poole,8456,United States Exclusive Economic Zone
+791.0,Mr.G,8456,United States Exclusive Economic Zone
+792.0,Rusty Pusher,8456,United States Exclusive Economic Zone
+793.0,Bay Tide,8456,United States Exclusive Economic Zone
+794.0,Crazy Horse,8456,United States Exclusive Economic Zone
+795.0,YC-725a,8456,United States Exclusive Economic Zone
+796.0,Frieda Marie,8456,United States Exclusive Economic Zone
+797.0,Sandy Point,8456,United States Exclusive Economic Zone
+798.0,Unnamed,8456,United States Exclusive Economic Zone
+799.0,Atlantic Mist,8456,United States Exclusive Economic Zone
+800.0,Del-Jersey-Land Inshore Site,8456,United States Exclusive Economic Zone
+801.0,Del-Jersey-Land Inshore Site,8456,United States Exclusive Economic Zone
+802.0,Del-Jersey-Land Inshore Site,8456,United States Exclusive Economic Zone
+803.0,Del-Jersey-Land Inshore Site,8456,United States Exclusive Economic Zone
+804.0,Del-Jersey-Land Inshore Site,8456,United States Exclusive Economic Zone
+805.0,Del-Jersey-Land Inshore Site,8456,United States Exclusive Economic Zone
+806.0,Del-Jersey-Land Inshore Site,8456,United States Exclusive Economic Zone
+807.0,Redondo Beach B,8456,United States Exclusive Economic Zone
+808.0,El Ray,8456,United States Exclusive Economic Zone
+809.0,Ruby E,8456,United States Exclusive Economic Zone
+810.0,Palawan USS (ARG-10),8456,United States Exclusive Economic Zone
+811.0,Tank 38,8456,United States Exclusive Economic Zone
+812.0,Tank 39,8456,United States Exclusive Economic Zone
+813.0,Tank 40,8456,United States Exclusive Economic Zone
+814.0,Tank 41,8456,United States Exclusive Economic Zone
+815.0,Tank 42,8456,United States Exclusive Economic Zone
+816.0,Tank 43,8456,United States Exclusive Economic Zone
+817.0,Tank 44,8456,United States Exclusive Economic Zone
+818.0,Tank 45,8456,United States Exclusive Economic Zone
+819.0,Tank 46,8456,United States Exclusive Economic Zone
+820.0,Tank 47,8456,United States Exclusive Economic Zone
+821.0,Tank 48,8456,United States Exclusive Economic Zone
+822.0,Tank 49,8456,United States Exclusive Economic Zone
+823.0,Tank 50,8456,United States Exclusive Economic Zone
+824.0,Tank 51,8456,United States Exclusive Economic Zone
+825.0,Tank 52,8456,United States Exclusive Economic Zone
+826.0,Tank 53,8456,United States Exclusive Economic Zone
+827.0,Tank 54,8456,United States Exclusive Economic Zone
+828.0,Tank 55,8456,United States Exclusive Economic Zone
+829.0,Tank 56,8456,United States Exclusive Economic Zone
+830.0,Tank 57,8456,United States Exclusive Economic Zone
+831.0,Tank 58,8456,United States Exclusive Economic Zone
+832.0,Tank 59,8456,United States Exclusive Economic Zone
+833.0,Tank 60,8456,United States Exclusive Economic Zone
+834.0,Tank 61,8456,United States Exclusive Economic Zone
+835.0,Tank 62,8456,United States Exclusive Economic Zone
+836.0,Tank 63,8456,United States Exclusive Economic Zone
+837.0,Tank 64,8456,United States Exclusive Economic Zone
+838.0,Tank 65,8456,United States Exclusive Economic Zone
+839.0,Tank 66,8456,United States Exclusive Economic Zone
+840.0,Tank 67,8456,United States Exclusive Economic Zone
+841.0,Tank 68,8456,United States Exclusive Economic Zone
+842.0,Tank 69,8456,United States Exclusive Economic Zone
+843.0,Tank 70 A,8456,United States Exclusive Economic Zone
+844.0,Tank 70 B,8456,United States Exclusive Economic Zone
+845.0,Tank 71,8456,United States Exclusive Economic Zone
+846.0,Tank 72,8456,United States Exclusive Economic Zone
+847.0,Tank 73,8456,United States Exclusive Economic Zone
+848.0,Tank 74 B,8456,United States Exclusive Economic Zone
+849.0,Tank 74A,8456,United States Exclusive Economic Zone
+850.0,Tank 75,8456,United States Exclusive Economic Zone
+851.0,Tank 76 A,8456,United States Exclusive Economic Zone
+852.0,Tank 76 B,8456,United States Exclusive Economic Zone
+853.0,Tank 77 A,8456,United States Exclusive Economic Zone
+854.0,Tank 77 B,8456,United States Exclusive Economic Zone
+855.0,Tank 77 C,8456,United States Exclusive Economic Zone
+856.0,Tank 78 A,8456,United States Exclusive Economic Zone
+857.0,Tank 78 B,8456,United States Exclusive Economic Zone
+858.0,Tank 78 C,8456,United States Exclusive Economic Zone
+859.0,Tank 79,8456,United States Exclusive Economic Zone
+860.0,Tank 80,8456,United States Exclusive Economic Zone
+861.0,Tank 81 A,8456,United States Exclusive Economic Zone
+862.0,Tank 81 B,8456,United States Exclusive Economic Zone
+863.0,Tank 81 C,8456,United States Exclusive Economic Zone
+864.0,Tank 82 A,8456,United States Exclusive Economic Zone
+865.0,Tank 82 B,8456,United States Exclusive Economic Zone
+866.0,Tank 83,8456,United States Exclusive Economic Zone
+867.0,Tank 85 A,8456,United States Exclusive Economic Zone
+868.0,Tank 85 B,8456,United States Exclusive Economic Zone
+869.0,Tank 86 A,8456,United States Exclusive Economic Zone
+870.0,Tank 86 B,8456,United States Exclusive Economic Zone
+871.0,Tank 87,8456,United States Exclusive Economic Zone
+872.0,Tank 88 A,8456,United States Exclusive Economic Zone
+873.0,Tank 88 B,8456,United States Exclusive Economic Zone
+874.0,Tank 89 A,8456,United States Exclusive Economic Zone
+875.0,Tank 89 B,8456,United States Exclusive Economic Zone
+876.0,Tank 89 C,8456,United States Exclusive Economic Zone
+877.0,Tank 90 A,8456,United States Exclusive Economic Zone
+878.0,Tank 90 B,8456,United States Exclusive Economic Zone
+879.0,Tank 90 C,8456,United States Exclusive Economic Zone
+880.0,Tank 91,8456,United States Exclusive Economic Zone
+881.0,Tank 93 A,8456,United States Exclusive Economic Zone
+882.0,Tank 93 B,8456,United States Exclusive Economic Zone
+883.0,Tank 93 C,8456,United States Exclusive Economic Zone
+884.0,Nail Ship,8456,United States Exclusive Economic Zone
+885.0,Drydock,8456,United States Exclusive Economic Zone
+886.0,Tulsa,8456,United States Exclusive Economic Zone
+887.0,Liscomb,8456,United States Exclusive Economic Zone
+888.0,Buffalo,8456,United States Exclusive Economic Zone
+889.0,Buffalo 2,8456,United States Exclusive Economic Zone
+890.0,Sparkman,8456,United States Exclusive Economic Zone
+891.0,Wallace,8456,United States Exclusive Economic Zone
+892.0,Allen,8456,United States Exclusive Economic Zone
+893.0,Edwards,8456,United States Exclusive Economic Zone
+894.0,Anderson,8456,United States Exclusive Economic Zone
+895.0,105 Tug,8456,United States Exclusive Economic Zone
+896.0,McMillian,8456,United States Exclusive Economic Zone
+897.0,Scott,8456,United States Exclusive Economic Zone
+898.0,Atlantic ( D.R. Dunlap),8456,United States Exclusive Economic Zone
+899.0,Papa Joe (John Wood ),8456,United States Exclusive Economic Zone
+900.0,Flat Steel Barge,8456,United States Exclusive Economic Zone
+901.0,Rookie,8456,United States Exclusive Economic Zone
+902.0,LuLu,8456,United States Exclusive Economic Zone
+903.0,70' OSV,8456,United States Exclusive Economic Zone
+904.0,Randy Hopper Reef,8456,United States Exclusive Economic Zone
+905.0,Captain Shirley Brown,8456,United States Exclusive Economic Zone
+906.0,Three Mile,8456,United States Exclusive Economic Zone
+907.0,Tank 100,8456,United States Exclusive Economic Zone
+908.0,Tank 101,8456,United States Exclusive Economic Zone
+909.0,Tank 102 A,8456,United States Exclusive Economic Zone
+910.0,Tank 102 B,8456,United States Exclusive Economic Zone
+911.0,Tank 102 C,8456,United States Exclusive Economic Zone
+912.0,Tank 94 A,8456,United States Exclusive Economic Zone
+913.0,Tank 94 B,8456,United States Exclusive Economic Zone
+914.0,Tank 94 C,8456,United States Exclusive Economic Zone
+915.0,Tank 95 A/B,8456,United States Exclusive Economic Zone
+916.0,Tank 96 A,8456,United States Exclusive Economic Zone
+917.0,Tank 96 B,8456,United States Exclusive Economic Zone
+918.0,Tank 97 A,8456,United States Exclusive Economic Zone
+919.0,Tank 97 B,8456,United States Exclusive Economic Zone
+920.0,Tank 98,8456,United States Exclusive Economic Zone
+921.0,Tank 99 A,8456,United States Exclusive Economic Zone
+922.0,Tank 99 B,8456,United States Exclusive Economic Zone
+923.0,Tank Broz  A/B,8456,United States Exclusive Economic Zone
+924.0,Tank Sims A,8456,United States Exclusive Economic Zone
+925.0,Tank Sims B/C,8456,United States Exclusive Economic Zone
+926.0,CSX Boxcars,8456,United States Exclusive Economic Zone
+927.0,MB 131,8456,United States Exclusive Economic Zone
+928.0,MB 125,8456,United States Exclusive Economic Zone
+929.0,Red Sea Tugboat,8456,United States Exclusive Economic Zone
+930.0,OAR BBSWC,8456,United States Exclusive Economic Zone
+931.0,Progress Energy Reef,8456,United States Exclusive Economic Zone
+932.0,Steel Dredge Boat,8456,United States Exclusive Economic Zone
+933.0,Fami Tug #2,8456,United States Exclusive Economic Zone
+934.0,Fami Tug #1,8456,United States Exclusive Economic Zone
+935.0,MBARA,8456,United States Exclusive Economic Zone
+936.0,Accokeek,8456,United States Exclusive Economic Zone
+937.0,Dan Barge,8456,United States Exclusive Economic Zone
+938.0,Century/Cobia Barge,8456,United States Exclusive Economic Zone
+939.0,Sherman X Tug Boat,8456,United States Exclusive Economic Zone
+940.0,Deep Pipe Barge,8456,United States Exclusive Economic Zone
+941.0,MC Comick Barge,8456,United States Exclusive Economic Zone
+942.0,Buoy Barge,8456,United States Exclusive Economic Zone
+943.0,Navy Barge,8456,United States Exclusive Economic Zone
+944.0,BJ Putnam Reef,8456,United States Exclusive Economic Zone
+945.0,The Black Bart,8456,United States Exclusive Economic Zone
+946.0,B & B Reef,8456,United States Exclusive Economic Zone
+947.0,Chippewa,8456,United States Exclusive Economic Zone
+948.0,USS Strength,8456,United States Exclusive Economic Zone
+949.0,PCMI Barge,8456,United States Exclusive Economic Zone
+950.0,Grey Ghost Ship,8456,United States Exclusive Economic Zone
+951.0,Liberty Ship-USS Grierson,8456,United States Exclusive Economic Zone
+952.0,Zinnia,8456,United States Exclusive Economic Zone
+953.0,USS Chickasaw,8456,United States Exclusive Economic Zone
+954.0,Spanish Shanty Barge (Bay),8456,United States Exclusive Economic Zone
+955.0,Davis Barge,8456,United States Exclusive Economic Zone
+956.0,Navy Barge,8456,United States Exclusive Economic Zone
+957.0,Life Boats (Bay),8456,United States Exclusive Economic Zone
+958.0,Elvira,8456,United States Exclusive Economic Zone
+959.0,Fsfa Reef Site #2-Steel Sailboat,8456,United States Exclusive Economic Zone
+960.0,Fsfa Reef Site #2-Steel Yacht,8456,United States Exclusive Economic Zone
+961.0,Fsfa Reef Site #2,8456,United States Exclusive Economic Zone
+962.0,Sufix I,8456,United States Exclusive Economic Zone
+963.0,Gallatea,8456,United States Exclusive Economic Zone
+964.0,Shelby Lee,8456,United States Exclusive Economic Zone
+965.0,Steel Sailboat 35',8456,United States Exclusive Economic Zone
+966.0,Titan Experimental Reef,8456,United States Exclusive Economic Zone
+967.0,Brevard Reef Site - Damocles,8456,United States Exclusive Economic Zone
+968.0,Lead Wreck - Ocean Venus,8456,United States Exclusive Economic Zone
+969.0,Lois Dubois Reef,8456,United States Exclusive Economic Zone
+970.0,Brevard Reef 1,8456,United States Exclusive Economic Zone
+971.0,Tiger Red,8456,United States Exclusive Economic Zone
+972.0,Moby Dick - Brevard Reef 2,8456,United States Exclusive Economic Zone
+973.0,Rapa Nui,8456,United States Exclusive Economic Zone
+974.0,Miss Dania Beach,8456,United States Exclusive Economic Zone
+975.0,Bulk Trader,8456,United States Exclusive Economic Zone
+976.0,Eben-Ezer-2,8456,United States Exclusive Economic Zone
+977.0,Dantor,8456,United States Exclusive Economic Zone
+978.0,Grady Hopper Barge,8456,United States Exclusive Economic Zone
+979.0,Summerfield,8456,United States Exclusive Economic Zone
+980.0,Qualman Barge,8456,United States Exclusive Economic Zone
+981.0,Grady Barges,8456,United States Exclusive Economic Zone
+982.0,Sheridan Express,8456,United States Exclusive Economic Zone
+983.0,Ken Vitale (Tracy),8456,United States Exclusive Economic Zone
+984.0,"Lauderdale Site, C-2",8456,United States Exclusive Economic Zone
+985.0,Donald G Mcallister,8456,United States Exclusive Economic Zone
+986.0,Peter B. Mcallister,8456,United States Exclusive Economic Zone
+987.0,Lady Kimberley,8456,United States Exclusive Economic Zone
+988.0,Site C - Corky Micco Reef,8456,United States Exclusive Economic Zone
+989.0,Sucre,8456,United States Exclusive Economic Zone
+990.0,Site C - Bruce Mueller Reef,8456,United States Exclusive Economic Zone
+991.0,Site D - Joe's Nightmare Barge,8456,United States Exclusive Economic Zone
+992.0,Site E -  Emmi Boggs,8456,United States Exclusive Economic Zone
+993.0,Curry Reef,8456,United States Exclusive Economic Zone
+994.0,Dewitt Clinton - Rodeo Site - Boating Magazine,8456,United States Exclusive Economic Zone
+995.0,Site E - Hollywood,8456,United States Exclusive Economic Zone
+996.0,RSB-1 - Jim Torgerson,8456,United States Exclusive Economic Zone
+997.0,Site E - Curry Reef,8456,United States Exclusive Economic Zone
+998.0,Pennel's Reef,8456,United States Exclusive Economic Zone
+999.0,Captain Dede's,8456,United States Exclusive Economic Zone
+1e3,Mariner 2,8456,United States Exclusive Economic Zone
+1001.0,Mariner 2,8456,United States Exclusive Economic Zone
+1002.0,Union Express,8456,United States Exclusive Economic Zone
+1003.0,Wendy Rossheim (Our House III),8456,United States Exclusive Economic Zone
+1004.0,Noula Express,8456,United States Exclusive Economic Zone
+1005.0,Salvager III - Paul Sherman Reef,8456,United States Exclusive Economic Zone
+1006.0,Imor Reef,8456,United States Exclusive Economic Zone
+1007.0,Ancient Mariner (Nemesis),8456,United States Exclusive Economic Zone
+1008.0,Windward Trader,8456,United States Exclusive Economic Zone
+1009.0,Captain Dan Garnsey (Hollyhock),8456,United States Exclusive Economic Zone
+1010.0,Robert Edmister,8456,United States Exclusive Economic Zone
+1011.0,Argo Trader - Bud Krohn Reef,8456,United States Exclusive Economic Zone
+1012.0,Chuck-A-Luck,8456,United States Exclusive Economic Zone
+1013.0,Ebbtide - Papa's Reef,8456,United States Exclusive Economic Zone
+1014.0,"Moonshot, River Bend",8456,United States Exclusive Economic Zone
+1015.0,Otto - Ronald B. Johnson,8456,United States Exclusive Economic Zone
+1016.0,Rodeo Site - Jay Dorman,8456,United States Exclusive Economic Zone
+1017.0,"Alpha, Rodeo Divers Reef",8456,United States Exclusive Economic Zone
+1018.0,Rodeo Site -Buddy Merrit,8456,United States Exclusive Economic Zone
+1019.0,"Hydro Florida, North Atlantic Ocean",8456,United States Exclusive Economic Zone
+1020.0,Poinciana - Atria (Jim) Atria Reef,8456,United States Exclusive Economic Zone
+1021.0,Berry Patch,8456,United States Exclusive Economic Zone
+1022.0,Principle Maya - Rodeo Site,8456,United States Exclusive Economic Zone
+1023.0,Hog Heaven,8456,United States Exclusive Economic Zone
+1024.0,Jay Scutti,8456,United States Exclusive Economic Zone
+1025.0,Site C - Bill Boyd Reef,8456,United States Exclusive Economic Zone
+1026.0,Site C -Fla. League Of Anglers,8456,United States Exclusive Economic Zone
+1027.0,Rodeo Site - Corey & Chris (Trident),8456,United States Exclusive Economic Zone
+1028.0,Powell Barge,8456,United States Exclusive Economic Zone
+1029.0,Caicos Express,8456,United States Exclusive Economic Zone
+1030.0,Site C - Rebel,8456,United States Exclusive Economic Zone
+1031.0,Rodeo Site - Renegade,8456,United States Exclusive Economic Zone
+1032.0,Mercedes,8456,United States Exclusive Economic Zone
+1033.0,Rodeo-Lowrance,8456,United States Exclusive Economic Zone
+1034.0,Site D - Te Amo,8456,United States Exclusive Economic Zone
+1035.0,Qualmann Barge,8456,United States Exclusive Economic Zone
+1036.0,Harbour Towne,8456,United States Exclusive Economic Zone
+1037.0,Trio Bravo,8456,United States Exclusive Economic Zone
+1038.0,Site D - Tracor/Navy Drydock,8456,United States Exclusive Economic Zone
+1039.0,DNR Barges,8456,United States Exclusive Economic Zone
+1040.0,Houseboat,8456,United States Exclusive Economic Zone
+1041.0,Spaghetti Barge,8456,United States Exclusive Economic Zone
+1042.0,Unnamed Barge,8456,United States Exclusive Economic Zone
+1043.0,Monomy,8456,United States Exclusive Economic Zone
+1044.0,C-Note,8456,United States Exclusive Economic Zone
+1045.0,Tremblay Reef Barge,8456,United States Exclusive Economic Zone
+1046.0,Palm Island Barge Reef,8456,United States Exclusive Economic Zone
+1047.0,Palm Island Ferry Reef,8456,United States Exclusive Economic Zone
+1048.0,Wiggins Pass 4.5 Mile Reef,8456,United States Exclusive Economic Zone
+1049.0,Marco Island 5 Mile Reef,8456,United States Exclusive Economic Zone
+1050.0,Collier 5 Mile Reef,8456,United States Exclusive Economic Zone
+1051.0,Pavilion Key 6 Mile Reef,8456,United States Exclusive Economic Zone
+1052.0,Spike Reef,8456,United States Exclusive Economic Zone
+1053.0,Bunnie's Web (Bw),8456,United States Exclusive Economic Zone
+1054.0,AH Site - Tug Monachan,8456,United States Exclusive Economic Zone
+1055.0,Hh Reef,8456,United States Exclusive Economic Zone
+1056.0,BB Site - Bus Stop Barge,8456,United States Exclusive Economic Zone
+1057.0,BB Site - Morantz,8456,United States Exclusive Economic Zone
+1058.0,NHL Site -Powerful,8456,United States Exclusive Economic Zone
+1059.0,HH Site - Shark Barge,8456,United States Exclusive Economic Zone
+1060.0,JW Site - MTC 120 Barge,8456,United States Exclusive Economic Zone
+1061.0,OSJ Site - Drydocks,8456,United States Exclusive Economic Zone
+1062.0,Nss Site - Coppedge,8456,United States Exclusive Economic Zone
+1063.0,NM Site - Fishing Boat,8456,United States Exclusive Economic Zone
+1064.0,EPV Site - Barge,8456,United States Exclusive Economic Zone
+1065.0,Hl Site - Huggins,8456,United States Exclusive Economic Zone
+1066.0,TR Site - Anna,8456,United States Exclusive Economic Zone
+1067.0,MR Site -East Barge,8456,United States Exclusive Economic Zone
+1068.0,PG Site - Barge 85,8456,United States Exclusive Economic Zone
+1069.0,NM Site - Vic's Barge,8456,United States Exclusive Economic Zone
+1070.0,MR Site -Reliance,8456,United States Exclusive Economic Zone
+1071.0,TW Site - Barge,8456,United States Exclusive Economic Zone
+1072.0,NM Site - Tugboat,8456,United States Exclusive Economic Zone
+1073.0,NM Site - Barge '80,8456,United States Exclusive Economic Zone
+1074.0,Ch Site - North Tug,8456,United States Exclusive Economic Zone
+1075.0,NM Site - Tug,8456,United States Exclusive Economic Zone
+1076.0,PM Site - Banana And Pogey Boats,8456,United States Exclusive Economic Zone
+1077.0,CH Site - South Tug,8456,United States Exclusive Economic Zone
+1078.0,AH Site - Barge,8456,United States Exclusive Economic Zone
+1079.0,MR Site - Bills Barge,8456,United States Exclusive Economic Zone
+1080.0,PM Site - South - #1Tug,8456,United States Exclusive Economic Zone
+1081.0,Casablanca,8456,United States Exclusive Economic Zone
+1082.0,TW Site - Tug,8456,United States Exclusive Economic Zone
+1083.0,PM Site - North Barge,8456,United States Exclusive Economic Zone
+1084.0,MG Site - Tug,8456,United States Exclusive Economic Zone
+1085.0,MR Site - Upside-Down Barge,8456,United States Exclusive Economic Zone
+1086.0,BB Site -Carpet Barge,8456,United States Exclusive Economic Zone
+1087.0,BR Site - Barge #1,8456,United States Exclusive Economic Zone
+1088.0,BR Site - N. Barge,8456,United States Exclusive Economic Zone
+1089.0,MR Site - Barge,8456,United States Exclusive Economic Zone
+1090.0,MR Site - Maxies,8456,United States Exclusive Economic Zone
+1091.0,NM Site - Barge,8456,United States Exclusive Economic Zone
+1092.0,NM Site - Nine Mile Barge,8456,United States Exclusive Economic Zone
+1093.0,NM Site - Tar Barge,8456,United States Exclusive Economic Zone
+1094.0,PM Site - Navy Barge,8456,United States Exclusive Economic Zone
+1095.0,Rl Site - Barge,8456,United States Exclusive Economic Zone
+1096.0,BR Site - Warwick,8456,United States Exclusive Economic Zone
+1097.0,BR Site - Ocean Going Tug #1,8456,United States Exclusive Economic Zone
+1098.0,BR Site - Tug #2,8456,United States Exclusive Economic Zone
+1099.0,MR Site - Tug,8456,United States Exclusive Economic Zone
+1100.0,BB Site - Wooden Tug,8456,United States Exclusive Economic Zone
+1101.0,BB Site - Old Gibbs Drydock,8456,United States Exclusive Economic Zone
+1102.0,Tug Ocean Wind,8456,United States Exclusive Economic Zone
+1103.0,Joe Patti Memorial Reef,8456,United States Exclusive Economic Zone
+1104.0,Will Davis Reef,8456,United States Exclusive Economic Zone
+1105.0,Oriskany Memorial Reef,8456,United States Exclusive Economic Zone
+1106.0,Don Phillips Barge And Parks,8456,United States Exclusive Economic Zone
+1107.0,Knicklebine Barge,8456,United States Exclusive Economic Zone
+1108.0,Navy Dive Tender YDT-14,8456,United States Exclusive Economic Zone
+1109.0,Navy Dive Tender YDT-15,8456,United States Exclusive Economic Zone
+1110.0,Oops Barge,8456,United States Exclusive Economic Zone
+1111.0,Antares' Ship,8456,United States Exclusive Economic Zone
+1112.0,Navy Camel Barge,8456,United States Exclusive Economic Zone
+1113.0,Kingry Barge,8456,United States Exclusive Economic Zone
+1114.0,Navy Barge,8456,United States Exclusive Economic Zone
+1115.0,Pete Tide II Ship,8456,United States Exclusive Economic Zone
+1116.0,Soule Barge,8456,United States Exclusive Economic Zone
+1117.0,Avocet,8456,United States Exclusive Economic Zone
+1118.0,Born Again Tugboat,8456,United States Exclusive Economic Zone
+1119.0,Philip Tugboat,8456,United States Exclusive Economic Zone
+1120.0,Elsie,8456,United States Exclusive Economic Zone
+1121.0,Heron Tugboat,8456,United States Exclusive Economic Zone
+1122.0,Sylvia Tugboat 48',8456,United States Exclusive Economic Zone
+1123.0,Steel Barge,8456,United States Exclusive Economic Zone
+1124.0,P.C. Barge,8456,United States Exclusive Economic Zone
+1125.0,Deliverance Tugboat,8456,United States Exclusive Economic Zone
+1126.0,CSX Rubble,8456,United States Exclusive Economic Zone
+1127.0,Tessie,8456,United States Exclusive Economic Zone
+1128.0,Tex Edwards Barge,8456,United States Exclusive Economic Zone
+1129.0,A Frame Barge,8456,United States Exclusive Economic Zone
+1130.0,Joseph Meek,8456,United States Exclusive Economic Zone
+1131.0,Three Barges,8456,United States Exclusive Economic Zone
+1132.0,San Pablo (W) Ship,8456,United States Exclusive Economic Zone
+1133.0,Cureton Reef - Hopper,8456,United States Exclusive Economic Zone
+1134.0,Bryson Memorial Reef,8456,United States Exclusive Economic Zone
+1135.0,Bryson Memorial Reef,8456,United States Exclusive Economic Zone
+1136.0,Yamaha Reef,8456,United States Exclusive Economic Zone
+1137.0,One More Time,8456,United States Exclusive Economic Zone
+1138.0,Apalachicola City,8456,United States Exclusive Economic Zone
+1139.0,O-Tower Barge AKA Carrabelle Reef Barge,8456,United States Exclusive Economic Zone
+1140.0,K Tower,8456,United States Exclusive Economic Zone
+1141.0,V Tower,8456,United States Exclusive Economic Zone
+1142.0,S Tower,8456,United States Exclusive Economic Zone
+1143.0,O Tower,8456,United States Exclusive Economic Zone
+1144.0,C Tower,8456,United States Exclusive Economic Zone
+1145.0,LST Port St. Joe,8456,United States Exclusive Economic Zone
+1146.0,Gateway Barge,8456,United States Exclusive Economic Zone
+1147.0,Barrier Dunes Barge,8456,United States Exclusive Economic Zone
+1148.0,Port Tampa Site (Bay),8456,United States Exclusive Economic Zone
+1149.0,USS Mohawk,8456,United States Exclusive Economic Zone
+1150.0,Causeway Reef #30,8456,United States Exclusive Economic Zone
+1151.0,Wildmans Reef,8456,United States Exclusive Economic Zone
+1152.0,ARC 14 - Seaguard,8456,United States Exclusive Economic Zone
+1153.0,Blanda's Reef,8456,United States Exclusive Economic Zone
+1154.0,Helens Barges,8456,United States Exclusive Economic Zone
+1155.0,Pace's Place Barge Reef,8456,United States Exclusive Economic Zone
+1156.0,Pegasus Tugboat,8456,United States Exclusive Economic Zone
+1157.0,Shirley D Shrimp Boat,8456,United States Exclusive Economic Zone
+1158.0,Vixen Wreck,8456,United States Exclusive Economic Zone
+1159.0,Arc1 Reef-Barge,8456,United States Exclusive Economic Zone
+1160.0,Power Pole Reef,8456,United States Exclusive Economic Zone
+1161.0,Sherman's Reef Barge,8456,United States Exclusive Economic Zone
+1162.0,Redfish Pass Reef,8456,United States Exclusive Economic Zone
+1163.0,Redfish Pass Reef,8456,United States Exclusive Economic Zone
+1164.0,G-H Reef,8456,United States Exclusive Economic Zone
+1165.0,"7 Mile South Reef, Site 'C'-00-07",8456,United States Exclusive Economic Zone
+1166.0,Misener Barge,8456,United States Exclusive Economic Zone
+1167.0,Hailey Glasrud,8456,United States Exclusive Economic Zone
+1168.0,Kyle Conrad Memorial Reef,8456,United States Exclusive Economic Zone
+1169.0,Glasrud Reef,8456,United States Exclusive Economic Zone
+1170.0,Tension Barge 13,8456,United States Exclusive Economic Zone
+1171.0,Wickstrom Reef,8456,United States Exclusive Economic Zone
+1172.0,Tree Barge,8456,United States Exclusive Economic Zone
+1173.0,Traffic Barge-Guardian Reef,8456,United States Exclusive Economic Zone
+1174.0,LC6-Landing Craft-Guardian Reef,8456,United States Exclusive Economic Zone
+1175.0,USS Rankin,8456,United States Exclusive Economic Zone
+1176.0,Al Sirotkin Reef,8456,United States Exclusive Economic Zone
+1177.0,David T. - Sirotkin Reef,8456,United States Exclusive Economic Zone
+1178.0,Ernst Reef - South Barge,8456,United States Exclusive Economic Zone
+1179.0,Ernst Reef - Corner Barge,8456,United States Exclusive Economic Zone
+1180.0,Bull Shark Barge,8456,United States Exclusive Economic Zone
+1181.0,Ernst Reef,8456,United States Exclusive Economic Zone
+1182.0,Cement Barge,8456,United States Exclusive Economic Zone
+1183.0,Donaldson Reef,8456,United States Exclusive Economic Zone
+1184.0,Donaldson Reef,8456,United States Exclusive Economic Zone
+1185.0,Donaldson Reef,8456,United States Exclusive Economic Zone
+1186.0,Titan,8456,United States Exclusive Economic Zone
+1187.0,Schooner Reef,8456,United States Exclusive Economic Zone
+1188.0,M/V Shark,8456,United States Exclusive Economic Zone
+1189.0,M/V Catharina,8456,United States Exclusive Economic Zone
+1190.0,Ophelia Brian Reef,8456,United States Exclusive Economic Zone
+1191.0,Miami River Barge (Zt 202),8456,United States Exclusive Economic Zone
+1193.0,Met Wreck Barge,8456,United States Exclusive Economic Zone
+1194.0,Bunnell Barge,8456,United States Exclusive Economic Zone
+1195.0,Gimrock 504 Barge,8456,United States Exclusive Economic Zone
+1196.0,Dema Trader,8456,United States Exclusive Economic Zone
+1197.0,Princess Britney,8456,United States Exclusive Economic Zone
+1198.0,Pascagoula,8456,United States Exclusive Economic Zone
+1199.0,Jupiter Star,8456,United States Exclusive Economic Zone
+1200.0,Steel Deck Barge,8456,United States Exclusive Economic Zone
+1201.0,Tacoma,8456,United States Exclusive Economic Zone
+1202.0,Brandywine,8456,United States Exclusive Economic Zone
+1203.0,Miguana,8456,United States Exclusive Economic Zone
+1204.0,Etoile De Mer,8456,United States Exclusive Economic Zone
+1205.0,Miss Lucy,8456,United States Exclusive Economic Zone
+1206.0,Spirt Of Hemingway Boat,8456,United States Exclusive Economic Zone
+1207.0,Mary Star Of The Sea,8456,United States Exclusive Economic Zone
+1208.0,Captain Henry,8456,United States Exclusive Economic Zone
+1209.0,Gimrock Barges,8456,United States Exclusive Economic Zone
+1210.0,Paraiso Ship,8456,United States Exclusive Economic Zone
+1211.0,Carmen,8456,United States Exclusive Economic Zone
+1212.0,Larsen Barge,8456,United States Exclusive Economic Zone
+1213.0,Timothy Allen Reed Reef,8456,United States Exclusive Economic Zone
+1214.0,Gimrock/Atlas Recycling Barge,8456,United States Exclusive Economic Zone
+1215.0,Hav Parker Iii Barge,8456,United States Exclusive Economic Zone
+1216.0,Scott Mason-Chaite,8456,United States Exclusive Economic Zone
+1217.0,Augie Ferignno Ship,8456,United States Exclusive Economic Zone
+1218.0,Betek AR Pen Ship,8456,United States Exclusive Economic Zone
+1219.0,St Henry Express,8456,United States Exclusive Economic Zone
+1220.0,Matthew Lawerance Memorial Reef,8456,United States Exclusive Economic Zone
+1221.0,White Coast Tug,8456,United States Exclusive Economic Zone
+1222.0,Tortuga Ship,8456,United States Exclusive Economic Zone
+1223.0,John Maydak Memorial Reef,8456,United States Exclusive Economic Zone
+1224.0,Belzona Barge,8456,United States Exclusive Economic Zone
+1225.0,Raychel,8456,United States Exclusive Economic Zone
+1226.0,Belzona Three,8456,United States Exclusive Economic Zone
+1227.0,Conception,8456,United States Exclusive Economic Zone
+1228.0,Belzona Two,8456,United States Exclusive Economic Zone
+1229.0,C-One,8456,United States Exclusive Economic Zone
+1230.0,Patricia,8456,United States Exclusive Economic Zone
+1231.0,Belzona One,8456,United States Exclusive Economic Zone
+1232.0,Rio Miami,8456,United States Exclusive Economic Zone
+1233.0,Ostwind,8456,United States Exclusive Economic Zone
+1234.0,Miss Karlline (Karleen),8456,United States Exclusive Economic Zone
+1235.0,Big Lou,8456,United States Exclusive Economic Zone
+1236.0,Hugo's April Fool,8456,United States Exclusive Economic Zone
+1237.0,Berry Patch,8456,United States Exclusive Economic Zone
+1238.0,Tarpoon,8456,United States Exclusive Economic Zone
+1239.0,Leon's Barge,8456,United States Exclusive Economic Zone
+1240.0,Billy's Barge,8456,United States Exclusive Economic Zone
+1241.0,Miracles Express,8456,United States Exclusive Economic Zone
+1242.0,Sheri-Lyn,8456,United States Exclusive Economic Zone
+1243.0,Coquina,8456,United States Exclusive Economic Zone
+1244.0,Esjoo,8456,United States Exclusive Economic Zone
+1245.0,Cruz Del Sur Ship,8456,United States Exclusive Economic Zone
+1246.0,Mystic Isle,8456,United States Exclusive Economic Zone
+1247.0,Narwal,8456,United States Exclusive Economic Zone
+1248.0,St. Anne D' Auray,8456,United States Exclusive Economic Zone
+1249.0,Doc De Milly,8456,United States Exclusive Economic Zone
+1250.0,African Queen,8456,United States Exclusive Economic Zone
+1251.0,Lady Free Schooner,8456,United States Exclusive Economic Zone
+1252.0,Andro,8456,United States Exclusive Economic Zone
+1253.0,Wood Boat,8456,United States Exclusive Economic Zone
+1254.0,Wood Boat,8456,United States Exclusive Economic Zone
+1255.0,Belcher Barge,8456,United States Exclusive Economic Zone
+1256.0,John C. Koppin Memorial,8456,United States Exclusive Economic Zone
+1257.0,Rossmerry,8456,United States Exclusive Economic Zone
+1258.0,Barge,8456,United States Exclusive Economic Zone
+1259.0,Shamrock,8456,United States Exclusive Economic Zone
+1260.0,Sir Scott,8456,United States Exclusive Economic Zone
+1261.0,Proteus,8456,United States Exclusive Economic Zone
+1262.0,Ultra Freeze,8456,United States Exclusive Economic Zone
+1263.0,Lands End,8456,United States Exclusive Economic Zone
+1264.0,Pioneer One,8456,United States Exclusive Economic Zone
+1265.0,Mary Ann I,8456,United States Exclusive Economic Zone
+1266.0,South Seas,8456,United States Exclusive Economic Zone
+1267.0,Blue Fire,8456,United States Exclusive Economic Zone
+1268.0,Moby One,8456,United States Exclusive Economic Zone
+1269.0,Star Trek,8456,United States Exclusive Economic Zone
+1270.0,Arida,8456,United States Exclusive Economic Zone
+1271.0,Lakeland,8456,United States Exclusive Economic Zone
+1272.0,House Boat,8456,United States Exclusive Economic Zone
+1273.0,Orion,8456,United States Exclusive Economic Zone
+1274.0,Hopper Barge,8456,United States Exclusive Economic Zone
+1275.0,Railroad Barge,8456,United States Exclusive Economic Zone
+1276.0,San Raphael,8456,United States Exclusive Economic Zone
+1277.0,Walke Q,8456,United States Exclusive Economic Zone
+1278.0,Pontoon Dry Docks,8456,United States Exclusive Economic Zone
+1279.0,Santa Rita,8456,United States Exclusive Economic Zone
+1280.0,Deep Freeze,8456,United States Exclusive Economic Zone
+1281.0,O.L. Bodenhamer,8456,United States Exclusive Economic Zone
+1282.0,Belcher Barge,8456,United States Exclusive Economic Zone
+1283.0,Almirante,8456,United States Exclusive Economic Zone
+1284.0,Biscayne,8456,United States Exclusive Economic Zone
+1285.0,West End,8456,United States Exclusive Economic Zone
+1286.0,Fire Boat,8456,United States Exclusive Economic Zone
+1287.0,Hopper Barge,8456,United States Exclusive Economic Zone
+1288.0,Mine Sweeper,8456,United States Exclusive Economic Zone
+1289.0,Pimelious,8456,United States Exclusive Economic Zone
+1290.0,Lotus,8456,United States Exclusive Economic Zone
+1291.0,"Landing Craft ""LCI""",8456,United States Exclusive Economic Zone
+1292.0,Hoyt Vandenberg,8456,United States Exclusive Economic Zone
+1293.0,Spiegel Grove,8456,United States Exclusive Economic Zone
+1294.0,Adolphus Busch Sr,8456,United States Exclusive Economic Zone
+1295.0,Joe's Tug,8456,United States Exclusive Economic Zone
+1296.0,Bibb,8456,United States Exclusive Economic Zone
+1297.0,Duane,8456,United States Exclusive Economic Zone
+1298.0,Key West Tournament Reef,8456,United States Exclusive Economic Zone
+1299.0,Thunderbolt,8456,United States Exclusive Economic Zone
+1300.0,Eagle,8456,United States Exclusive Economic Zone
+1301.0,Cayman Salvage Master,8456,United States Exclusive Economic Zone
+1302.0,Alexander Barge,8456,United States Exclusive Economic Zone
+1303.0,USS Curb,8456,United States Exclusive Economic Zone
+1304.0,Key West Tournament Reef,8456,United States Exclusive Economic Zone
+1305.0,"Key West Florida, Gulf of Mexicoside Reef #3",8456,United States Exclusive Economic Zone
+1306.0,Key West Tournament Reef,8456,United States Exclusive Economic Zone
+1307.0,"Key West Florida, Gulf of Mexicoside #2",8456,United States Exclusive Economic Zone
+1308.0,USS Fred T Berry (DD-858),8456,United States Exclusive Economic Zone
+1309.0,Wilkes Barre -Stern Section,8456,United States Exclusive Economic Zone
+1310.0,Wilkes Barre-Bow Section,8456,United States Exclusive Economic Zone
+1311.0,USS Kendrick (DD-612),8456,United States Exclusive Economic Zone
+1312.0,USS Saufley (DD-465),8456,United States Exclusive Economic Zone
+1313.0,USS S-16Sub(SS-121),8404,Bahamas Exclusive Economic Zone
+1314.0,Whittaker's Snapper Hole Tug,8456,United States Exclusive Economic Zone
+1315.0,Barbett - Fernandina Banks,8456,United States Exclusive Economic Zone
+1316.0,Sahlmans Gulley Barge,8456,United States Exclusive Economic Zone
+1317.0,Whittaker's Snapper Hole Barge,8456,United States Exclusive Economic Zone
+1318.0,Monica Lee Tugboat,8456,United States Exclusive Economic Zone
+1319.0,Chepanoc - Starfish Reef,8456,United States Exclusive Economic Zone
+1320.0,Sand Dollar Complex #7-Mohawk Chief,8456,United States Exclusive Economic Zone
+1321.0,Okaloosa Reef Odyssey (Sea Barb),8456,United States Exclusive Economic Zone
+1322.0,Bob Reay Reef-Belize Queen,8456,United States Exclusive Economic Zone
+1323.0,Eglin Reef #1,8456,United States Exclusive Economic Zone
+1324.0,M/V Angelina B.,8456,United States Exclusive Economic Zone
+1325.0,M/V Deborah,8456,United States Exclusive Economic Zone
+1326.0,M/V Prewitt,8456,United States Exclusive Economic Zone
+1327.0,M/V Janet- Fish Haven #6,8456,United States Exclusive Economic Zone
+1328.0,Miss Louise,8456,United States Exclusive Economic Zone
+1329.0,Barrel Barge,8456,United States Exclusive Economic Zone
+1330.0,"Tugboat ""Zuess""",8456,United States Exclusive Economic Zone
+1331.0,Whiteman Tug Boat,8456,United States Exclusive Economic Zone
+1332.0,Ozark,8456,United States Exclusive Economic Zone
+1333.0,Burgess Barge,8456,United States Exclusive Economic Zone
+1334.0,Thomas Hayward,8456,United States Exclusive Economic Zone
+1335.0,Brown Barge,8456,United States Exclusive Economic Zone
+1336.0,Air Force Barge,8456,United States Exclusive Economic Zone
+1337.0,Danny Mccauley Reef,8456,United States Exclusive Economic Zone
+1338.0,Everglades Island Barge 2011,8456,United States Exclusive Economic Zone
+1339.0,MV Miss Lourdies,8456,United States Exclusive Economic Zone
+1340.0,Celtic Crusader,8456,United States Exclusive Economic Zone
+1341.0,Donation Barge,8456,United States Exclusive Economic Zone
+1342.0,Sylvina Express,8456,United States Exclusive Economic Zone
+1343.0,M/V Zion Train,8456,United States Exclusive Economic Zone
+1344.0,Thozina,8456,United States Exclusive Economic Zone
+1345.0,Gilbert Sea,8456,United States Exclusive Economic Zone
+1346.0,St Jacques,8456,United States Exclusive Economic Zone
+1347.0,Shasha Boekanier,8456,United States Exclusive Economic Zone
+1348.0,M/V Castor,8456,United States Exclusive Economic Zone
+1349.0,Sea Mist II,8456,United States Exclusive Economic Zone
+1350.0,United Caribbean,8456,United States Exclusive Economic Zone
+1351.0,Cross Current Barge,8456,United States Exclusive Economic Zone
+1352.0,Three Tugs,8456,United States Exclusive Economic Zone
+1353.0,Ande Reef,8456,United States Exclusive Economic Zone
+1354.0,Becks Reef,8456,United States Exclusive Economic Zone
+1355.0,MG-111 Barge,8456,United States Exclusive Economic Zone
+1356.0,Murpghy Ii Barge,8456,United States Exclusive Economic Zone
+1357.0,Princess Anne,8456,United States Exclusive Economic Zone
+1358.0,Swordfish,8456,United States Exclusive Economic Zone
+1359.0,Boyton Kiwanis-Miller Lite Reef,8456,United States Exclusive Economic Zone
+1360.0,Sea Emperor,8456,United States Exclusive Economic Zone
+1361.0,Miss Jenny,8456,United States Exclusive Economic Zone
+1362.0,Classic Barge  P6,8456,United States Exclusive Economic Zone
+1363.0,Classic Barge P1,8456,United States Exclusive Economic Zone
+1364.0,Esso Bonaire,8456,United States Exclusive Economic Zone
+1365.0,Eidsvag,8456,United States Exclusive Economic Zone
+1366.0,Bud Bar,8456,United States Exclusive Economic Zone
+1367.0,Spearman's Barge,8456,United States Exclusive Economic Zone
+1368.0,Mizpah,8456,United States Exclusive Economic Zone
+1369.0,Research Team Reef,8456,United States Exclusive Economic Zone
+1370.0,Amaryllis,8456,United States Exclusive Economic Zone
+1371.0,Lake Worth Inlet,8456,United States Exclusive Economic Zone
+1372.0,Tso Paradise,8456,United States Exclusive Economic Zone
+1373.0,"Pasco Reef #4-Hudson, Addition 1E",8456,United States Exclusive Economic Zone
+1374.0,Reef Site #1,8456,United States Exclusive Economic Zone
+1375.0,County Site #2,8456,United States Exclusive Economic Zone
+1376.0,County Site #1 - Buoy S,8456,United States Exclusive Economic Zone
+1377.0,County Site #1 -Buoy P,8456,United States Exclusive Economic Zone
+1378.0,County Site #2,8456,United States Exclusive Economic Zone
+1379.0,County Site #1,8456,United States Exclusive Economic Zone
+1380.0,K2 Sailboat,8456,United States Exclusive Economic Zone
+1381.0,Silver Nail,8456,United States Exclusive Economic Zone
+1382.0,WJ Shrimpboat,8456,United States Exclusive Economic Zone
+1383.0,Shrimp Boat Reef,8456,United States Exclusive Economic Zone
+1384.0,Veterans Reef,8456,United States Exclusive Economic Zone
+1385.0,Pinellas South Reef,8456,United States Exclusive Economic Zone
+1386.0,Pinellas South Reef,8456,United States Exclusive Economic Zone
+1387.0,Pinellas South Reef,8456,United States Exclusive Economic Zone
+1388.0,Pinellas South Reef,8456,United States Exclusive Economic Zone
+1389.0,Veterans Reef,8456,United States Exclusive Economic Zone
+1390.0,North County Reef (Center),8456,United States Exclusive Economic Zone
+1391.0,Veterans Reef (Center),8456,United States Exclusive Economic Zone
+1392.0,North County Reef (Center),8456,United States Exclusive Economic Zone
+1393.0,Rube Allyn North,8456,United States Exclusive Economic Zone
+1394.0,Pinellas II - Blackthorn,8456,United States Exclusive Economic Zone
+1395.0,East Lap 'Chemical Courier',8456,United States Exclusive Economic Zone
+1396.0,Joseph E. Brown,8456,United States Exclusive Economic Zone
+1397.0,"Gary Service Reef, M-1",8456,United States Exclusive Economic Zone
+1398.0,"Fallen Heroes Reef, M-8",8456,United States Exclusive Economic Zone
+1399.0,MD-1,8456,United States Exclusive Economic Zone
+1400.0,M-10,8456,United States Exclusive Economic Zone
+1401.0,D-9,8456,United States Exclusive Economic Zone
+1402.0,MD-1,8456,United States Exclusive Economic Zone
+1403.0,Navy  Drydock,8456,United States Exclusive Economic Zone
+1404.0,Dorothy Louise Barge,8456,United States Exclusive Economic Zone
+1405.0,Outer Plane Reef-Ship,8456,United States Exclusive Economic Zone
+1406.0,Nine Mile Reef,8456,United States Exclusive Economic Zone
+1407.0,Fish America Foundation #1,8456,United States Exclusive Economic Zone
+1408.0,Tug Lesley Lee Reef,8456,United States Exclusive Economic Zone
+1409.0,Ft. Pierce Fish Haven,8456,United States Exclusive Economic Zone
+1410.0,Two Barges Reef,8456,United States Exclusive Economic Zone
+1411.0,Ken M Reef,8456,United States Exclusive Economic Zone
+1412.0,50' Inshore Reef Site,8456,United States Exclusive Economic Zone
+1413.0,Muliphen Reef,8456,United States Exclusive Economic Zone
+1414.0,"""Beverly M"" Reef",8456,United States Exclusive Economic Zone
+1415.0,Stans Reef #1,8456,United States Exclusive Economic Zone
+1416.0,"Ft Pierce Artificial Reef-""Deep Tug""",8456,United States Exclusive Economic Zone
+1417.0,Tug Reef,8456,United States Exclusive Economic Zone
+1418.0,Site #6_2011_E,8456,United States Exclusive Economic Zone
+1419.0,Site #4_2004 - Maxine D,8456,United States Exclusive Economic Zone
+1420.0,Site #9_Tug  Reef,8456,United States Exclusive Economic Zone
+1421.0,Site #3_1995 - Atlas,8456,United States Exclusive Economic Zone
+1422.0,Site #3_1995 - Rio Yuna,8456,United States Exclusive Economic Zone
+1423.0,Site #3_1995,8456,United States Exclusive Economic Zone
+1424.0,Site #3_1995,8456,United States Exclusive Economic Zone
+1425.0,Site #7_1994 - Argoil,8456,United States Exclusive Economic Zone
+1426.0,Site #1_1994,8456,United States Exclusive Economic Zone
+1427.0,Site #4_1994 - Maxine D,8456,United States Exclusive Economic Zone
+1428.0,Site #2_1994 - Semarca,8456,United States Exclusive Economic Zone
+1429.0,Site #2_1985,8456,United States Exclusive Economic Zone
+1430.0,Site #3_1980 - Mindanao,8456,United States Exclusive Economic Zone
+1431.0,Marker 24 Barge (W),8456,United States Exclusive Economic Zone
+1432.0,Walton Hopper Barge,8456,United States Exclusive Economic Zone
+1433.0,Voodoo Jets,8456,United States Exclusive Economic Zone
+1434.0,F-106 Airplanes,8456,United States Exclusive Economic Zone
+1435.0,Reef Ex Center Site,8456,United States Exclusive Economic Zone
+1436.0,Reef Ex Center Site,8456,United States Exclusive Economic Zone
+1437.0,Reef Ex Center Site,8456,United States Exclusive Economic Zone
+1438.0,Reef Ex Center Site,8456,United States Exclusive Economic Zone
+1439.0,Reef Ex Center Site,8456,United States Exclusive Economic Zone
+1440.0,Reef Ex East Site,8456,United States Exclusive Economic Zone
+1441.0,Reef Ex East Site,8456,United States Exclusive Economic Zone
+1442.0,Reef Ex East Site,8456,United States Exclusive Economic Zone
+1443.0,Reef Ex West Site,8456,United States Exclusive Economic Zone
+1444.0,Reef Ex West Site,8456,United States Exclusive Economic Zone
+1445.0,Reef Ex West Site,8456,United States Exclusive Economic Zone
+1446.0,Reef Ex West Site,8456,United States Exclusive Economic Zone
+1447.0,Reef Ex West Site,8456,United States Exclusive Economic Zone
+1448.0,Fountainbleau Boxcars,8456,United States Exclusive Economic Zone
+1449.0,Midway Site Boxcars,8456,United States Exclusive Economic Zone
+1450.0,Stage 1 East -Boxcars,8456,United States Exclusive Economic Zone
+1451.0,Midway Site,8456,United States Exclusive Economic Zone
+1452.0,Site D - Marriott Reef,8456,United States Exclusive Economic Zone
+1453.0,Gordon Pass 5 Mile Reef,8456,United States Exclusive Economic Zone
+1454.0,Wiggins Pass 5 Mile,8456,United States Exclusive Economic Zone
+1455.0,Wiggins Pass 5 Mile,8456,United States Exclusive Economic Zone
+1456.0,NW Red Banks Reef,8456,United States Exclusive Economic Zone
+1457.0,Linden's Mystery Car Bodies,8456,United States Exclusive Economic Zone
+1458.0,East Lap 'Army Tanks',8456,United States Exclusive Economic Zone
+1459.0,Battle Tank  7Bb,8456,United States Exclusive Economic Zone
+1460.0,Battle Tank 7M1,8456,United States Exclusive Economic Zone
+1461.0,Battle Tank 7G2,8456,United States Exclusive Economic Zone
+1462.0,Battle Tank 7M2,8456,United States Exclusive Economic Zone
+1463.0,Battle Tank 7G3,8456,United States Exclusive Economic Zone
+1464.0,Battle Tank 7G4,8456,United States Exclusive Economic Zone
+1465.0,Battle Tank 7A,8456,United States Exclusive Economic Zone
+1466.0,Battle Tank 7H,8456,United States Exclusive Economic Zone
+1467.0,East Lap 'Army Tanks',8456,United States Exclusive Economic Zone
+1468.0,East Lap 'Army Tanks',8456,United States Exclusive Economic Zone
+1469.0,East Lap 'Army Tanks',8456,United States Exclusive Economic Zone
+1470.0,East Lap 'Army Tanks',8456,United States Exclusive Economic Zone
+1471.0,Car Bodies,8456,United States Exclusive Economic Zone
+1472.0,Car Bodies,8456,United States Exclusive Economic Zone
+1473.0,Car Bodies,8456,United States Exclusive Economic Zone
+1474.0,Scrap Steel,8456,United States Exclusive Economic Zone
+1475.0,Car Bodies,8456,United States Exclusive Economic Zone
+1476.0,Car Bodies,8456,United States Exclusive Economic Zone
+1477.0,Mexico Beach Site,8456,United States Exclusive Economic Zone
+1478.0,Mexico Beach Site,8456,United States Exclusive Economic Zone
+1479.0,Bendickson  Reef -  Tank #5,8456,United States Exclusive Economic Zone
+1480.0,Bendickson  Reef -  Tank #1,8456,United States Exclusive Economic Zone
+1481.0,Bendickson  Reef -  Tank #3,8456,United States Exclusive Economic Zone
+1482.0,Bendickson  Reef -  Tank #6,8456,United States Exclusive Economic Zone
+1483.0,Bendickson  Reef -  Tank  #9,8456,United States Exclusive Economic Zone
+1484.0,Bendickson  Reef -  Tank #4,8456,United States Exclusive Economic Zone
+1485.0,Bendickson  Reef -  Tank #10,8456,United States Exclusive Economic Zone
+1486.0,Bendickson  Reef -  Tank #7,8456,United States Exclusive Economic Zone
+1487.0,Bendickson  Reef -  Tank #2,8456,United States Exclusive Economic Zone
+1488.0,Bendickson  Reef -  Tank #8,8456,United States Exclusive Economic Zone
+1489.0,Charlie's Reef,8456,United States Exclusive Economic Zone
+1490.0,Lee-Collier,8456,United States Exclusive Economic Zone
+1491.0,Boxcar Reef,8456,United States Exclusive Economic Zone
+1492.0,US Army Tanks,8456,United States Exclusive Economic Zone
+1493.0,Spirt Of Miami Airplane,8456,United States Exclusive Economic Zone
+1494.0,Jet Fighters,8456,United States Exclusive Economic Zone
+1495.0,County Site #1 -Reef-Ex #1,8456,United States Exclusive Economic Zone
+1496.0,LAARS Site A - M-60 Tank #10,8456,United States Exclusive Economic Zone
+1497.0,LAARS Site A - M-60 Tank #11,8456,United States Exclusive Economic Zone
+1498.0,LAARS Site A - M-60 Tank #12,8456,United States Exclusive Economic Zone
+1499.0,LAARS Site A - M-60 Tank #13,8456,United States Exclusive Economic Zone
+1500.0,LAARS Site A - M-60 Tank #14,8456,United States Exclusive Economic Zone
+1501.0,County Site #1 -Reef-Ex #2,8456,United States Exclusive Economic Zone
+1502.0,County Site #1 -Reef-Ex #3,8456,United States Exclusive Economic Zone
+1503.0,County Site #1 -Reef-Ex #4,8456,United States Exclusive Economic Zone
+1504.0,County Site #1 -Reef-Ex M60 Tank #5,8456,United States Exclusive Economic Zone
+1505.0,County Site #1 -Reef-Ex #6,8456,United States Exclusive Economic Zone
+1506.0,County Site #2 -Reef-Ex #7,8456,United States Exclusive Economic Zone
+1507.0,County Site #3 -Reef-Ex #8,8456,United States Exclusive Economic Zone
+1508.0,County Site #3 -Reef-Ex #9,8456,United States Exclusive Economic Zone
+1509.0,CSX Reef-Spot#1,8456,United States Exclusive Economic Zone
+1510.0,CSX Reef,8456,United States Exclusive Economic Zone
+1511.0,CSX Reef,8456,United States Exclusive Economic Zone
+1512.0,CSX Reef,8456,United States Exclusive Economic Zone
+1513.0,County Site #2,8456,United States Exclusive Economic Zone
+1514.0,County Site #2,8456,United States Exclusive Economic Zone
+1515.0,County Site #2,8456,United States Exclusive Economic Zone
+1516.0,County Site #2,8456,United States Exclusive Economic Zone
+1517.0,County Site #2,8456,United States Exclusive Economic Zone
+1518.0,County Site #2,8456,United States Exclusive Economic Zone
+1519.0,County Site #2,8456,United States Exclusive Economic Zone
+1520.0,County Site #2,8456,United States Exclusive Economic Zone
+1521.0,County Site #2,8456,United States Exclusive Economic Zone
+1522.0,County Site #2,8456,United States Exclusive Economic Zone
+1523.0,St. Pete Beach Site,8456,United States Exclusive Economic Zone
+1524.0,St. Pete Beach Site,8456,United States Exclusive Economic Zone
+1525.0,St. Pete Beach Site,8456,United States Exclusive Economic Zone
+1526.0,St. Pete Beach Site,8456,United States Exclusive Economic Zone
+1527.0,St. Pete Beach Site,8456,United States Exclusive Economic Zone
+1528.0,St. Pete Beach Site,8456,United States Exclusive Economic Zone
+1529.0,St. Pete Beach Site,8456,United States Exclusive Economic Zone
+1530.0,St. Pete Beach Site,8456,United States Exclusive Economic Zone
+1531.0,St. Pete Beach Site,8456,United States Exclusive Economic Zone
+1532.0,"Fallen Heroes Reef, Tank#3, Reefex #6",8456,United States Exclusive Economic Zone
+1533.0,"Fallen Heroes Reef, Tank #5, Reefex #9",8456,United States Exclusive Economic Zone
+1534.0,"Fallen Heroes Reef, Tank #4, Reefex #10",8456,United States Exclusive Economic Zone
+1535.0,"Fallen Heroes Reef, Tank #2, Reefex #7",8456,United States Exclusive Economic Zone
+1536.0,"Fallen Heroes Reef, Tank #1, Reefex #8",8456,United States Exclusive Economic Zone
+1537.0,"M-9 Site, Reefex #1",8456,United States Exclusive Economic Zone
+1538.0,"M-9 Site, Reefex #3",8456,United States Exclusive Economic Zone
+1539.0,"M-9 Site, Reefex #5",8456,United States Exclusive Economic Zone
+1540.0,"M-9 Site, Reefex #2",8456,United States Exclusive Economic Zone
+1541.0,"M-9 Site, Reefex #4",8456,United States Exclusive Economic Zone
+1542.0,D-3,8456,United States Exclusive Economic Zone
+1543.0,D-4,8456,United States Exclusive Economic Zone
+1544.0,Bob Johnson,8456,United States Exclusive Economic Zone
+1545.0,"Fallen Heroes Reef, M-8",8456,United States Exclusive Economic Zone
+1546.0,"Johnson Reef, M-7 Site",8456,United States Exclusive Economic Zone
+1547.0,Tampa,8456,United States Exclusive Economic Zone
+1548.0,Edwin Nettleton,8456,United States Exclusive Economic Zone
+1549.0,YFN 321,8456,United States Exclusive Economic Zone
+1550.0,Henry Bacon,8456,United States Exclusive Economic Zone
+1551.0,El Mira,8456,United States Exclusive Economic Zone
+1552.0,Optimist,8456,United States Exclusive Economic Zone
+1553.0,Motherlode,8456,United States Exclusive Economic Zone
+1554.0,Scalper,8456,United States Exclusive Economic Zone
+1555.0,Senasqua YTM 523,8456,United States Exclusive Economic Zone
+1556.0,Recife,8456,United States Exclusive Economic Zone
+1557.0,Janet,8456,United States Exclusive Economic Zone
+1558.0,LCM-1,8456,United States Exclusive Economic Zone
+1559.0,LCM-6,8456,United States Exclusive Economic Zone
+1560.0,Delta Diamond,8456,United States Exclusive Economic Zone
+1561.0,Modena,8456,United States Exclusive Economic Zone
+1562.0,Ansley,8456,United States Exclusive Economic Zone
+1563.0,Unnamed,8456,United States Exclusive Economic Zone
+1564.0,Honey,8456,United States Exclusive Economic Zone
+1565.0,Mary Lou,8456,United States Exclusive Economic Zone
+1566.0,Thunderbolt,8456,United States Exclusive Economic Zone
+1567.0,TM 1157,8456,United States Exclusive Economic Zone
+1568.0,Unnamed,8456,United States Exclusive Economic Zone
+1569.0,Unnamed,8456,United States Exclusive Economic Zone
+1570.0,Matt Turecamo,8456,United States Exclusive Economic Zone
+1571.0,Olympics- YC-1117,8456,United States Exclusive Economic Zone
+1572.0,Jupiter (1),8456,United States Exclusive Economic Zone
+1573.0,Recchi GLF,8456,United States Exclusive Economic Zone
+1574.0,Unnamed,8456,United States Exclusive Economic Zone
+1575.0,Mac Tide 21,8456,United States Exclusive Economic Zone
+1576.0,Rio Apon,8456,United States Exclusive Economic Zone
+1577.0,Rio Caroni,8456,United States Exclusive Economic Zone
+1578.0,Semarca 40,8456,United States Exclusive Economic Zone
+1579.0,Zapala,8456,United States Exclusive Economic Zone
+1580.0,Unnamed,8456,United States Exclusive Economic Zone
+1581.0,Unnamed,8456,United States Exclusive Economic Zone
+1582.0,Unnamed,8456,United States Exclusive Economic Zone
+1583.0,MOBRO  Northern Hopper Barge,8456,United States Exclusive Economic Zone
+1584.0,MOBRO Southern Hopper Barge,8456,United States Exclusive Economic Zone
+1585.0,Bow string,8456,United States Exclusive Economic Zone
+1586.0,Reid McAllister,8456,United States Exclusive Economic Zone
+1587.0,McAllister,8456,United States Exclusive Economic Zone
+1588.0,Unnamed,8456,United States Exclusive Economic Zone
+1589.0,Unnamed,8456,United States Exclusive Economic Zone
+1590.0,Unnamed,8456,United States Exclusive Economic Zone
+1591.0,Barbara McAllister,8456,United States Exclusive Economic Zone
+1592.0,Unnamed,8456,United States Exclusive Economic Zone
+1593.0,Devon,8456,United States Exclusive Economic Zone
+1594.0,Esparta,8456,United States Exclusive Economic Zone
+1595.0,Euwin St. Phillips,8456,United States Exclusive Economic Zone
+1596.0,Landing Craft,8456,United States Exclusive Economic Zone
+1597.0,LLM,8456,United States Exclusive Economic Zone
+1598.0,Vincent Turecamo,8456,United States Exclusive Economic Zone
+1600.0,Grace,8456,United States Exclusive Economic Zone
+1601.0,Oriental Trader,8456,United States Exclusive Economic Zone
+1602.0,Rachael,8456,United States Exclusive Economic Zone
+1603.0,Sapelo II,8456,United States Exclusive Economic Zone
+1604.0,Pegasus,8456,United States Exclusive Economic Zone
+1605.0,Kinsale,8456,United States Exclusive Economic Zone
+1606.0,Margaret Turecamo,8456,United States Exclusive Economic Zone
+1607.0,Jane Yarn,8456,United States Exclusive Economic Zone
+1608.0,Unnamed,8456,United States Exclusive Economic Zone
+1609.0,Unnamed,8456,United States Exclusive Economic Zone
+1610.0,Jupiter (2),8456,United States Exclusive Economic Zone
+1611.0,Sailboat,8456,United States Exclusive Economic Zone
+1612.0,Steel Vessel,8456,United States Exclusive Economic Zone
+1613.0,TIC,8456,United States Exclusive Economic Zone
+1614.0,Unnamed,8456,United States Exclusive Economic Zone
+1615.0,Unnamed,8456,United States Exclusive Economic Zone
+1616.0,John Bird,8456,United States Exclusive Economic Zone
+1617.0,M-60 Battle Tanks,8456,United States Exclusive Economic Zone
+1618.0,M-60 Battle Tanks,8456,United States Exclusive Economic Zone
+1619.0,M-60 Battle Tanks,8456,United States Exclusive Economic Zone
+1620.0,M-60 Battle Tanks,8456,United States Exclusive Economic Zone
+1621.0,M-60 Battle Tanks,8456,United States Exclusive Economic Zone
+1622.0,M-60 Battle Tanks,8456,United States Exclusive Economic Zone
+1623.0,M-60 Battle Tanks,8456,United States Exclusive Economic Zone
+1624.0,M-60 Battle Tanks,8456,United States Exclusive Economic Zone
+1625.0,M-60 Battle Tanks,8456,United States Exclusive Economic Zone
+1626.0,M-60 Battle Tanks,8456,United States Exclusive Economic Zone
+1627.0,M-60 Battle Tanks,8456,United States Exclusive Economic Zone
+1628.0,M-60 Battle Tanks,8456,United States Exclusive Economic Zone
+1629.0,M-60 Battle Tanks,8456,United States Exclusive Economic Zone
+1630.0,M-60 Battle Tanks,8456,United States Exclusive Economic Zone
+1631.0,M-60 Battle Tanks,8456,United States Exclusive Economic Zone
+1632.0,M-60 Battle Tanks,8456,United States Exclusive Economic Zone
+1633.0,M-60 Battle Tanks,8456,United States Exclusive Economic Zone
+1634.0,M-60 Battle Tanks,8456,United States Exclusive Economic Zone
+1635.0,M-60 Battle Tanks,8456,United States Exclusive Economic Zone
+1636.0,M-60 Battle Tanks,8456,United States Exclusive Economic Zone
+1637.0,M-60 Battle Tanks,8456,United States Exclusive Economic Zone
+1638.0,M-60 Battle Tanks,8456,United States Exclusive Economic Zone
+1639.0,M-60 Battle Tanks,8456,United States Exclusive Economic Zone
+1640.0,M-60 Battle Tanks,8456,United States Exclusive Economic Zone
+1641.0,M-60 Battle Tanks,8456,United States Exclusive Economic Zone
+1642.0,M-60 Battle Tanks,8456,United States Exclusive Economic Zone
+1643.0,M-60 Battle Tanks,8456,United States Exclusive Economic Zone
+1644.0,M-60 Battle Tanks,8456,United States Exclusive Economic Zone
+1645.0,M-60 Battle Tanks,8456,United States Exclusive Economic Zone
+1646.0,M-60 Battle Tanks,8456,United States Exclusive Economic Zone
+1647.0,M-60 Battle Tanks,8456,United States Exclusive Economic Zone
+1648.0,NYCTA Subway Car,8456,United States Exclusive Economic Zone
+1649.0,NYCTA Subway Car,8456,United States Exclusive Economic Zone
+1650.0,NYCTA Subway Car,8456,United States Exclusive Economic Zone
+1651.0,NYCTA Subway Car,8456,United States Exclusive Economic Zone
+1652.0,NYCTA Subway Car,8456,United States Exclusive Economic Zone
+1653.0,NYCTA Subway Car,8456,United States Exclusive Economic Zone
+1654.0,NYCTA Subway Car,8456,United States Exclusive Economic Zone
+1655.0,NYCTA Subway Car,8456,United States Exclusive Economic Zone
+1656.0,NYCTA Subway Car,8456,United States Exclusive Economic Zone
+1657.0,NYCTA Subway Car,8456,United States Exclusive Economic Zone
+1658.0,NYCTA Subway Car,8456,United States Exclusive Economic Zone
+1659.0,NYCTA Subway Car,8456,United States Exclusive Economic Zone
+1660.0,NYCTA Subway Car,8456,United States Exclusive Economic Zone
+1661.0,NYCTA Subway Car,8456,United States Exclusive Economic Zone
+1662.0,NYCTA Subway Car,8456,United States Exclusive Economic Zone
+1663.0,NYCTA Subway Car,8456,United States Exclusive Economic Zone
+1664.0,NYCTA Subway Car,8456,United States Exclusive Economic Zone
+1665.0,NYCTA Subway Car,8456,United States Exclusive Economic Zone
+1666.0,NYCTA Subway Car,8456,United States Exclusive Economic Zone
+1667.0,NYCTA Subway Car,8456,United States Exclusive Economic Zone
+1668.0,NYCTA Subway Car,8456,United States Exclusive Economic Zone
+1669.0,NYCTA Subway Car,8456,United States Exclusive Economic Zone
+1670.0,NYCTA Subway Car,8456,United States Exclusive Economic Zone
+1671.0,NYCTA Subway Car,8456,United States Exclusive Economic Zone
+1672.0,NYCTA Subway Car,8456,United States Exclusive Economic Zone
+1673.0,NYCTA Subway Car,8456,United States Exclusive Economic Zone
+1674.0,NYCTA Subway Car,8456,United States Exclusive Economic Zone
+1675.0,NYCTA Subway Car,8456,United States Exclusive Economic Zone
+1676.0,NYCTA Subway Car,8456,United States Exclusive Economic Zone
+1677.0,NYCTA Subway Car,8456,United States Exclusive Economic Zone
+1678.0,NYCTA Subway Car,8456,United States Exclusive Economic Zone
+1679.0,NYCTA Subway Car,8456,United States Exclusive Economic Zone
+1680.0,NYCTA Subway Car,8456,United States Exclusive Economic Zone
+1681.0,NYCTA Subway Car,8456,United States Exclusive Economic Zone
+1682.0,NYCTA Subway Car,8456,United States Exclusive Economic Zone
+1683.0,NYCTA Subway Car,8456,United States Exclusive Economic Zone
+1684.0,NYCTA Subway Car,8456,United States Exclusive Economic Zone
+1685.0,NYCTA Subway Car,8456,United States Exclusive Economic Zone
+1686.0,NYCTA Subway Car,8456,United States Exclusive Economic Zone
+1687.0,NYCTA Subway Car,8456,United States Exclusive Economic Zone
+1688.0,NYCTA Subway Car,8456,United States Exclusive Economic Zone
+1689.0,NYCTA Subway Car,8456,United States Exclusive Economic Zone
+1690.0,NYCTA Subway Car,8456,United States Exclusive Economic Zone
+1691.0,NYCTA Subway Car,8456,United States Exclusive Economic Zone
+1692.0,NYCTA Subway Car,8456,United States Exclusive Economic Zone
+1693.0,NYCTA Subway Car,8456,United States Exclusive Economic Zone
+1694.0,NYCTA Subway Car,8456,United States Exclusive Economic Zone
+1695.0,NYCTA Subway Car,8456,United States Exclusive Economic Zone
+1696.0,NYCTA Subway Car,8456,United States Exclusive Economic Zone
+1697.0,NYCTA Subway Car,8456,United States Exclusive Economic Zone
+1698.0,NYCTA Subway Car,8456,United States Exclusive Economic Zone
+1699.0,NYCTA Subway Car,8456,United States Exclusive Economic Zone
+1700.0,NYCTA Subway Car,8456,United States Exclusive Economic Zone
+1701.0,NYCTA Subway Car,8456,United States Exclusive Economic Zone
+1702.0,NYCTA Subway Car,8456,United States Exclusive Economic Zone
+1703.0,NYCTA Subway Car,8456,United States Exclusive Economic Zone
+1704.0,NYCTA Subway Car,8456,United States Exclusive Economic Zone
+1705.0,NYCTA Subway Car,8456,United States Exclusive Economic Zone
+1706.0,NYCTA Subway Car,8456,United States Exclusive Economic Zone
+1707.0,NYCTA Subway Car,8456,United States Exclusive Economic Zone
+1708.0,NYCTA Subway Car,8456,United States Exclusive Economic Zone
+1709.0,NYCTA Subway Car,8456,United States Exclusive Economic Zone
+1710.0,NYCTA Subway Car,8456,United States Exclusive Economic Zone
+1711.0,NYCTA Subway Car,8456,United States Exclusive Economic Zone
+1712.0,NYCTA Subway Car,8456,United States Exclusive Economic Zone
+1713.0,NYCTA Subway Car,8456,United States Exclusive Economic Zone
+1714.0,NYCTA Subway Car,8456,United States Exclusive Economic Zone
+1715.0,NYCTA Subway Car,8456,United States Exclusive Economic Zone
+1716.0,NYCTA Subway Car,8456,United States Exclusive Economic Zone
+1717.0,NYCTA Subway Car,8456,United States Exclusive Economic Zone
+1718.0,NYCTA Subway Car,8456,United States Exclusive Economic Zone
+1719.0,NYCTA Subway Car,8456,United States Exclusive Economic Zone
+1720.0,NYCTA Subway Car,8456,United States Exclusive Economic Zone
+1721.0,NYCTA Subway Car,8456,United States Exclusive Economic Zone
+1722.0,NYCTA Subway Car,8456,United States Exclusive Economic Zone
+1723.0,NYCTA Subway Car,8456,United States Exclusive Economic Zone
+1724.0,NYCTA Subway Car,8456,United States Exclusive Economic Zone
+1725.0,NYCTA Subway Car,8456,United States Exclusive Economic Zone
+1726.0,NYCTA Subway Car,8456,United States Exclusive Economic Zone
+1727.0,NYCTA Subway Car,8456,United States Exclusive Economic Zone
+1728.0,NYCTA Subway Car,8456,United States Exclusive Economic Zone
+1729.0,NYCTA Subway Car,8456,United States Exclusive Economic Zone
+1730.0,NYCTA Subway Car,8456,United States Exclusive Economic Zone
+1731.0,NYCTA Subway Car,8456,United States Exclusive Economic Zone
+1732.0,NYCTA Subway Car,8456,United States Exclusive Economic Zone
+1733.0,NYCTA Subway Car,8456,United States Exclusive Economic Zone
+1734.0,NYCTA Subway Car,8456,United States Exclusive Economic Zone
+1735.0,NYCTA Subway Car,8456,United States Exclusive Economic Zone
+1736.0,NYCTA Subway Car,8456,United States Exclusive Economic Zone
+1737.0,NYCTA Subway Car,8456,United States Exclusive Economic Zone
+1738.0,NYCTA Subway Car,8456,United States Exclusive Economic Zone
+1739.0,NYCTA Subway Car,8456,United States Exclusive Economic Zone
+1740.0,NYCTA Subway Car,8456,United States Exclusive Economic Zone
+1741.0,NYCTA Subway Car,8456,United States Exclusive Economic Zone
+1742.0,NYCTA Subway Car,8456,United States Exclusive Economic Zone
+1743.0,NYCTA Subway Car,8456,United States Exclusive Economic Zone
+1744.0,NYCTA Subway Car,8456,United States Exclusive Economic Zone
+1745.0,NYCTA Subway Car,8456,United States Exclusive Economic Zone
+1746.0,NYCTA Subway Car,8456,United States Exclusive Economic Zone
+1747.0,NYCTA Subway Car,8456,United States Exclusive Economic Zone
+1748.0,NYCTA Subway Car,8456,United States Exclusive Economic Zone
+1749.0,NYCTA Subway Car,8456,United States Exclusive Economic Zone
+1750.0,NYCTA Subway Car,8456,United States Exclusive Economic Zone
+1751.0,NYCTA Subway Car,8456,United States Exclusive Economic Zone
+1752.0,NYCTA Subway Car,8456,United States Exclusive Economic Zone
+1753.0,NYCTA Subway Car,8456,United States Exclusive Economic Zone
+1754.0,NYCTA Subway Car,8456,United States Exclusive Economic Zone
+1755.0,NYCTA Subway Car,8456,United States Exclusive Economic Zone
+1756.0,NYCTA Subway Car,8456,United States Exclusive Economic Zone
+1757.0,NYCTA Subway Car,8456,United States Exclusive Economic Zone
+1758.0,NYCTA Subway Car,8456,United States Exclusive Economic Zone
+1759.0,NYCTA Subway Car,8456,United States Exclusive Economic Zone
+1760.0,NYCTA Subway Car,8456,United States Exclusive Economic Zone
+1761.0,NYCTA Subway Car,8456,United States Exclusive Economic Zone
+1762.0,NYCTA Subway Car,8456,United States Exclusive Economic Zone
+1763.0,NYCTA Subway Car,8456,United States Exclusive Economic Zone
+1764.0,NYCTA Subway Car,8456,United States Exclusive Economic Zone
+1765.0,NYCTA Subway Car,8456,United States Exclusive Economic Zone
+1766.0,NYCTA Subway Car,8456,United States Exclusive Economic Zone
+1767.0,NYCTA Subway Car,8456,United States Exclusive Economic Zone
+1768.0,NYCTA Subway Car,8456,United States Exclusive Economic Zone
+1769.0,Addie Bagley Daniels SS,8456,United States Exclusive Economic Zone
+1770.0,Sayler - CBC 601,8456,United States Exclusive Economic Zone
+1771.0,Tug-2,5685,Maltese Exclusive Economic Zone
+1772.0,Moreia MFV,8464,Brazilian Exclusive Economic Zone
+1773.0,Pietermaritzburg (HMS Pelorus),8396,South African Exclusive Economic Zone
+1776.0,Aster MFV (CTA214),8396,South African Exclusive Economic Zone
+1777.0,Doc Polson,8407,Cayman Islands Exclusive Economic Zone
+1778.0,Oro Verde MV,8407,Cayman Islands Exclusive Economic Zone
+1779.0,Scarlet Ibis MV (Maverick),8420,Trinidad and Tobago Exclusive Economic Zone
+1780.0,Round Table,8420,Trinidad and Tobago Exclusive Economic Zone
+1781.0,Gran Roque MV,8433,Venezuelan Exclusive Economic Zone
+1782.0,Chien Tong MFV,26526,Sint-Eustatius Exclusive Economic Zone
+1783.0,Daini Koyomaru,8416,Saint Lucia Exclusive Economic Zone
+1784.0,Lesleen M,8416,Saint Lucia Exclusive Economic Zone
+1785.0,Charles L. Brown MV,26526,Sint-Eustatius Exclusive Economic Zone
+1786.0,Augustin Fresnel MV,33177,Guadeloupean Exclusive Economic Zone
+1787.0,Kittiwake USS (ASR-13),8407,Cayman Islands Exclusive Economic Zone
+1788.0,P-52 (Ulla),5693,Spanish Exclusive Economic Zone
+1789.0,P-54 (Turia),5693,Spanish Exclusive Economic Zone
+1790.0,HTMS Mataphon,8332,Thailand Exclusive Economic Zone
+1791.0,HTMS Chang,8332,Thailand Exclusive Economic Zone
+1792.0,Scylla HMS (F71),5696,United Kingdom Exclusive Economic Zone
+1793.0,Felipe Xicotencatl,8429,Mexican Exclusive Economic Zone
+1794.0,Island Cement MV,8404,Bahamas Exclusive Economic Zone
+1795.0,Mataora MV,8446,Cook Islands Exclusive Economic Zone
+1796.0,Aerosund II MV,5674,Danish Exclusive Economic Zone
+1797.0,Mauve (la) SS,21789,Jersey Exclusive Economic Zone
+1798.0,HTMS Ravi (LCT 762) ,8332,Thailand Exclusive Economic Zone
+1799.0,HTMS Kledkaeo (AKS 861),8332,Thailand Exclusive Economic Zone
+1800.0,The Forceful,8402,Bermudian Exclusive Economic Zone
+1801.0,Antonio Lorenzo,8338,Réunion Exclusive Economic Zone
+1802.0,Transvaal,8396,South African Exclusive Economic Zone
+1803.0,Good Hope,8396,South African Exclusive Economic Zone
+1804.0,Rockeater,8396,South African Exclusive Economic Zone
+1805.0,Princess Elizabeth,8396,South African Exclusive Economic Zone
+1806.0,Oratava,8396,South African Exclusive Economic Zone
+1807.0,Franjack MV,33177,Guadeloupean Exclusive Economic Zone
+1808.0,Hildur MV,8419,Grenadian Exclusive Economic Zone
+1809.0,Boreas,5693,Spanish Exclusive Economic Zone
+1810.0,Douglas DC-3,5697,Turkish Exclusive Economic Zone
+1811.0,Yukon HMCS (DDE-263),8456,United States Exclusive Economic Zone
+1814.0,P-31,5685,Maltese Exclusive Economic Zone
+1815.0,Tug-10,5685,Maltese Exclusive Economic Zone
+1816.0,St. Michael,5685,Maltese Exclusive Economic Zone
+1818.0,MV Xlendi,5685,Maltese Exclusive Economic Zone
+1819.0,Inganess Bay MV,8411,British Virgin Islands Exclusive Economic Zone
+1820.0,Captain Keith Tibbetts MV,8407,Cayman Islands Exclusive Economic Zone
+1821.0,Stavronikita,8418,Barbados Exclusive Economic Zone
+1822.0,Papuan Explorer MV,8325,Fijian Exclusive Economic Zone
+1823.0,Ahi Sofa,8375,Israeli Exclusive Economic Zone
+1824.0,Dania MV,8349,Kenyan Exclusive Economic Zone
+1825.0,Sea Tiger,8453,United States Exclusive Economic Zone (Hawaii)
+1826.0,Bream,8323,Australian Exclusive Economic Zone
+1827.0,Maryborough,8323,Australian Exclusive Economic Zone
+1828.0,Remora,8323,Australian Exclusive Economic Zone
+1829.0,Platypus II,8323,Australian Exclusive Economic Zone
+1830.0,Seal,8323,Australian Exclusive Economic Zone
+1831.0,Stingaree,8323,Australian Exclusive Economic Zone
+1832.0,Lady Norman,8323,Australian Exclusive Economic Zone
+1833.0,Otter,8323,Australian Exclusive Economic Zone
+1834.0,Kos I,8323,Australian Exclusive Economic Zone
+1835.0,Pelican,8323,Australian Exclusive Economic Zone
+1836.0,Morwong,8323,Australian Exclusive Economic Zone
+1837.0,Kos II,8323,Australian Exclusive Economic Zone
+1838.0,Iceberg,8323,Australian Exclusive Economic Zone
+1839.0,Lass O'Gowrie,8323,Australian Exclusive Economic Zone
+1841.0,Himma,8323,Australian Exclusive Economic Zone
+1842.0,Pyrmont II,8323,Australian Exclusive Economic Zone
+1843.0,Uki,8323,Australian Exclusive Economic Zone
+1844.0,Melbourne,8323,Australian Exclusive Economic Zone
+1845.0,Unidentified,8323,Australian Exclusive Economic Zone
+1846.0,Bellubera,8323,Australian Exclusive Economic Zone
+1847.0,Coolooli,8323,Australian Exclusive Economic Zone
+1848.0,No. 656,8323,Australian Exclusive Economic Zone
+1849.0,Unidentified,8323,Australian Exclusive Economic Zone
+1850.0,Unidentified,8323,Australian Exclusive Economic Zone
+1853.0,Neville Bonnar,8323,Australian Exclusive Economic Zone
+1854.0,Verdier,8323,Australian Exclusive Economic Zone
+1855.0,Echeneis,8323,Australian Exclusive Economic Zone
+1856.0,Hopper Barge,8323,Australian Exclusive Economic Zone
+1857.0,Hopper Barge,8323,Australian Exclusive Economic Zone
+1858.0,Loevestein,8323,Australian Exclusive Economic Zone
+1859.0,Solace,8323,Australian Exclusive Economic Zone
+1860.0,Crusader II,8323,Australian Exclusive Economic Zone
+1861.0,South Australian,8323,Australian Exclusive Economic Zone
+1862.0,Barrambin,8323,Australian Exclusive Economic Zone
+1863.0,No. 651,8323,Australian Exclusive Economic Zone
+1864.0,No. 653,8323,Australian Exclusive Economic Zone
+1865.0,No. 654,8323,Australian Exclusive Economic Zone
+1866.0,Oil fuel lighter,8323,Australian Exclusive Economic Zone
+1867.0,Henry Bolte,8323,Australian Exclusive Economic Zone
+1868.0,Tasman Hauler,8323,Australian Exclusive Economic Zone
+1869.0,Bronze  wing,8323,Australian Exclusive Economic Zone
+1870.0,Centipede,8323,Australian Exclusive Economic Zone
+1871.0,Goori,8323,Australian Exclusive Economic Zone
+1872.0,No. 25,8323,Australian Exclusive Economic Zone
+1874.0,Unidentified,8323,Australian Exclusive Economic Zone
+1875.0,Ceratodus II,8323,Australian Exclusive Economic Zone
+1876.0,Point Lookout,8323,Australian Exclusive Economic Zone
+1877.0,Lady Joyus,8323,Australian Exclusive Economic Zone
+1878.0,Seahorse,8323,Australian Exclusive Economic Zone
+1879.0,Yu Han 22,8323,Australian Exclusive Economic Zone
+1880.0,Kunmunya,8323,Australian Exclusive Economic Zone
+1881.0,Unidentified,8323,Australian Exclusive Economic Zone
+1882.0,Unidentified,8323,Australian Exclusive Economic Zone
+1883.0,Unidentified,8323,Australian Exclusive Economic Zone
+1884.0,Bermagui,8323,Australian Exclusive Economic Zone
+1885.0,Bremer,8323,Australian Exclusive Economic Zone
+1886.0,Groper,8323,Australian Exclusive Economic Zone
+1887.0,Seal,8323,Australian Exclusive Economic Zone
+1888.0,Unidentified,8323,Australian Exclusive Economic Zone
+1889.0,Unidentified,8323,Australian Exclusive Economic Zone
+1890.0,Merci Jesus,8456,United States Exclusive Economic Zone
+1891.0,Servemar X MV,8464,Brazilian Exclusive Economic Zone
+1892.0,Servemar I MV,8464,Brazilian Exclusive Economic Zone
+1893.0,Orion,8464,Brazilian Exclusive Economic Zone
+1894.0,Mercurius MV,8464,Brazilian Exclusive Economic Zone
+1895.0,Saveiros MV,8464,Brazilian Exclusive Economic Zone
+1896.0,Taurus MV,8464,Brazilian Exclusive Economic Zone
+1897.0,Cristo Rey MFV,8466,Argentinean Exclusive Economic Zone
+1899.0,Bedgellet,8380,St. Helena Exclusive Economic Zone
+1902.0,Unnamed,8380,St. Helena Exclusive Economic Zone
+1903.0,Unnamed,8380,St. Helena Exclusive Economic Zone
+1904.0,Taioma SS,8455,New Zealand Exclusive Economic Zone
+1905.0,YO-257,8453,United States Exclusive Economic Zone (Hawaii)
+1906.0,F/V Caledonie Toho 2,8312,New Caledonian Exclusive Economic Zone
+1907.0,USTS Texas Clipper,8456,United States Exclusive Economic Zone

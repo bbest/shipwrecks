@@ -1,0 +1,1880 @@
+wreck_num,wreck_name,wdpa_gid,wdpa_name
+19.0,Annapolis HMCS (DDH-265),140004,Halkett bay park
+23.0,Um El Faroud MV,209537,Rdumijiet ta' Malta: Ix-Xaqqa sa Wied Moqbol
+23.0,Um El Faroud MV,71469,Rdum mic-Cirkewwa sa Benghisa
+23.0,Um El Faroud MV,71540,Rdumijiet ta' Malta
+23.0,Um El Faroud MV,71644,Rdumijiet ta' Malta: Ix-Xaqqa sa Wied Moqbol
+23.0,Um El Faroud MV,203659,Rdumijiet ta' Malta: Ir-Ramla tac-Cirkewwa sal-Ponta ta' Benghisa
+28.0,HMNZS Wellington,120434,Taputeranga
+37.0,Beyond,164168,Waters off New Jersey
+37.0,Beyond,164297,Southern Nearshore
+37.0,Beyond,164292,Mid-Atlantic Coastal Waters Area
+38.0,Peregrine,164168,Waters off New Jersey
+38.0,Peregrine,164297,Southern Nearshore
+38.0,Peregrine,164292,Mid-Atlantic Coastal Waters Area
+39.0,The Boat,164297,Southern Nearshore
+39.0,The Boat,164292,Mid-Atlantic Coastal Waters Area
+40.0,Hancock Barge,164168,Waters off New Jersey
+40.0,Hancock Barge,164297,Southern Nearshore
+40.0,Hancock Barge,164292,Mid-Atlantic Coastal Waters Area
+41.0,Sam Berman MV,164168,Waters off New Jersey
+41.0,Sam Berman MV,164297,Southern Nearshore
+41.0,Sam Berman MV,164292,Mid-Atlantic Coastal Waters Area
+42.0,Cape Fear MFV (655734),164297,Southern Nearshore
+42.0,Cape Fear MFV (655734),164292,Mid-Atlantic Coastal Waters Area
+43.0,Steel Barge No.335,164297,Southern Nearshore
+43.0,Steel Barge No.335,164292,Mid-Atlantic Coastal Waters Area
+44.0,Captain Sam MFV,164297,Southern Nearshore
+44.0,Captain Sam MFV,164292,Mid-Atlantic Coastal Waters Area
+45.0,Niagara Falls MFV,164297,Southern Nearshore
+45.0,Niagara Falls MFV,164292,Mid-Atlantic Coastal Waters Area
+46.0,St. George MFV,164297,Southern Nearshore
+46.0,St. George MFV,164292,Mid-Atlantic Coastal Waters Area
+47.0,Two Friends MFV,164297,Southern Nearshore
+47.0,Two Friends MFV,164292,Mid-Atlantic Coastal Waters Area
+48.0,Ana Palmira MFV,164297,Southern Nearshore
+48.0,Ana Palmira MFV,164292,Mid-Atlantic Coastal Waters Area
+49.0,Connie F.,164168,Waters off New Jersey
+49.0,Connie F.,164297,Southern Nearshore
+49.0,Connie F.,164292,Mid-Atlantic Coastal Waters Area
+50.0,Hancock,164168,Waters off New Jersey
+50.0,Hancock,164297,Southern Nearshore
+50.0,Hancock,164292,Mid-Atlantic Coastal Waters Area
+51.0,Mary N,164168,Waters off New Jersey
+51.0,Mary N,164297,Southern Nearshore
+51.0,Mary N,164292,Mid-Atlantic Coastal Waters Area
+52.0,Alec N,164168,Waters off New Jersey
+52.0,Alec N,164297,Southern Nearshore
+52.0,Alec N,164292,Mid-Atlantic Coastal Waters Area
+53.0,J. J.,164297,Southern Nearshore
+53.0,J. J.,164292,Mid-Atlantic Coastal Waters Area
+54.0,Unnamed,164297,Southern Nearshore
+54.0,Unnamed,164292,Mid-Atlantic Coastal Waters Area
+110.0,AR-130 site,164296,Southern Mid-Atlantic Waters
+110.0,AR-130 site,164297,Southern Nearshore
+110.0,AR-130 site,164292,Mid-Atlantic Coastal Waters Area
+111.0,Firefighter (AR-370 site),164296,Southern Mid-Atlantic Waters
+111.0,Firefighter (AR-370 site),164292,Mid-Atlantic Coastal Waters Area
+112.0,AR-370 site,164296,Southern Mid-Atlantic Waters
+112.0,AR-370 site,164292,Mid-Atlantic Coastal Waters Area
+113.0,AR-370 site,164296,Southern Mid-Atlantic Waters
+113.0,AR-370 site,164292,Mid-Atlantic Coastal Waters Area
+114.0,Theodore Parker (AR-315 site),164296,Southern Mid-Atlantic Waters
+114.0,Theodore Parker (AR-315 site),164292,Mid-Atlantic Coastal Waters Area
+115.0,Alexander Ramsey (AR-370 site),164296,Southern Mid-Atlantic Waters
+115.0,Alexander Ramsey (AR-370 site),164292,Mid-Atlantic Coastal Waters Area
+116.0,Finest kind (AR-315 site),164296,Southern Mid-Atlantic Waters
+116.0,Finest kind (AR-315 site),164292,Mid-Atlantic Coastal Waters Area
+117.0,AR-370 site,164296,Southern Mid-Atlantic Waters
+117.0,AR-370 site,164292,Mid-Atlantic Coastal Waters Area
+118.0,Socony 8 (AR-370 site),164296,Southern Mid-Atlantic Waters
+118.0,Socony 8 (AR-370 site),164292,Mid-Atlantic Coastal Waters Area
+119.0,Stone Brothers (AR-370 site),164296,Southern Mid-Atlantic Waters
+119.0,Stone Brothers (AR-370 site),164292,Mid-Atlantic Coastal Waters Area
+120.0,AR-378B site,164296,Southern Mid-Atlantic Waters
+120.0,AR-378B site,164292,Mid-Atlantic Coastal Waters Area
+121.0,AR-378B site,164296,Southern Mid-Atlantic Waters
+121.0,AR-378B site,164292,Mid-Atlantic Coastal Waters Area
+122.0,AR-378B site,164296,Southern Mid-Atlantic Waters
+122.0,AR-378B site,164292,Mid-Atlantic Coastal Waters Area
+123.0,R. R. Stone (AR-382 site),164296,Southern Mid-Atlantic Waters
+123.0,R. R. Stone (AR-382 site),164292,Mid-Atlantic Coastal Waters Area
+124.0,Pocahontas (AR-382 site),164296,Southern Mid-Atlantic Waters
+124.0,Pocahontas (AR-382 site),164292,Mid-Atlantic Coastal Waters Area
+125.0,Novelty (AR-320 site),164296,Southern Mid-Atlantic Waters
+125.0,Novelty (AR-320 site),164292,Mid-Atlantic Coastal Waters Area
+126.0,AR-145 site,164296,Southern Mid-Atlantic Waters
+126.0,AR-145 site,164297,Southern Nearshore
+126.0,AR-145 site,164292,Mid-Atlantic Coastal Waters Area
+128.0,Mr. J.C.,164296,Southern Mid-Atlantic Waters
+128.0,Mr. J.C.,164292,Mid-Atlantic Coastal Waters Area
+129.0,Hyde (AR-386 site),164296,Southern Mid-Atlantic Waters
+129.0,Hyde (AR-386 site),164292,Mid-Atlantic Coastal Waters Area
+130.0,AR-140 site,164296,Southern Mid-Atlantic Waters
+130.0,AR-140 site,164297,Southern Nearshore
+130.0,AR-140 site,164292,Mid-Atlantic Coastal Waters Area
+131.0,AR-140 site,164296,Southern Mid-Atlantic Waters
+131.0,AR-140 site,164297,Southern Nearshore
+131.0,AR-140 site,164292,Mid-Atlantic Coastal Waters Area
+132.0,AR-315 site,164296,Southern Mid-Atlantic Waters
+132.0,AR-315 site,164292,Mid-Atlantic Coastal Waters Area
+133.0,LCM 6 (AR-364 site),164296,Southern Mid-Atlantic Waters
+133.0,LCM 6 (AR-364 site),164292,Mid-Atlantic Coastal Waters Area
+134.0,FS-26 (AR-300 site),164296,Southern Mid-Atlantic Waters
+134.0,FS-26 (AR-300 site),164292,Mid-Atlantic Coastal Waters Area
+135.0,Nancy Lee (AR-285 site),164296,Southern Mid-Atlantic Waters
+135.0,Nancy Lee (AR-285 site),164292,Mid-Atlantic Coastal Waters Area
+136.0,Yancey (AR-302 site),164296,Southern Mid-Atlantic Waters
+136.0,Yancey (AR-302 site),164292,Mid-Atlantic Coastal Waters Area
+137.0,Jell II (AR-455 site),164296,Southern Mid-Atlantic Waters
+137.0,Jell II (AR-455 site),164292,Mid-Atlantic Coastal Waters Area
+138.0,AR-230 site,164296,Southern Mid-Atlantic Waters
+138.0,AR-230 site,164292,Mid-Atlantic Coastal Waters Area
+139.0,AR-230 site,164296,Southern Mid-Atlantic Waters
+139.0,AR-230 site,164292,Mid-Atlantic Coastal Waters Area
+140.0,Captain Tom (AR-364 site),164296,Southern Mid-Atlantic Waters
+140.0,Captain Tom (AR-364 site),164292,Mid-Atlantic Coastal Waters Area
+141.0,Miss Clara (AR-255 site),164296,Southern Mid-Atlantic Waters
+141.0,Miss Clara (AR-255 site),164292,Mid-Atlantic Coastal Waters Area
+144.0,Advance II (AR-145 site),164296,Southern Mid-Atlantic Waters
+144.0,Advance II (AR-145 site),164297,Southern Nearshore
+144.0,Advance II (AR-145 site),164292,Mid-Atlantic Coastal Waters Area
+145.0,Captain Jerry (AR-364),164296,Southern Mid-Atlantic Waters
+145.0,Captain Jerry (AR-364),164292,Mid-Atlantic Coastal Waters Area
+146.0,LC-16 (AR-368 site),164296,Southern Mid-Atlantic Waters
+146.0,LC-16 (AR-368 site),164292,Mid-Atlantic Coastal Waters Area
+147.0,Markham (AR-386 site),164296,Southern Mid-Atlantic Waters
+147.0,Markham (AR-386 site),164292,Mid-Atlantic Coastal Waters Area
+148.0,Gulf Coast (AR-275 site),164296,Southern Mid-Atlantic Waters
+148.0,Gulf Coast (AR-275 site),164292,Mid-Atlantic Coastal Waters Area
+149.0,Mance Lassiter (AR-465 site),164291,Southeast U.S.
+150.0,HT-290 (AR-364 site),164296,Southern Mid-Atlantic Waters
+150.0,HT-290 (AR-364 site),164292,Mid-Atlantic Coastal Waters Area
+151.0,Takos (AR-315 site),164296,Southern Mid-Atlantic Waters
+151.0,Takos (AR-315 site),164292,Mid-Atlantic Coastal Waters Area
+153.0,Titan (AR-345 site),164296,Southern Mid-Atlantic Waters
+153.0,Titan (AR-345 site),164292,Mid-Atlantic Coastal Waters Area
+157.0,Nepomuk (AR-330 site),164296,Southern Mid-Atlantic Waters
+157.0,Nepomuk (AR-330 site),164292,Mid-Atlantic Coastal Waters Area
+158.0,OV10 Broncho (AR-315 site),164296,Southern Mid-Atlantic Waters
+158.0,OV10 Broncho (AR-315 site),164292,Mid-Atlantic Coastal Waters Area
+159.0,A-4E Skyhawk (AR-315 site),164296,Southern Mid-Atlantic Waters
+159.0,A-4E Skyhawk (AR-315 site),164292,Mid-Atlantic Coastal Waters Area
+160.0,C-130 (AR-330 site),164296,Southern Mid-Atlantic Waters
+160.0,C-130 (AR-330 site),164292,Mid-Atlantic Coastal Waters Area
+161.0,C-130 (AR-330 site),164296,Southern Mid-Atlantic Waters
+161.0,C-130 (AR-330 site),164292,Mid-Atlantic Coastal Waters Area
+162.0,USCG HU-25 Falcon 2101 (AR-145 site),164296,Southern Mid-Atlantic Waters
+162.0,USCG HU-25 Falcon 2101 (AR-145 site),164297,Southern Nearshore
+162.0,USCG HU-25 Falcon 2101 (AR-145 site),164292,Mid-Atlantic Coastal Waters Area
+163.0,USCG HU-25 Falcon 2101 (AR-145 site),164296,Southern Mid-Atlantic Waters
+163.0,USCG HU-25 Falcon 2101 (AR-145 site),164297,Southern Nearshore
+163.0,USCG HU-25 Falcon 2101 (AR-145 site),164292,Mid-Atlantic Coastal Waters Area
+164.0,AR-130 site,164296,Southern Mid-Atlantic Waters
+164.0,AR-130 site,164297,Southern Nearshore
+164.0,AR-130 site,164292,Mid-Atlantic Coastal Waters Area
+165.0,AR-130 site,164296,Southern Mid-Atlantic Waters
+165.0,AR-130 site,164297,Southern Nearshore
+165.0,AR-130 site,164292,Mid-Atlantic Coastal Waters Area
+166.0,AR-130 site,164296,Southern Mid-Atlantic Waters
+166.0,AR-130 site,164297,Southern Nearshore
+166.0,AR-130 site,164292,Mid-Atlantic Coastal Waters Area
+167.0,AR-140 site,164296,Southern Mid-Atlantic Waters
+167.0,AR-140 site,164297,Southern Nearshore
+167.0,AR-140 site,164292,Mid-Atlantic Coastal Waters Area
+168.0,Lookout (AR-298/OS-06 site),164296,Southern Mid-Atlantic Waters
+168.0,Lookout (AR-298/OS-06 site),164292,Mid-Atlantic Coastal Waters Area
+169.0,Longbay (AR-298/OS-06 site),164292,Mid-Atlantic Coastal Waters Area
+170.0,AR-298/OS-06 site,164292,Mid-Atlantic Coastal Waters Area
+176.0,Alton Lennon (AR-386 site),164296,Southern Mid-Atlantic Waters
+176.0,Alton Lennon (AR-386 site),164292,Mid-Atlantic Coastal Waters Area
+177.0,AR-386 site,164296,Southern Mid-Atlantic Waters
+177.0,AR-386 site,164292,Mid-Atlantic Coastal Waters Area
+178.0,AR-378 site,164296,Southern Mid-Atlantic Waters
+178.0,AR-378 site,164292,Mid-Atlantic Coastal Waters Area
+179.0,AR-376 site,164296,Southern Mid-Atlantic Waters
+179.0,AR-376 site,164292,Mid-Atlantic Coastal Waters Area
+180.0,AR-372 site,164296,Southern Mid-Atlantic Waters
+180.0,AR-372 site,164292,Mid-Atlantic Coastal Waters Area
+181.0,AR-372 site,164296,Southern Mid-Atlantic Waters
+181.0,AR-372 site,164292,Mid-Atlantic Coastal Waters Area
+182.0,AR-372 site,164296,Southern Mid-Atlantic Waters
+182.0,AR-372 site,164292,Mid-Atlantic Coastal Waters Area
+183.0,AR-368 site,164296,Southern Mid-Atlantic Waters
+183.0,AR-368 site,164292,Mid-Atlantic Coastal Waters Area
+184.0,AR-366 site,164296,Southern Mid-Atlantic Waters
+184.0,AR-366 site,164292,Mid-Atlantic Coastal Waters Area
+185.0,AR-366 site,164296,Southern Mid-Atlantic Waters
+185.0,AR-366 site,164292,Mid-Atlantic Coastal Waters Area
+186.0,AR-362 site,164296,Southern Mid-Atlantic Waters
+186.0,AR-362 site,164292,Mid-Atlantic Coastal Waters Area
+187.0,AR-355 site,164296,Southern Mid-Atlantic Waters
+187.0,AR-355 site,164292,Mid-Atlantic Coastal Waters Area
+188.0,AR-345 site,164296,Southern Mid-Atlantic Waters
+188.0,AR-345 site,164292,Mid-Atlantic Coastal Waters Area
+189.0,AR-340 site,164296,Southern Mid-Atlantic Waters
+189.0,AR-340 site,164292,Mid-Atlantic Coastal Waters Area
+190.0,TBM IX (AR-330 site),164296,Southern Mid-Atlantic Waters
+190.0,TBM IX (AR-330 site),164292,Mid-Atlantic Coastal Waters Area
+191.0,Cement Lady (AR-330 site),164296,Southern Mid-Atlantic Waters
+191.0,Cement Lady (AR-330 site),164292,Mid-Atlantic Coastal Waters Area
+192.0,Indra (AR-330 site),164296,Southern Mid-Atlantic Waters
+192.0,Indra (AR-330 site),164292,Mid-Atlantic Coastal Waters Area
+193.0,Hard Rock (AR-330 site),164296,Southern Mid-Atlantic Waters
+193.0,Hard Rock (AR-330 site),164292,Mid-Atlantic Coastal Waters Area
+194.0,Tramp (AR-330 site),164296,Southern Mid-Atlantic Waters
+194.0,Tramp (AR-330 site),164292,Mid-Atlantic Coastal Waters Area
+195.0,James J. Francesconi(AR-330 site),164296,Southern Mid-Atlantic Waters
+195.0,James J. Francesconi(AR-330 site),164292,Mid-Atlantic Coastal Waters Area
+196.0,Zane Grey (AR-160 site),164296,Southern Mid-Atlantic Waters
+196.0,Zane Grey (AR-160 site),164297,Southern Nearshore
+196.0,Zane Grey (AR-160 site),164292,Mid-Atlantic Coastal Waters Area
+197.0,Dionysus,164296,Southern Mid-Atlantic Waters
+197.0,Dionysus,164297,Southern Nearshore
+197.0,Dionysus,164292,Mid-Atlantic Coastal Waters Area
+198.0,AR-225 site,164296,Southern Mid-Atlantic Waters
+198.0,AR-225 site,164292,Mid-Atlantic Coastal Waters Area
+199.0,Spar (AR-305 site),164296,Southern Mid-Atlantic Waters
+199.0,Spar (AR-305 site),164292,Mid-Atlantic Coastal Waters Area
+200.0,Aeolus (AR-305 site),164296,Southern Mid-Atlantic Waters
+200.0,Aeolus (AR-305 site),164292,Mid-Atlantic Coastal Waters Area
+225.0,Little River Offshore Reef,164291,Southeast U.S.
+226.0,Little River Offshore Reef,164291,Southeast U.S.
+227.0,Little River Offshore Reef,164291,Southeast U.S.
+228.0,Little River Offshore Reef,164291,Southeast U.S.
+229.0,Little River Offshore Reef,164291,Southeast U.S.
+230.0,Little River Offshore Reef,164291,Southeast U.S.
+231.0,Little River Offshore Reef,164291,Southeast U.S.
+232.0,Little River Offshore Reef,164291,Southeast U.S.
+233.0,Little River Offshore Reef,164291,Southeast U.S.
+234.0,Little River Offshore Reef,164291,Southeast U.S.
+235.0,Little River Offshore Reef,164291,Southeast U.S.
+236.0,Barracuda Alley,164291,Southeast U.S.
+237.0,Barracuda Alley,164291,Southeast U.S.
+238.0,Barracuda Alley,164291,Southeast U.S.
+239.0,Barracuda Alley,164291,Southeast U.S.
+240.0,Barracuda Alley,164291,Southeast U.S.
+241.0,Barracuda Alley,164291,Southeast U.S.
+242.0,Barracuda Alley,164291,Southeast U.S.
+243.0,Barracuda Alley,164291,Southeast U.S.
+244.0,Barracuda Alley,164291,Southeast U.S.
+245.0,Barracuda Alley,164291,Southeast U.S.
+246.0,Barracuda Alley,164291,Southeast U.S.
+247.0,Barracuda Alley,164291,Southeast U.S.
+248.0,Barracuda Alley,164291,Southeast U.S.
+249.0,Barracuda Alley,164291,Southeast U.S.
+250.0,YO-225 - Will Goldfinch Reef,164291,Southeast U.S.
+251.0,Will Goldfinch Reef,164291,Southeast U.S.
+252.0,BP-25 Reef,164291,Southeast U.S.
+253.0,Bill Perry Jr Reef,164291,Southeast U.S.
+254.0,Bill Perry Jr Reef,164291,Southeast U.S.
+255.0,Bill Perry Jr Reef,164291,Southeast U.S.
+256.0,Bill Perry Jr Reef,164291,Southeast U.S.
+257.0,Bill Perry Jr Reef,164291,Southeast U.S.
+258.0,Bill Perry Jr Reef,164291,Southeast U.S.
+259.0,Bill Perry Jr Reef,164291,Southeast U.S.
+260.0,Bill Perry Jr Reef,164291,Southeast U.S.
+261.0,Bill Perry Jr Reef,164291,Southeast U.S.
+262.0,Bill Perry Jr Reef,164291,Southeast U.S.
+263.0,Bill Perry Jr Reef,164291,Southeast U.S.
+264.0,Bill Perry Jr Reef,164291,Southeast U.S.
+265.0,Bill Perry Jr Reef,164291,Southeast U.S.
+266.0,Bill Perry Jr Reef,164291,Southeast U.S.
+267.0,Bill Perry Jr Reef,164291,Southeast U.S.
+268.0,Bill Perry Jr Reef,164291,Southeast U.S.
+269.0,Bill Perry Jr Reef,164291,Southeast U.S.
+270.0,Bill Perry Jr Reef,164291,Southeast U.S.
+271.0,Bill Perry Jr Reef,164291,Southeast U.S.
+272.0,Paradise Reef,164291,Southeast U.S.
+273.0,Paradise Reef,164291,Southeast U.S.
+274.0,Bruce Rush Reef,164291,Southeast U.S.
+275.0,Bruce Rush Reef,164291,Southeast U.S.
+276.0,Ten Mile Reef,164291,Southeast U.S.
+277.0,Eleven Mile Reef,164291,Southeast U.S.
+278.0,Eleven Mile Reef,164291,Southeast U.S.
+279.0,Eleven Mile Reef,164291,Southeast U.S.
+280.0,Eleven Mile Reef,164291,Southeast U.S.
+281.0,Eleven Mile Reef,164291,Southeast U.S.
+282.0,Eleven Mile Reef,164291,Southeast U.S.
+283.0,Eleven Mile Reef,164291,Southeast U.S.
+284.0,Eleven Mile Reef,164291,Southeast U.S.
+285.0,Pawley's Island Reef,164291,Southeast U.S.
+286.0,Pawley's Island Reef,164291,Southeast U.S.
+287.0,Pawley's Island Reef,164291,Southeast U.S.
+288.0,Pawley's Island Reef,164291,Southeast U.S.
+289.0,Pawley's Island Reef,164291,Southeast U.S.
+290.0,Pawley's Island Reef,164291,Southeast U.S.
+292.0,Pawley's Island Reef,164291,Southeast U.S.
+293.0,Pawley's Island Reef,164291,Southeast U.S.
+294.0,Pawley's Island Reef,164291,Southeast U.S.
+295.0,Tommy Pierce Reef,164291,Southeast U.S.
+296.0,Wayne Upchurch Reef,164291,Southeast U.S.
+297.0,Wayne Upchurch Reef,164291,Southeast U.S.
+298.0,Wayne Upchurch Reef,164291,Southeast U.S.
+299.0,Wayne Upchurch Reef,164291,Southeast U.S.
+300.0,Wayne Upchurch Reef,164291,Southeast U.S.
+301.0,Wayne Upchurch Reef,164291,Southeast U.S.
+302.0,Wayne Upchurch Reef,164291,Southeast U.S.
+303.0,Georgetown Reef,164291,Southeast U.S.
+304.0,Georgetown Reef,164291,Southeast U.S.
+305.0,Georgetown Reef,164291,Southeast U.S.
+306.0,Georgetown Reef,164291,Southeast U.S.
+307.0,Georgetown  Nearshore Reef,164291,Southeast U.S.
+308.0,Georgetown  Nearshore Reef,164291,Southeast U.S.
+309.0,Georgetown  Nearshore Reef,164291,Southeast U.S.
+310.0,Georgetown  Nearshore Reef,164291,Southeast U.S.
+311.0,Georgetown  Nearshore Reef,164291,Southeast U.S.
+312.0,Georgetown  Nearshore Reef,164291,Southeast U.S.
+313.0,Georgetown  Nearshore Reef,164291,Southeast U.S.
+314.0,Georgetown  Nearshore Reef,164291,Southeast U.S.
+315.0,Georgetown  Nearshore Reef,164291,Southeast U.S.
+316.0,Georgetown  Nearshore Reef,164291,Southeast U.S.
+317.0,Capt. Sam Crayton reef,164291,Southeast U.S.
+318.0,Capt. Sam Crayton reef,164291,Southeast U.S.
+319.0,Pop DuBose's Place,164291,Southeast U.S.
+320.0,C.J. Davidson Jr Reef,164291,Southeast U.S.
+321.0,C.J. Davidson Jr Reef,164291,Southeast U.S.
+322.0,Vermilion,164291,Southeast U.S.
+323.0,Eagle - Greenville Reef,164291,Southeast U.S.
+324.0,YSR-38 - Greenville Reef,164291,Southeast U.S.
+325.0,YOG-78 - Greenville Reef,164291,Southeast U.S.
+326.0,Greenville Reef,164291,Southeast U.S.
+327.0,Greenville Reef,164291,Southeast U.S.
+328.0,JoAnn - Greenville Reef,164291,Southeast U.S.
+329.0,America - Ralph H Skelton Reef,164291,Southeast U.S.
+330.0,Cape Romain Reef,164291,Southeast U.S.
+331.0,Cape Romain Reef,164291,Southeast U.S.
+332.0,Dolphin - Cape Romain Reef,164291,Southeast U.S.
+333.0,Cape Romain Reef,164291,Southeast U.S.
+334.0,Cape Romain Reef,164291,Southeast U.S.
+335.0,Hector - Hector Reef,164291,Southeast U.S.
+336.0,Hector Reef,164291,Southeast U.S.
+337.0,Hector Reef,164291,Southeast U.S.
+338.0,Hector Reef,164291,Southeast U.S.
+339.0,Capers Reef,164291,Southeast U.S.
+340.0,Capers Reef,164291,Southeast U.S.
+341.0,Capers Reef,164291,Southeast U.S.
+342.0,Capers Reef,164291,Southeast U.S.
+343.0,Capers Reef,164291,Southeast U.S.
+344.0,Capers Reef,164291,Southeast U.S.
+345.0,Capers Reef,164291,Southeast U.S.
+346.0,Capers Reef,164291,Southeast U.S.
+347.0,Capers Reef,164291,Southeast U.S.
+348.0,Capers Reef,164291,Southeast U.S.
+349.0,Capers Reef,164291,Southeast U.S.
+350.0,Capers Reef,164291,Southeast U.S.
+351.0,Kimberly - Y-73 Reef,164291,Southeast U.S.
+352.0,Tanda - Y-73 Reef,164291,Southeast U.S.
+353.0,Helen - Y-73 Reef,164291,Southeast U.S.
+354.0,Y-73 - Y-73 Reef,164291,Southeast U.S.
+355.0,Charleston 60' Reef,164291,Southeast U.S.
+356.0,Charleston 60' Reef,164291,Southeast U.S.
+357.0,Charleston 60' Reef,164291,Southeast U.S.
+358.0,Charleston 60' Reef,164291,Southeast U.S.
+359.0,Charleston Nearshore Reef,164291,Southeast U.S.
+360.0,Charleston Nearshore Reef,164291,Southeast U.S.
+361.0,Charleston Nearshore Reef,164291,Southeast U.S.
+362.0,Charleston Nearshore Reef,164291,Southeast U.S.
+363.0,Charleston Coastal Anglers Reef,164291,Southeast U.S.
+364.0,Anne Richards - Comanche Reef,164291,Southeast U.S.
+365.0,Comanche - Comanche Reef,164291,Southeast U.S.
+366.0,Nanami - Comanche Reef,164291,Southeast U.S.
+367.0,Kiawah Reef,164291,Southeast U.S.
+368.0,Kiawah Reef,164291,Southeast U.S.
+369.0,Kiawah Reef,164291,Southeast U.S.
+370.0,Kiawah Reef,164291,Southeast U.S.
+371.0,Coppedge - Kiawah Reef,164291,Southeast U.S.
+372.0,Kiawah Reef,164291,Southeast U.S.
+373.0,Kiawah Reef,164291,Southeast U.S.
+374.0,Kiawah Reef,164291,Southeast U.S.
+375.0,Kiawah Reef,164291,Southeast U.S.
+376.0,Kiawah Reef,164291,Southeast U.S.
+377.0,Page - Edisto Reef,164291,Southeast U.S.
+378.0,YDT-16 - Edisto Reef,164291,Southeast U.S.
+379.0,Edisto Reef,164291,Southeast U.S.
+380.0,Edisto Reef,164291,Southeast U.S.
+381.0,Edisto Reef,164291,Southeast U.S.
+382.0,Edisto Reef,164291,Southeast U.S.
+383.0,Edisto Reef,164291,Southeast U.S.
+384.0,Edisto Reef,164291,Southeast U.S.
+385.0,Edisto Reef,164291,Southeast U.S.
+386.0,Edisto Reef,164291,Southeast U.S.
+387.0,CCA-Edisto reef,164291,Southeast U.S.
+389.0,CCA-Edisto reef,164291,Southeast U.S.
+390.0,CCA-Edisto reef,164291,Southeast U.S.
+391.0,CCA-Edisto reef,164291,Southeast U.S.
+392.0,CCA-Edisto reef,164291,Southeast U.S.
+393.0,N. Edisto Nearshore reef,164291,Southeast U.S.
+394.0,N. Edisto Nearshore reef,164291,Southeast U.S.
+395.0,N. Edisto Nearshore reef,164291,Southeast U.S.
+396.0,N. Edisto Nearshore reef,164291,Southeast U.S.
+397.0,Capt. Morgan - CCA-McClellanville Reef,164291,Southeast U.S.
+398.0,Duane Merrit - Jimmy Leland Reef,164291,Southeast U.S.
+399.0,Researcher - Edisto Offshore Reef,164291,Southeast U.S.
+400.0,Edisto Offshore Reef,164291,Southeast U.S.
+401.0,Waban - Edisto Offshore Reef,164291,Southeast U.S.
+402.0,Forgiven - Edisto Offshore Reef,164291,Southeast U.S.
+403.0,Fripp Island Reef,164291,Southeast U.S.
+404.0,Fripp Island Reef,164291,Southeast U.S.
+405.0,Fripp Island Reef,164291,Southeast U.S.
+406.0,Fripp Island Reef,164291,Southeast U.S.
+407.0,Fripp Island Reef,164291,Southeast U.S.
+408.0,Fripp Island Reef,164291,Southeast U.S.
+409.0,Fripp Island Reef,164291,Southeast U.S.
+410.0,Fripp Island Reef,164291,Southeast U.S.
+411.0,Hunting Island Reef,164291,Southeast U.S.
+412.0,Hunting Island Reef,164291,Southeast U.S.
+413.0,Hunting Island Reef,164291,Southeast U.S.
+414.0,Hunting Island Reef,164291,Southeast U.S.
+415.0,Hunting Island Reef,164291,Southeast U.S.
+416.0,Hunting Island Reef,164291,Southeast U.S.
+417.0,Hunting Island Reef,164291,Southeast U.S.
+418.0,Hunting Island Reef,164291,Southeast U.S.
+419.0,Hunting Island Reef,164291,Southeast U.S.
+420.0,Hunting Island Reef,164291,Southeast U.S.
+421.0,General Gordon Reef,164291,Southeast U.S.
+422.0,General Gordon - General Gordon Reef,164291,Southeast U.S.
+423.0,Beaufort 45' Reef,164291,Southeast U.S.
+424.0,Beaufort 45' Reef,164291,Southeast U.S.
+425.0,Beaufort 45' Reef,164291,Southeast U.S.
+426.0,Beaufort 45' Reef,164291,Southeast U.S.
+427.0,Beaufort 45' Reef,164291,Southeast U.S.
+428.0,Beaufort 45' Reef,164291,Southeast U.S.
+429.0,Beaufort 45' Reef,164291,Southeast U.S.
+430.0,Beaufort 45' Reef,164291,Southeast U.S.
+431.0,Beaufort 45' Reef,164291,Southeast U.S.
+432.0,Beaufort 45' Reef,164291,Southeast U.S.
+433.0,Beaufort 45' Reef,164291,Southeast U.S.
+434.0,Beaufort 45' Reef,164291,Southeast U.S.
+435.0,Beaufort 45' Reef,164291,Southeast U.S.
+436.0,Betsy Ross - Betsy Ross Reef,164291,Southeast U.S.
+437.0,YO-224 - Betsy Ross Reef,164291,Southeast U.S.
+438.0,Betsy Ross Reef,164291,Southeast U.S.
+439.0,Betsy Ross Reef,164291,Southeast U.S.
+440.0,Betsy Ross Reef,164291,Southeast U.S.
+441.0,Betsy Ross Reef,164291,Southeast U.S.
+442.0,Betsy Ross Reef,164291,Southeast U.S.
+443.0,Betsy Ross Reef,164291,Southeast U.S.
+444.0,Betsy Ross Reef,164291,Southeast U.S.
+445.0,White Water Reef,164291,Southeast U.S.
+446.0,White Water Reef,164291,Southeast U.S.
+447.0,White Water Reef,164291,Southeast U.S.
+448.0,White Water Reef,164291,Southeast U.S.
+449.0,Eagle's Nest Reef,164291,Southeast U.S.
+450.0,Eagle's Nest Reef,164291,Southeast U.S.
+451.0,Eagle's Nest Reef,164291,Southeast U.S.
+452.0,Eagle's Nest Reef,164291,Southeast U.S.
+453.0,Eagle's Nest Reef,164291,Southeast U.S.
+454.0,Eagle's Nest Reef,164291,Southeast U.S.
+455.0,Eagle's Nest Reef,164291,Southeast U.S.
+456.0,Eagle's Nest Reef,164291,Southeast U.S.
+457.0,Eagle's Nest Reef,164291,Southeast U.S.
+458.0,Eagle's Nest Reef,164291,Southeast U.S.
+459.0,Eagle's Nest Reef,164291,Southeast U.S.
+460.0,Eagle's Nest Reef,164291,Southeast U.S.
+461.0,Eagle's Nest Reef,164291,Southeast U.S.
+462.0,Eagle's Nest Reef,164291,Southeast U.S.
+463.0,Eagle's Nest Reef,164291,Southeast U.S.
+464.0,Hilton Head Reef,164291,Southeast U.S.
+465.0,Hilton Head Reef,164291,Southeast U.S.
+466.0,Hilton Head Reef,164291,Southeast U.S.
+467.0,Hilton Head Reef,164291,Southeast U.S.
+468.0,Hilton Head Reef,164291,Southeast U.S.
+469.0,Hilton Head Reef,164291,Southeast U.S.
+470.0,Hilton Head Reef,164291,Southeast U.S.
+471.0,Hilton Head Reef,164291,Southeast U.S.
+472.0,Hilton Head Reef,164291,Southeast U.S.
+473.0,Hilton Head Reef,164291,Southeast U.S.
+474.0,Hilton Head Reef,164291,Southeast U.S.
+475.0,BP-25 Reef,164291,Southeast U.S.
+476.0,BP-25 Reef,164291,Southeast U.S.
+477.0,BP-25 Reef,164291,Southeast U.S.
+478.0,BP-25 Reef,164291,Southeast U.S.
+479.0,BP-25 Reef,164291,Southeast U.S.
+480.0,BP-25 Reef,164291,Southeast U.S.
+481.0,Eleven Mile Reef,164291,Southeast U.S.
+482.0,Vermilion Reef,164291,Southeast U.S.
+483.0,Vermilion Reef,164291,Southeast U.S.
+484.0,Vermilion Reef,164291,Southeast U.S.
+485.0,Vermilion Reef,164291,Southeast U.S.
+486.0,Vermilion Reef,164291,Southeast U.S.
+487.0,Vermilion Reef,164291,Southeast U.S.
+488.0,Vermilion Reef,164291,Southeast U.S.
+489.0,Vermilion Reef,164291,Southeast U.S.
+490.0,Doug Mellichamp Jr Reef,164291,Southeast U.S.
+491.0,Doug Mellichamp Jr Reef,164291,Southeast U.S.
+492.0,Doug Mellichamp Jr Reef,164291,Southeast U.S.
+493.0,Doug Mellichamp Jr Reef,164291,Southeast U.S.
+494.0,Betsy Ross Reef,164291,Southeast U.S.
+495.0,Betsy Ross Reef,164291,Southeast U.S.
+496.0,Betsy Ross Reef,164291,Southeast U.S.
+497.0,Betsy Ross Reef,164291,Southeast U.S.
+498.0,Betsy Ross Reef,164291,Southeast U.S.
+499.0,Betsy Ross Reef,164291,Southeast U.S.
+500.0,White Water Reef,164291,Southeast U.S.
+501.0,White Water Reef,164291,Southeast U.S.
+502.0,Eagle's Nest Reef,164291,Southeast U.S.
+503.0,Eagle's Nest Reef,164291,Southeast U.S.
+504.0,Eagle's Nest Reef,164291,Southeast U.S.
+505.0,Hilton Head Reef,164291,Southeast U.S.
+506.0,Hilton Head Reef,164291,Southeast U.S.
+507.0,Hilton Head Reef,164291,Southeast U.S.
+508.0,Grand Strand Saltwater Anglers Reef,164291,Southeast U.S.
+509.0,Grand Strand Saltwater Anglers Reef,164291,Southeast U.S.
+510.0,Grand Strand Saltwater Anglers Reef,164291,Southeast U.S.
+511.0,Grand Strand Saltwater Anglers Reef,164291,Southeast U.S.
+512.0,Grand Strand Saltwater Anglers Reef,164291,Southeast U.S.
+513.0,Grand Strand Saltwater Anglers Reef,164291,Southeast U.S.
+517.0,Keegan,164168,Waters off New Jersey
+517.0,Keegan,164163,Mudhole
+517.0,Keegan,164297,Southern Nearshore
+517.0,Keegan,164292,Mid-Atlantic Coastal Waters Area
+519.0,Coleman Barge II,164168,Waters off New Jersey
+519.0,Coleman Barge II,164163,Mudhole
+519.0,Coleman Barge II,164297,Southern Nearshore
+519.0,Coleman Barge II,164292,Mid-Atlantic Coastal Waters Area
+520.0,Sea Girt Reef,164168,Waters off New Jersey
+520.0,Sea Girt Reef,164163,Mudhole
+520.0,Sea Girt Reef,164297,Southern Nearshore
+520.0,Sea Girt Reef,164292,Mid-Atlantic Coastal Waters Area
+521.0,Sea Girt Reef,164168,Waters off New Jersey
+521.0,Sea Girt Reef,164163,Mudhole
+521.0,Sea Girt Reef,164297,Southern Nearshore
+521.0,Sea Girt Reef,164292,Mid-Atlantic Coastal Waters Area
+522.0,Carlson II,164168,Waters off New Jersey
+522.0,Carlson II,164163,Mudhole
+522.0,Carlson II,164297,Southern Nearshore
+522.0,Carlson II,164292,Mid-Atlantic Coastal Waters Area
+523.0,Cranford,164168,Waters off New Jersey
+523.0,Cranford,164163,Mudhole
+523.0,Cranford,164297,Southern Nearshore
+523.0,Cranford,164292,Mid-Atlantic Coastal Waters Area
+524.0,Spartan,164168,Waters off New Jersey
+524.0,Spartan,164163,Mudhole
+524.0,Spartan,164297,Southern Nearshore
+524.0,Spartan,164292,Mid-Atlantic Coastal Waters Area
+525.0,Rockland county,164168,Waters off New Jersey
+525.0,Rockland county,164163,Mudhole
+525.0,Rockland county,164297,Southern Nearshore
+525.0,Rockland county,164292,Mid-Atlantic Coastal Waters Area
+526.0,Kiley B.,164168,Waters off New Jersey
+526.0,Kiley B.,164163,Mudhole
+526.0,Kiley B.,164297,Southern Nearshore
+526.0,Kiley B.,164292,Mid-Atlantic Coastal Waters Area
+527.0,Swenson I,164168,Waters off New Jersey
+527.0,Swenson I,164163,Mudhole
+527.0,Swenson I,164297,Southern Nearshore
+527.0,Swenson I,164292,Mid-Atlantic Coastal Waters Area
+528.0,Swenson II,164168,Waters off New Jersey
+528.0,Swenson II,164163,Mudhole
+528.0,Swenson II,164297,Southern Nearshore
+528.0,Swenson II,164292,Mid-Atlantic Coastal Waters Area
+529.0,Car Float #52,164168,Waters off New Jersey
+529.0,Car Float #52,164163,Mudhole
+529.0,Car Float #52,164297,Southern Nearshore
+529.0,Car Float #52,164292,Mid-Atlantic Coastal Waters Area
+530.0,Morania,164168,Waters off New Jersey
+530.0,Morania,164163,Mudhole
+530.0,Morania,164297,Southern Nearshore
+530.0,Morania,164292,Mid-Atlantic Coastal Waters Area
+531.0,Dykes,164168,Waters off New Jersey
+531.0,Dykes,164163,Mudhole
+531.0,Dykes,164297,Southern Nearshore
+531.0,Dykes,164292,Mid-Atlantic Coastal Waters Area
+532.0,Horseshoe Wrecks,164168,Waters off New Jersey
+532.0,Horseshoe Wrecks,164163,Mudhole
+532.0,Horseshoe Wrecks,164297,Southern Nearshore
+532.0,Horseshoe Wrecks,164292,Mid-Atlantic Coastal Waters Area
+533.0,Cinderella,164168,Waters off New Jersey
+533.0,Cinderella,164163,Mudhole
+533.0,Cinderella,164297,Southern Nearshore
+533.0,Cinderella,164292,Mid-Atlantic Coastal Waters Area
+534.0,Sea Girt Reef,164168,Waters off New Jersey
+534.0,Sea Girt Reef,164163,Mudhole
+534.0,Sea Girt Reef,164297,Southern Nearshore
+534.0,Sea Girt Reef,164292,Mid-Atlantic Coastal Waters Area
+535.0,Keneth Truesdale Reef,164168,Waters off New Jersey
+535.0,Keneth Truesdale Reef,164163,Mudhole
+535.0,Keneth Truesdale Reef,164297,Southern Nearshore
+535.0,Keneth Truesdale Reef,164292,Mid-Atlantic Coastal Waters Area
+536.0,Capt. Etzel,164168,Waters off New Jersey
+536.0,Capt. Etzel,164163,Mudhole
+536.0,Capt. Etzel,164297,Southern Nearshore
+536.0,Capt. Etzel,164292,Mid-Atlantic Coastal Waters Area
+537.0,FCO Reef,164168,Waters off New Jersey
+537.0,FCO Reef,164163,Mudhole
+537.0,FCO Reef,164297,Southern Nearshore
+537.0,FCO Reef,164292,Mid-Atlantic Coastal Waters Area
+538.0,Ocean Wreck Divers II,164168,Waters off New Jersey
+538.0,Ocean Wreck Divers II,164163,Mudhole
+538.0,Ocean Wreck Divers II,164297,Southern Nearshore
+538.0,Ocean Wreck Divers II,164292,Mid-Atlantic Coastal Waters Area
+539.0,G. A. Venturo,164168,Waters off New Jersey
+539.0,G. A. Venturo,164163,Mudhole
+539.0,G. A. Venturo,164297,Southern Nearshore
+539.0,G. A. Venturo,164292,Mid-Atlantic Coastal Waters Area
+540.0,The Fisherman Reef,164168,Waters off New Jersey
+540.0,The Fisherman Reef,164163,Mudhole
+540.0,The Fisherman Reef,164297,Southern Nearshore
+540.0,The Fisherman Reef,164292,Mid-Atlantic Coastal Waters Area
+541.0,Restorer,164168,Waters off New Jersey
+541.0,Restorer,164163,Mudhole
+541.0,Restorer,164297,Southern Nearshore
+541.0,Restorer,164292,Mid-Atlantic Coastal Waters Area
+542.0,Golden Eagle,164168,Waters off New Jersey
+542.0,Golden Eagle,164163,Mudhole
+542.0,Golden Eagle,164297,Southern Nearshore
+542.0,Golden Eagle,164292,Mid-Atlantic Coastal Waters Area
+543.0,Ocean Wreck Divers IV,164168,Waters off New Jersey
+543.0,Ocean Wreck Divers IV,164163,Mudhole
+543.0,Ocean Wreck Divers IV,164297,Southern Nearshore
+543.0,Ocean Wreck Divers IV,164292,Mid-Atlantic Coastal Waters Area
+544.0,Clifford Lipke Reef,164168,Waters off New Jersey
+544.0,Clifford Lipke Reef,164163,Mudhole
+544.0,Clifford Lipke Reef,164297,Southern Nearshore
+544.0,Clifford Lipke Reef,164292,Mid-Atlantic Coastal Waters Area
+545.0,DVD Banana Barge,164168,Waters off New Jersey
+545.0,DVD Banana Barge,164163,Mudhole
+545.0,DVD Banana Barge,164297,Southern Nearshore
+545.0,DVD Banana Barge,164292,Mid-Atlantic Coastal Waters Area
+546.0,Travis Stephen,164168,Waters off New Jersey
+546.0,Travis Stephen,164163,Mudhole
+546.0,Travis Stephen,164297,Southern Nearshore
+546.0,Travis Stephen,164292,Mid-Atlantic Coastal Waters Area
+547.0,Wedding Barge,164168,Waters off New Jersey
+547.0,Wedding Barge,164163,Mudhole
+547.0,Wedding Barge,164297,Southern Nearshore
+547.0,Wedding Barge,164292,Mid-Atlantic Coastal Waters Area
+548.0,Trevor Dixon Memorial Shipwreck,164168,Waters off New Jersey
+548.0,Trevor Dixon Memorial Shipwreck,164163,Mudhole
+548.0,Trevor Dixon Memorial Shipwreck,164297,Southern Nearshore
+548.0,Trevor Dixon Memorial Shipwreck,164292,Mid-Atlantic Coastal Waters Area
+549.0,Ed Bogart Memorial Reef,164168,Waters off New Jersey
+549.0,Ed Bogart Memorial Reef,164163,Mudhole
+549.0,Ed Bogart Memorial Reef,164297,Southern Nearshore
+549.0,Ed Bogart Memorial Reef,164292,Mid-Atlantic Coastal Waters Area
+550.0,Coney Island,164168,Waters off New Jersey
+550.0,Coney Island,164163,Mudhole
+550.0,Coney Island,164297,Southern Nearshore
+550.0,Coney Island,164292,Mid-Atlantic Coastal Waters Area
+551.0,Alan Martin,164168,Waters off New Jersey
+551.0,Alan Martin,164163,Mudhole
+551.0,Alan Martin,164297,Southern Nearshore
+551.0,Alan Martin,164292,Mid-Atlantic Coastal Waters Area
+552.0,Sam Berman,164168,Waters off New Jersey
+552.0,Sam Berman,164163,Mudhole
+552.0,Sam Berman,164297,Southern Nearshore
+552.0,Sam Berman,164292,Mid-Atlantic Coastal Waters Area
+553.0,USS Algol,164168,Waters off New Jersey
+553.0,USS Algol,164163,Mudhole
+553.0,USS Algol,164297,Southern Nearshore
+553.0,USS Algol,164292,Mid-Atlantic Coastal Waters Area
+554.0,Billy D,164168,Waters off New Jersey
+554.0,Billy D,164163,Mudhole
+554.0,Billy D,164297,Southern Nearshore
+554.0,Billy D,164292,Mid-Atlantic Coastal Waters Area
+555.0,Mako Mania Wreck,164168,Waters off New Jersey
+555.0,Mako Mania Wreck,164163,Mudhole
+555.0,Mako Mania Wreck,164297,Southern Nearshore
+555.0,Mako Mania Wreck,164292,Mid-Atlantic Coastal Waters Area
+556.0,Capt. Bart,164168,Waters off New Jersey
+556.0,Capt. Bart,164163,Mudhole
+556.0,Capt. Bart,164297,Southern Nearshore
+556.0,Capt. Bart,164292,Mid-Atlantic Coastal Waters Area
+557.0,HRFA-NJ,164168,Waters off New Jersey
+557.0,HRFA-NJ,164163,Mudhole
+557.0,HRFA-NJ,164297,Southern Nearshore
+557.0,HRFA-NJ,164292,Mid-Atlantic Coastal Waters Area
+558.0,Jack?s Spot,164168,Waters off New Jersey
+558.0,Jack?s Spot,164163,Mudhole
+558.0,Jack?s Spot,164297,Southern Nearshore
+558.0,Jack?s Spot,164292,Mid-Atlantic Coastal Waters Area
+559.0,Caputi?s Train Wreck,164168,Waters off New Jersey
+559.0,Caputi?s Train Wreck,164163,Mudhole
+559.0,Caputi?s Train Wreck,164297,Southern Nearshore
+559.0,Caputi?s Train Wreck,164292,Mid-Atlantic Coastal Waters Area
+560.0,Muir?s Submarine Express,164168,Waters off New Jersey
+560.0,Muir?s Submarine Express,164163,Mudhole
+560.0,Muir?s Submarine Express,164297,Southern Nearshore
+560.0,Muir?s Submarine Express,164292,Mid-Atlantic Coastal Waters Area
+561.0,Colleen GPPCBA/Budweiser Reef,164168,Waters off New Jersey
+561.0,Colleen GPPCBA/Budweiser Reef,164297,Southern Nearshore
+561.0,Colleen GPPCBA/Budweiser Reef,164292,Mid-Atlantic Coastal Waters Area
+562.0,Capt. Ed Schmidiger,164168,Waters off New Jersey
+562.0,Capt. Ed Schmidiger,164297,Southern Nearshore
+562.0,Capt. Ed Schmidiger,164292,Mid-Atlantic Coastal Waters Area
+563.0,Ocean Wreck Divers III,164168,Waters off New Jersey
+563.0,Ocean Wreck Divers III,164297,Southern Nearshore
+563.0,Ocean Wreck Divers III,164292,Mid-Atlantic Coastal Waters Area
+564.0,Joseph M. Doherty Reef,164168,Waters off New Jersey
+564.0,Joseph M. Doherty Reef,164297,Southern Nearshore
+564.0,Joseph M. Doherty Reef,164292,Mid-Atlantic Coastal Waters Area
+565.0,Manasquan Fishing Club Reef,164168,Waters off New Jersey
+565.0,Manasquan Fishing Club Reef,164297,Southern Nearshore
+565.0,Manasquan Fishing Club Reef,164292,Mid-Atlantic Coastal Waters Area
+566.0,The Explorer,164168,Waters off New Jersey
+566.0,The Explorer,164297,Southern Nearshore
+566.0,The Explorer,164292,Mid-Atlantic Coastal Waters Area
+567.0,Wasabi Reef,164168,Waters off New Jersey
+567.0,Wasabi Reef,164297,Southern Nearshore
+567.0,Wasabi Reef,164292,Mid-Atlantic Coastal Waters Area
+568.0,McGurr?s Tug,164168,Waters off New Jersey
+568.0,McGurr?s Tug,164297,Southern Nearshore
+568.0,McGurr?s Tug,164292,Mid-Atlantic Coastal Waters Area
+569.0,Joan LaRie III,164168,Waters off New Jersey
+569.0,Joan LaRie III,164297,Southern Nearshore
+569.0,Joan LaRie III,164292,Mid-Atlantic Coastal Waters Area
+570.0,Jim Lynch,164168,Waters off New Jersey
+570.0,Jim Lynch,164297,Southern Nearshore
+570.0,Jim Lynch,164292,Mid-Atlantic Coastal Waters Area
+571.0,Barbara Ann,164168,Waters off New Jersey
+571.0,Barbara Ann,164297,Southern Nearshore
+571.0,Barbara Ann,164292,Mid-Atlantic Coastal Waters Area
+572.0,Patrick S. Murphy,164168,Waters off New Jersey
+572.0,Patrick S. Murphy,164297,Southern Nearshore
+572.0,Patrick S. Murphy,164292,Mid-Atlantic Coastal Waters Area
+573.0,Veronica M.,164168,Waters off New Jersey
+573.0,Veronica M.,164297,Southern Nearshore
+573.0,Veronica M.,164292,Mid-Atlantic Coastal Waters Area
+574.0,MRMTC Members Memorial Reef,164168,Waters off New Jersey
+574.0,MRMTC Members Memorial Reef,164297,Southern Nearshore
+574.0,MRMTC Members Memorial Reef,164292,Mid-Atlantic Coastal Waters Area
+575.0,Four of Clubs,164168,Waters off New Jersey
+575.0,Four of Clubs,164297,Southern Nearshore
+575.0,Four of Clubs,164292,Mid-Atlantic Coastal Waters Area
+576.0,Lucy 7,164168,Waters off New Jersey
+576.0,Lucy 7,164297,Southern Nearshore
+576.0,Lucy 7,164292,Mid-Atlantic Coastal Waters Area
+577.0,MRMTC #8,164168,Waters off New Jersey
+577.0,MRMTC #8,164297,Southern Nearshore
+577.0,MRMTC #8,164292,Mid-Atlantic Coastal Waters Area
+578.0,MRMTC #9,164168,Waters off New Jersey
+578.0,MRMTC #9,164297,Southern Nearshore
+578.0,MRMTC #9,164292,Mid-Atlantic Coastal Waters Area
+579.0,Angelo?s Reef,164168,Waters off New Jersey
+579.0,Angelo?s Reef,164297,Southern Nearshore
+579.0,Angelo?s Reef,164292,Mid-Atlantic Coastal Waters Area
+580.0,MRMTC #10,164168,Waters off New Jersey
+580.0,MRMTC #10,164297,Southern Nearshore
+580.0,MRMTC #10,164292,Mid-Atlantic Coastal Waters Area
+581.0,Gus Grafas Memorial Reef,164168,Waters off New Jersey
+581.0,Gus Grafas Memorial Reef,164297,Southern Nearshore
+581.0,Gus Grafas Memorial Reef,164292,Mid-Atlantic Coastal Waters Area
+582.0,No. 9,164168,Waters off New Jersey
+582.0,No. 9,164297,Southern Nearshore
+582.0,No. 9,164292,Mid-Atlantic Coastal Waters Area
+583.0,PSI,164168,Waters off New Jersey
+583.0,PSI,164297,Southern Nearshore
+583.0,PSI,164292,Mid-Atlantic Coastal Waters Area
+584.0,Antares,164168,Waters off New Jersey
+584.0,Antares,164297,Southern Nearshore
+584.0,Antares,164292,Mid-Atlantic Coastal Waters Area
+585.0,Hank A. Dukes Reef,164168,Waters off New Jersey
+585.0,Hank A. Dukes Reef,164297,Southern Nearshore
+585.0,Hank A. Dukes Reef,164292,Mid-Atlantic Coastal Waters Area
+586.0,"LTC Joseph P. Callahan, Sr.",164168,Waters off New Jersey
+586.0,"LTC Joseph P. Callahan, Sr.",164297,Southern Nearshore
+586.0,"LTC Joseph P. Callahan, Sr.",164292,Mid-Atlantic Coastal Waters Area
+587.0,Col. Samuel R. Probasco III,164168,Waters off New Jersey
+587.0,Col. Samuel R. Probasco III,164297,Southern Nearshore
+587.0,Col. Samuel R. Probasco III,164292,Mid-Atlantic Coastal Waters Area
+588.0,Gilbert Reef,164168,Waters off New Jersey
+588.0,Gilbert Reef,164297,Southern Nearshore
+588.0,Gilbert Reef,164292,Mid-Atlantic Coastal Waters Area
+589.0,Harry White Reef,164168,Waters off New Jersey
+589.0,Harry White Reef,164297,Southern Nearshore
+589.0,Harry White Reef,164292,Mid-Atlantic Coastal Waters Area
+590.0,VHFC II,164168,Waters off New Jersey
+590.0,VHFC II,164297,Southern Nearshore
+590.0,VHFC II,164292,Mid-Atlantic Coastal Waters Area
+591.0,Barnegat Fishin' Hole #2,164168,Waters off New Jersey
+591.0,Barnegat Fishin' Hole #2,164297,Southern Nearshore
+591.0,Barnegat Fishin' Hole #2,164292,Mid-Atlantic Coastal Waters Area
+592.0,FRTC Reef,164168,Waters off New Jersey
+592.0,FRTC Reef,164297,Southern Nearshore
+592.0,FRTC Reef,164292,Mid-Atlantic Coastal Waters Area
+593.0,Tracy's Treasure,164168,Waters off New Jersey
+593.0,Tracy's Treasure,164297,Southern Nearshore
+593.0,Tracy's Treasure,164292,Mid-Atlantic Coastal Waters Area
+594.0,Willian Berndt Memorial Reef,164168,Waters off New Jersey
+594.0,Willian Berndt Memorial Reef,164297,Southern Nearshore
+594.0,Willian Berndt Memorial Reef,164292,Mid-Atlantic Coastal Waters Area
+595.0,Barnegat Fishin' Hole #3,164168,Waters off New Jersey
+595.0,Barnegat Fishin' Hole #3,164297,Southern Nearshore
+595.0,Barnegat Fishin' Hole #3,164292,Mid-Atlantic Coastal Waters Area
+596.0,"Joseph A. Matuska ""Never Enough""",164168,Waters off New Jersey
+596.0,"Joseph A. Matuska ""Never Enough""",164297,Southern Nearshore
+596.0,"Joseph A. Matuska ""Never Enough""",164292,Mid-Atlantic Coastal Waters Area
+597.0,In Memory of Fish Hawks Saltwater Anglers Reef,164168,Waters off New Jersey
+597.0,In Memory of Fish Hawks Saltwater Anglers Reef,164297,Southern Nearshore
+597.0,In Memory of Fish Hawks Saltwater Anglers Reef,164292,Mid-Atlantic Coastal Waters Area
+598.0,Charles B. Durborow Reef,164168,Waters off New Jersey
+598.0,Charles B. Durborow Reef,164297,Southern Nearshore
+598.0,Charles B. Durborow Reef,164292,Mid-Atlantic Coastal Waters Area
+599.0,Tuna Sub,164168,Waters off New Jersey
+599.0,Tuna Sub,164297,Southern Nearshore
+599.0,Tuna Sub,164292,Mid-Atlantic Coastal Waters Area
+600.0,Joe Houston Reef,164168,Waters off New Jersey
+600.0,Joe Houston Reef,164297,Southern Nearshore
+600.0,Joe Houston Reef,164292,Mid-Atlantic Coastal Waters Area
+601.0,Johnny Mesday Reef,164168,Waters off New Jersey
+601.0,Johnny Mesday Reef,164297,Southern Nearshore
+601.0,Johnny Mesday Reef,164292,Mid-Atlantic Coastal Waters Area
+602.0,Shirley Ann,164168,Waters off New Jersey
+602.0,Shirley Ann,164297,Southern Nearshore
+602.0,Shirley Ann,164292,Mid-Atlantic Coastal Waters Area
+603.0,A. H. Dumont,164168,Waters off New Jersey
+603.0,A. H. Dumont,164297,Southern Nearshore
+603.0,A. H. Dumont,164292,Mid-Atlantic Coastal Waters Area
+604.0,Aqua II,164168,Waters off New Jersey
+604.0,Aqua II,164297,Southern Nearshore
+604.0,Aqua II,164292,Mid-Atlantic Coastal Waters Area
+605.0,Molasses,164168,Waters off New Jersey
+605.0,Molasses,164297,Southern Nearshore
+605.0,Molasses,164292,Mid-Atlantic Coastal Waters Area
+606.0,Fatuk,164168,Waters off New Jersey
+606.0,Fatuk,164297,Southern Nearshore
+606.0,Fatuk,164292,Mid-Atlantic Coastal Waters Area
+607.0,Mary C.,164168,Waters off New Jersey
+607.0,Mary C.,164297,Southern Nearshore
+607.0,Mary C.,164292,Mid-Atlantic Coastal Waters Area
+608.0,Choctaw,164168,Waters off New Jersey
+608.0,Choctaw,164297,Southern Nearshore
+608.0,Choctaw,164292,Mid-Atlantic Coastal Waters Area
+609.0,Coleman II,164168,Waters off New Jersey
+609.0,Coleman II,164297,Southern Nearshore
+609.0,Coleman II,164292,Mid-Atlantic Coastal Waters Area
+610.0,Vincent Paul Pessolano,164168,Waters off New Jersey
+610.0,Vincent Paul Pessolano,164297,Southern Nearshore
+610.0,Vincent Paul Pessolano,164292,Mid-Atlantic Coastal Waters Area
+611.0,Weeks 218,164168,Waters off New Jersey
+611.0,Weeks 218,164297,Southern Nearshore
+611.0,Weeks 218,164292,Mid-Atlantic Coastal Waters Area
+612.0,Bear's Reef,164168,Waters off New Jersey
+612.0,Bear's Reef,164297,Southern Nearshore
+612.0,Bear's Reef,164292,Mid-Atlantic Coastal Waters Area
+613.0,Penn Reels Reef,164168,Waters off New Jersey
+613.0,Penn Reels Reef,164297,Southern Nearshore
+613.0,Penn Reels Reef,164292,Mid-Atlantic Coastal Waters Area
+614.0,John Dobilas,164168,Waters off New Jersey
+614.0,John Dobilas,164297,Southern Nearshore
+614.0,John Dobilas,164292,Mid-Atlantic Coastal Waters Area
+615.0,Jerry,164168,Waters off New Jersey
+615.0,Jerry,164297,Southern Nearshore
+615.0,Jerry,164292,Mid-Atlantic Coastal Waters Area
+616.0,Red Bird Reef,164168,Waters off New Jersey
+616.0,Red Bird Reef,164297,Southern Nearshore
+616.0,Red Bird Reef,164292,Mid-Atlantic Coastal Waters Area
+617.0,Redbird Reef,164168,Waters off New Jersey
+617.0,Redbird Reef,164297,Southern Nearshore
+617.0,Redbird Reef,164292,Mid-Atlantic Coastal Waters Area
+618.0,Barnegat Fishin' Hole Reef,164168,Waters off New Jersey
+618.0,Barnegat Fishin' Hole Reef,164297,Southern Nearshore
+618.0,Barnegat Fishin' Hole Reef,164292,Mid-Atlantic Coastal Waters Area
+619.0,Redbird Reef,164168,Waters off New Jersey
+619.0,Redbird Reef,164297,Southern Nearshore
+619.0,Redbird Reef,164292,Mid-Atlantic Coastal Waters Area
+620.0,Redbird Reef,164168,Waters off New Jersey
+620.0,Redbird Reef,164297,Southern Nearshore
+620.0,Redbird Reef,164292,Mid-Atlantic Coastal Waters Area
+621.0,JCAA Redbird Reef,164168,Waters off New Jersey
+621.0,JCAA Redbird Reef,164297,Southern Nearshore
+621.0,JCAA Redbird Reef,164292,Mid-Atlantic Coastal Waters Area
+622.0,Helis,164168,Waters off New Jersey
+622.0,Helis,164297,Southern Nearshore
+622.0,Helis,164292,Mid-Atlantic Coastal Waters Area
+623.0,The Rhino,164168,Waters off New Jersey
+623.0,The Rhino,164297,Southern Nearshore
+623.0,The Rhino,164292,Mid-Atlantic Coastal Waters Area
+624.0,Miller,164168,Waters off New Jersey
+624.0,Miller,164297,Southern Nearshore
+624.0,Miller,164292,Mid-Atlantic Coastal Waters Area
+625.0,Starcraft,164168,Waters off New Jersey
+625.0,Starcraft,164297,Southern Nearshore
+625.0,Starcraft,164292,Mid-Atlantic Coastal Waters Area
+626.0,Holgate 1,164168,Waters off New Jersey
+626.0,Holgate 1,164297,Southern Nearshore
+626.0,Holgate 1,164292,Mid-Atlantic Coastal Waters Area
+627.0,VHFC,164168,Waters off New Jersey
+627.0,VHFC,164297,Southern Nearshore
+627.0,VHFC,164292,Mid-Atlantic Coastal Waters Area
+628.0,Ocean Wreck Divers I,164168,Waters off New Jersey
+628.0,Ocean Wreck Divers I,164297,Southern Nearshore
+628.0,Ocean Wreck Divers I,164292,Mid-Atlantic Coastal Waters Area
+629.0,BHMTC,164168,Waters off New Jersey
+629.0,BHMTC,164297,Southern Nearshore
+629.0,BHMTC,164292,Mid-Atlantic Coastal Waters Area
+630.0,BHMTC V,164168,Waters off New Jersey
+630.0,BHMTC V,164297,Southern Nearshore
+630.0,BHMTC V,164292,Mid-Atlantic Coastal Waters Area
+631.0,BHMTC VI,164168,Waters off New Jersey
+631.0,BHMTC VI,164297,Southern Nearshore
+631.0,BHMTC VI,164292,Mid-Atlantic Coastal Waters Area
+632.0,Whittle Wet Wabbit Weef,164168,Waters off New Jersey
+632.0,Whittle Wet Wabbit Weef,164297,Southern Nearshore
+632.0,Whittle Wet Wabbit Weef,164292,Mid-Atlantic Coastal Waters Area
+633.0,Ed Hall,164168,Waters off New Jersey
+633.0,Ed Hall,164297,Southern Nearshore
+633.0,Ed Hall,164292,Mid-Atlantic Coastal Waters Area
+634.0,Absecon Saltwater Sportsmen Memorial Reef,164168,Waters off New Jersey
+634.0,Absecon Saltwater Sportsmen Memorial Reef,164297,Southern Nearshore
+634.0,Absecon Saltwater Sportsmen Memorial Reef,164292,Mid-Atlantic Coastal Waters Area
+635.0,Marin's Reef,164168,Waters off New Jersey
+635.0,Marin's Reef,164297,Southern Nearshore
+635.0,Marin's Reef,164292,Mid-Atlantic Coastal Waters Area
+636.0,BHMTC Tank II,164168,Waters off New Jersey
+636.0,BHMTC Tank II,164297,Southern Nearshore
+636.0,BHMTC Tank II,164292,Mid-Atlantic Coastal Waters Area
+637.0,Kochka's Reef,164168,Waters off New Jersey
+637.0,Kochka's Reef,164297,Southern Nearshore
+637.0,Kochka's Reef,164292,Mid-Atlantic Coastal Waters Area
+638.0,J. Drew Messler Reef,164168,Waters off New Jersey
+638.0,J. Drew Messler Reef,164297,Southern Nearshore
+638.0,J. Drew Messler Reef,164292,Mid-Atlantic Coastal Waters Area
+639.0,J. Drew Messler Reef,164168,Waters off New Jersey
+639.0,J. Drew Messler Reef,164297,Southern Nearshore
+639.0,J. Drew Messler Reef,164292,Mid-Atlantic Coastal Waters Area
+640.0,Jessie C,164168,Waters off New Jersey
+640.0,Jessie C,164297,Southern Nearshore
+640.0,Jessie C,164292,Mid-Atlantic Coastal Waters Area
+641.0,BHMTC Tank III,164168,Waters off New Jersey
+641.0,BHMTC Tank III,164297,Southern Nearshore
+641.0,BHMTC Tank III,164292,Mid-Atlantic Coastal Waters Area
+642.0,5 bitts,164168,Waters off New Jersey
+642.0,5 bitts,164297,Southern Nearshore
+642.0,5 bitts,164292,Mid-Atlantic Coastal Waters Area
+643.0,Marc R. Stroud Memorial Reef,164168,Waters off New Jersey
+643.0,Marc R. Stroud Memorial Reef,164297,Southern Nearshore
+643.0,Marc R. Stroud Memorial Reef,164292,Mid-Atlantic Coastal Waters Area
+644.0,BHMTC Tank IV,164168,Waters off New Jersey
+644.0,BHMTC Tank IV,164297,Southern Nearshore
+644.0,BHMTC Tank IV,164292,Mid-Atlantic Coastal Waters Area
+645.0,Waldorf,164168,Waters off New Jersey
+645.0,Waldorf,164297,Southern Nearshore
+645.0,Waldorf,164292,Mid-Atlantic Coastal Waters Area
+646.0,Southwick's Wreck,164168,Waters off New Jersey
+646.0,Southwick's Wreck,164297,Southern Nearshore
+646.0,Southwick's Wreck,164292,Mid-Atlantic Coastal Waters Area
+647.0,Pauline Marie,164168,Waters off New Jersey
+647.0,Pauline Marie,164297,Southern Nearshore
+647.0,Pauline Marie,164292,Mid-Atlantic Coastal Waters Area
+648.0,The American,164168,Waters off New Jersey
+648.0,The American,164297,Southern Nearshore
+648.0,The American,164292,Mid-Atlantic Coastal Waters Area
+649.0,First Lady,164168,Waters off New Jersey
+649.0,First Lady,164297,Southern Nearshore
+649.0,First Lady,164292,Mid-Atlantic Coastal Waters Area
+650.0,Morania Abaco,164168,Waters off New Jersey
+650.0,Morania Abaco,164297,Southern Nearshore
+650.0,Morania Abaco,164292,Mid-Atlantic Coastal Waters Area
+651.0,Francis S. Bushy,164168,Waters off New Jersey
+651.0,Francis S. Bushy,164297,Southern Nearshore
+651.0,Francis S. Bushy,164292,Mid-Atlantic Coastal Waters Area
+652.0,Nils S.,164168,Waters off New Jersey
+652.0,Nils S.,164297,Southern Nearshore
+652.0,Nils S.,164292,Mid-Atlantic Coastal Waters Area
+653.0,A. C. Wescoat,164168,Waters off New Jersey
+653.0,A. C. Wescoat,164297,Southern Nearshore
+653.0,A. C. Wescoat,164292,Mid-Atlantic Coastal Waters Area
+654.0,Vicki-Pat,164168,Waters off New Jersey
+654.0,Vicki-Pat,164297,Southern Nearshore
+654.0,Vicki-Pat,164292,Mid-Atlantic Coastal Waters Area
+655.0,Troy,164168,Waters off New Jersey
+655.0,Troy,164297,Southern Nearshore
+655.0,Troy,164292,Mid-Atlantic Coastal Waters Area
+656.0,Point Pub,164168,Waters off New Jersey
+656.0,Point Pub,164297,Southern Nearshore
+656.0,Point Pub,164292,Mid-Atlantic Coastal Waters Area
+657.0,Margaret Nancy,164168,Waters off New Jersey
+657.0,Margaret Nancy,164297,Southern Nearshore
+657.0,Margaret Nancy,164292,Mid-Atlantic Coastal Waters Area
+658.0,Ada Adelia,164168,Waters off New Jersey
+658.0,Ada Adelia,164297,Southern Nearshore
+658.0,Ada Adelia,164292,Mid-Atlantic Coastal Waters Area
+659.0,Beach Haven,164168,Waters off New Jersey
+659.0,Beach Haven,164297,Southern Nearshore
+659.0,Beach Haven,164292,Mid-Atlantic Coastal Waters Area
+660.0,Boston,164168,Waters off New Jersey
+660.0,Boston,164297,Southern Nearshore
+660.0,Boston,164292,Mid-Atlantic Coastal Waters Area
+661.0,Blue Crown,164168,Waters off New Jersey
+661.0,Blue Crown,164297,Southern Nearshore
+661.0,Blue Crown,164292,Mid-Atlantic Coastal Waters Area
+662.0,Big Mama,164168,Waters off New Jersey
+662.0,Big Mama,164297,Southern Nearshore
+662.0,Big Mama,164292,Mid-Atlantic Coastal Waters Area
+663.0,JR's Tank,164168,Waters off New Jersey
+663.0,JR's Tank,164297,Southern Nearshore
+663.0,JR's Tank,164292,Mid-Atlantic Coastal Waters Area
+664.0,N. J. State Aquarium,164168,Waters off New Jersey
+664.0,N. J. State Aquarium,164297,Southern Nearshore
+664.0,N. J. State Aquarium,164292,Mid-Atlantic Coastal Waters Area
+665.0,Phil Weintraub Memorial,164168,Waters off New Jersey
+665.0,Phil Weintraub Memorial,164297,Southern Nearshore
+665.0,Phil Weintraub Memorial,164292,Mid-Atlantic Coastal Waters Area
+666.0,Joseph J. Palladino Reef,164168,Waters off New Jersey
+666.0,Joseph J. Palladino Reef,164297,Southern Nearshore
+666.0,Joseph J. Palladino Reef,164292,Mid-Atlantic Coastal Waters Area
+667.0,RFA Redbird Reef,164168,Waters off New Jersey
+667.0,RFA Redbird Reef,164297,Southern Nearshore
+667.0,RFA Redbird Reef,164292,Mid-Atlantic Coastal Waters Area
+668.0,Redbird Reef,164168,Waters off New Jersey
+668.0,Redbird Reef,164297,Southern Nearshore
+668.0,Redbird Reef,164292,Mid-Atlantic Coastal Waters Area
+669.0,Redbird Reef,164168,Waters off New Jersey
+669.0,Redbird Reef,164297,Southern Nearshore
+669.0,Redbird Reef,164292,Mid-Atlantic Coastal Waters Area
+670.0,Redbird Reef,164168,Waters off New Jersey
+670.0,Redbird Reef,164297,Southern Nearshore
+670.0,Redbird Reef,164292,Mid-Atlantic Coastal Waters Area
+671.0,Redbird Reef,164168,Waters off New Jersey
+671.0,Redbird Reef,164297,Southern Nearshore
+671.0,Redbird Reef,164292,Mid-Atlantic Coastal Waters Area
+672.0,Captain Applegate,164168,Waters off New Jersey
+672.0,Captain Applegate,164297,Southern Nearshore
+672.0,Captain Applegate,164292,Mid-Atlantic Coastal Waters Area
+673.0,Stainless Steel Subway,150661,Cape May
+674.0,Stainless Steel Subway,164168,Waters off New Jersey
+674.0,Stainless Steel Subway,164297,Southern Nearshore
+674.0,Stainless Steel Subway,164292,Mid-Atlantic Coastal Waters Area
+675.0,Stainless Steel Subway,164168,Waters off New Jersey
+675.0,Stainless Steel Subway,164297,Southern Nearshore
+675.0,Stainless Steel Subway,164292,Mid-Atlantic Coastal Waters Area
+676.0,1000 Fathom Reef,164168,Waters off New Jersey
+676.0,1000 Fathom Reef,164297,Southern Nearshore
+676.0,1000 Fathom Reef,164292,Mid-Atlantic Coastal Waters Area
+677.0,OCMTC I,164168,Waters off New Jersey
+677.0,OCMTC I,164297,Southern Nearshore
+677.0,OCMTC I,164292,Mid-Atlantic Coastal Waters Area
+678.0,OCMTC II,164168,Waters off New Jersey
+678.0,OCMTC II,164297,Southern Nearshore
+678.0,OCMTC II,164292,Mid-Atlantic Coastal Waters Area
+679.0,OCMTC III,164168,Waters off New Jersey
+679.0,OCMTC III,164297,Southern Nearshore
+679.0,OCMTC III,164292,Mid-Atlantic Coastal Waters Area
+680.0,OCMTC IV,164168,Waters off New Jersey
+680.0,OCMTC IV,164297,Southern Nearshore
+680.0,OCMTC IV,164292,Mid-Atlantic Coastal Waters Area
+681.0,OCMTC V,164168,Waters off New Jersey
+681.0,OCMTC V,164297,Southern Nearshore
+681.0,OCMTC V,164292,Mid-Atlantic Coastal Waters Area
+682.0,Jersey Fresh I,164168,Waters off New Jersey
+682.0,Jersey Fresh I,164297,Southern Nearshore
+682.0,Jersey Fresh I,164292,Mid-Atlantic Coastal Waters Area
+683.0,Atlantic County Sportsmen's Reef,164168,Waters off New Jersey
+683.0,Atlantic County Sportsmen's Reef,164297,Southern Nearshore
+683.0,Atlantic County Sportsmen's Reef,164292,Mid-Atlantic Coastal Waters Area
+684.0,Bud Evans Reef,164168,Waters off New Jersey
+684.0,Bud Evans Reef,164297,Southern Nearshore
+684.0,Bud Evans Reef,164292,Mid-Atlantic Coastal Waters Area
+685.0,Rothenbach Reef II,164168,Waters off New Jersey
+685.0,Rothenbach Reef II,164297,Southern Nearshore
+685.0,Rothenbach Reef II,164292,Mid-Atlantic Coastal Waters Area
+686.0,Kathy,164168,Waters off New Jersey
+686.0,Kathy,164297,Southern Nearshore
+686.0,Kathy,164292,Mid-Atlantic Coastal Waters Area
+687.0,Maria,164168,Waters off New Jersey
+687.0,Maria,164297,Southern Nearshore
+687.0,Maria,164292,Mid-Atlantic Coastal Waters Area
+688.0,Nash's Reef,164168,Waters off New Jersey
+688.0,Nash's Reef,164297,Southern Nearshore
+688.0,Nash's Reef,164292,Mid-Atlantic Coastal Waters Area
+689.0,Libra,164168,Waters off New Jersey
+689.0,Libra,164297,Southern Nearshore
+689.0,Libra,164292,Mid-Atlantic Coastal Waters Area
+690.0,Klus Mermaid Reef,164168,Waters off New Jersey
+690.0,Klus Mermaid Reef,164297,Southern Nearshore
+690.0,Klus Mermaid Reef,164292,Mid-Atlantic Coastal Waters Area
+691.0,Joseph J. Palladino Redhook,164168,Waters off New Jersey
+691.0,Joseph J. Palladino Redhook,164297,Southern Nearshore
+691.0,Joseph J. Palladino Redhook,164292,Mid-Atlantic Coastal Waters Area
+692.0,Fred Eckardt Reef,164168,Waters off New Jersey
+692.0,Fred Eckardt Reef,164297,Southern Nearshore
+692.0,Fred Eckardt Reef,164292,Mid-Atlantic Coastal Waters Area
+693.0,Shamrock Towing Reef,164168,Waters off New Jersey
+693.0,Shamrock Towing Reef,164297,Southern Nearshore
+693.0,Shamrock Towing Reef,164292,Mid-Atlantic Coastal Waters Area
+694.0,AC Westcoat Reef,164168,Waters off New Jersey
+694.0,AC Westcoat Reef,164297,Southern Nearshore
+694.0,AC Westcoat Reef,164292,Mid-Atlantic Coastal Waters Area
+695.0,Smoot Reef,164168,Waters off New Jersey
+695.0,Smoot Reef,164297,Southern Nearshore
+695.0,Smoot Reef,164292,Mid-Atlantic Coastal Waters Area
+696.0,Bay Jack,164168,Waters off New Jersey
+696.0,Bay Jack,164297,Southern Nearshore
+696.0,Bay Jack,164292,Mid-Atlantic Coastal Waters Area
+697.0,Donna's Star,164168,Waters off New Jersey
+697.0,Donna's Star,164297,Southern Nearshore
+697.0,Donna's Star,164292,Mid-Atlantic Coastal Waters Area
+698.0,Margie Starns,164168,Waters off New Jersey
+698.0,Margie Starns,164297,Southern Nearshore
+698.0,Margie Starns,164292,Mid-Atlantic Coastal Waters Area
+699.0,TI Fluke 06,164168,Waters off New Jersey
+699.0,TI Fluke 06,164297,Southern Nearshore
+699.0,TI Fluke 06,164292,Mid-Atlantic Coastal Waters Area
+700.0,TI Fluke 07,164168,Waters off New Jersey
+700.0,TI Fluke 07,164297,Southern Nearshore
+700.0,TI Fluke 07,164292,Mid-Atlantic Coastal Waters Area
+701.0,thebassbarn.com,164168,Waters off New Jersey
+701.0,thebassbarn.com,164297,Southern Nearshore
+701.0,thebassbarn.com,164292,Mid-Atlantic Coastal Waters Area
+702.0,Capt. Walt Hendee,164168,Waters off New Jersey
+702.0,Capt. Walt Hendee,164297,Southern Nearshore
+702.0,Capt. Walt Hendee,164292,Mid-Atlantic Coastal Waters Area
+703.0,Redbird Reef I,164168,Waters off New Jersey
+703.0,Redbird Reef I,164297,Southern Nearshore
+703.0,Redbird Reef I,164292,Mid-Atlantic Coastal Waters Area
+704.0,Redbird Reef VII,164168,Waters off New Jersey
+704.0,Redbird Reef VII,164297,Southern Nearshore
+704.0,Redbird Reef VII,164292,Mid-Atlantic Coastal Waters Area
+705.0,Redbird Reef VIII,164168,Waters off New Jersey
+705.0,Redbird Reef VIII,164297,Southern Nearshore
+705.0,Redbird Reef VIII,164292,Mid-Atlantic Coastal Waters Area
+706.0,Redbird Reef IX,164168,Waters off New Jersey
+706.0,Redbird Reef IX,164297,Southern Nearshore
+706.0,Redbird Reef IX,164292,Mid-Atlantic Coastal Waters Area
+707.0,Redbird Reef X,164168,Waters off New Jersey
+707.0,Redbird Reef X,164297,Southern Nearshore
+707.0,Redbird Reef X,164292,Mid-Atlantic Coastal Waters Area
+708.0,Ann E. Clark,164168,Waters off New Jersey
+708.0,Ann E. Clark,164297,Southern Nearshore
+708.0,Ann E. Clark,164292,Mid-Atlantic Coastal Waters Area
+709.0,The Diver's Abyss,164168,Waters off New Jersey
+709.0,The Diver's Abyss,164297,Southern Nearshore
+709.0,The Diver's Abyss,164292,Mid-Atlantic Coastal Waters Area
+710.0,Reinhart's Reef,164168,Waters off New Jersey
+710.0,Reinhart's Reef,164297,Southern Nearshore
+710.0,Reinhart's Reef,164292,Mid-Atlantic Coastal Waters Area
+711.0,"Philip A. Cameron, Jr. Reef",164168,Waters off New Jersey
+711.0,"Philip A. Cameron, Jr. Reef",164297,Southern Nearshore
+711.0,"Philip A. Cameron, Jr. Reef",164292,Mid-Atlantic Coastal Waters Area
+712.0,Michael De Palma I,164168,Waters off New Jersey
+712.0,Michael De Palma I,164297,Southern Nearshore
+712.0,Michael De Palma I,164292,Mid-Atlantic Coastal Waters Area
+713.0,Michael De Palma II,164168,Waters off New Jersey
+713.0,Michael De Palma II,164297,Southern Nearshore
+713.0,Michael De Palma II,164292,Mid-Atlantic Coastal Waters Area
+714.0,Capt. Ray Vandergrift Wreck,164168,Waters off New Jersey
+714.0,Capt. Ray Vandergrift Wreck,164297,Southern Nearshore
+714.0,Capt. Ray Vandergrift Wreck,164292,Mid-Atlantic Coastal Waters Area
+715.0,Fallen Friends Wreck,164168,Waters off New Jersey
+715.0,Fallen Friends Wreck,164297,Southern Nearshore
+715.0,Fallen Friends Wreck,164292,Mid-Atlantic Coastal Waters Area
+716.0,The Bass Barn-Maelstrom,164168,Waters off New Jersey
+716.0,The Bass Barn-Maelstrom,164297,Southern Nearshore
+716.0,The Bass Barn-Maelstrom,164292,Mid-Atlantic Coastal Waters Area
+717.0,Pair of Kings,164168,Waters off New Jersey
+717.0,Pair of Kings,164297,Southern Nearshore
+717.0,Pair of Kings,164292,Mid-Atlantic Coastal Waters Area
+718.0,Laita,164168,Waters off New Jersey
+718.0,Laita,164297,Southern Nearshore
+718.0,Laita,164292,Mid-Atlantic Coastal Waters Area
+719.0,Peggy Diana,164168,Waters off New Jersey
+719.0,Peggy Diana,164297,Southern Nearshore
+719.0,Peggy Diana,164292,Mid-Atlantic Coastal Waters Area
+720.0,Winthrop,164168,Waters off New Jersey
+720.0,Winthrop,164297,Southern Nearshore
+720.0,Winthrop,164292,Mid-Atlantic Coastal Waters Area
+721.0,Captain Henry,164168,Waters off New Jersey
+721.0,Captain Henry,164297,Southern Nearshore
+721.0,Captain Henry,164292,Mid-Atlantic Coastal Waters Area
+722.0,Lisa Michelle,164168,Waters off New Jersey
+722.0,Lisa Michelle,164297,Southern Nearshore
+722.0,Lisa Michelle,164292,Mid-Atlantic Coastal Waters Area
+723.0,Becky Lee,164168,Waters off New Jersey
+723.0,Becky Lee,164297,Southern Nearshore
+723.0,Becky Lee,164292,Mid-Atlantic Coastal Waters Area
+724.0,Wyoming,164168,Waters off New Jersey
+724.0,Wyoming,164297,Southern Nearshore
+724.0,Wyoming,164292,Mid-Atlantic Coastal Waters Area
+725.0,Sea Transporter,164168,Waters off New Jersey
+725.0,Sea Transporter,164297,Southern Nearshore
+725.0,Sea Transporter,164292,Mid-Atlantic Coastal Waters Area
+726.0,Salt Barge,164168,Waters off New Jersey
+726.0,Salt Barge,164297,Southern Nearshore
+726.0,Salt Barge,164292,Mid-Atlantic Coastal Waters Area
+727.0,Onandaga,164168,Waters off New Jersey
+727.0,Onandaga,164297,Southern Nearshore
+727.0,Onandaga,164292,Mid-Atlantic Coastal Waters Area
+728.0,Celia Brown,164168,Waters off New Jersey
+728.0,Celia Brown,164297,Southern Nearshore
+728.0,Celia Brown,164292,Mid-Atlantic Coastal Waters Area
+729.0,Cape Strait,164168,Waters off New Jersey
+729.0,Cape Strait,164297,Southern Nearshore
+729.0,Cape Strait,164292,Mid-Atlantic Coastal Waters Area
+730.0,Rothenbach Reef I,164168,Waters off New Jersey
+730.0,Rothenbach Reef I,164297,Southern Nearshore
+730.0,Rothenbach Reef I,164292,Mid-Atlantic Coastal Waters Area
+731.0,George B. Shuda Reef,164168,Waters off New Jersey
+731.0,George B. Shuda Reef,164297,Southern Nearshore
+731.0,George B. Shuda Reef,164292,Mid-Atlantic Coastal Waters Area
+732.0,Roy C. Titus Memorial Reef 2,164168,Waters off New Jersey
+732.0,Roy C. Titus Memorial Reef 2,164297,Southern Nearshore
+732.0,Roy C. Titus Memorial Reef 2,164292,Mid-Atlantic Coastal Waters Area
+733.0,Red Oak,164168,Waters off New Jersey
+733.0,Red Oak,164297,Southern Nearshore
+733.0,Red Oak,164292,Mid-Atlantic Coastal Waters Area
+734.0,Point Swift,164168,Waters off New Jersey
+734.0,Point Swift,164297,Southern Nearshore
+734.0,Point Swift,164292,Mid-Atlantic Coastal Waters Area
+735.0,Dr. Tom's Reef,164168,Waters off New Jersey
+735.0,Dr. Tom's Reef,164297,Southern Nearshore
+735.0,Dr. Tom's Reef,164292,Mid-Atlantic Coastal Waters Area
+736.0,Redbird Reef I,164168,Waters off New Jersey
+736.0,Redbird Reef I,164297,Southern Nearshore
+736.0,Redbird Reef I,164292,Mid-Atlantic Coastal Waters Area
+737.0,Redbird Reef II,164168,Waters off New Jersey
+737.0,Redbird Reef II,164297,Southern Nearshore
+737.0,Redbird Reef II,164292,Mid-Atlantic Coastal Waters Area
+738.0,Redbird Reef III,164168,Waters off New Jersey
+738.0,Redbird Reef III,164297,Southern Nearshore
+738.0,Redbird Reef III,164292,Mid-Atlantic Coastal Waters Area
+739.0,Redbird Reef IV,164168,Waters off New Jersey
+739.0,Redbird Reef IV,164297,Southern Nearshore
+739.0,Redbird Reef IV,164292,Mid-Atlantic Coastal Waters Area
+740.0,Redbird Reef V,164168,Waters off New Jersey
+740.0,Redbird Reef V,164297,Southern Nearshore
+740.0,Redbird Reef V,164292,Mid-Atlantic Coastal Waters Area
+741.0,Allan R.,164168,Waters off New Jersey
+741.0,Allan R.,164297,Southern Nearshore
+741.0,Allan R.,164292,Mid-Atlantic Coastal Waters Area
+742.0,Guido's Tug,164168,Waters off New Jersey
+742.0,Guido's Tug,164297,Southern Nearshore
+742.0,Guido's Tug,164292,Mid-Atlantic Coastal Waters Area
+743.0,Elizabeth,164168,Waters off New Jersey
+743.0,Elizabeth,164297,Southern Nearshore
+743.0,Elizabeth,164292,Mid-Atlantic Coastal Waters Area
+744.0,Miss Beth (Cape May Reef),164168,Waters off New Jersey
+744.0,Miss Beth (Cape May Reef),164297,Southern Nearshore
+744.0,Miss Beth (Cape May Reef),164292,Mid-Atlantic Coastal Waters Area
+745.0,Stainless Steel Subway,164168,Waters off New Jersey
+745.0,Stainless Steel Subway,164297,Southern Nearshore
+745.0,Stainless Steel Subway,164292,Mid-Atlantic Coastal Waters Area
+746.0,Stainless Steel Subway,164168,Waters off New Jersey
+746.0,Stainless Steel Subway,164297,Southern Nearshore
+746.0,Stainless Steel Subway,164292,Mid-Atlantic Coastal Waters Area
+747.0,Stainless Steel Subway,164168,Waters off New Jersey
+747.0,Stainless Steel Subway,164297,Southern Nearshore
+747.0,Stainless Steel Subway,164292,Mid-Atlantic Coastal Waters Area
+748.0,Stainless Steel Subway,164168,Waters off New Jersey
+748.0,Stainless Steel Subway,164297,Southern Nearshore
+748.0,Stainless Steel Subway,164292,Mid-Atlantic Coastal Waters Area
+749.0,Stainless Steel Subway,164168,Waters off New Jersey
+749.0,Stainless Steel Subway,164297,Southern Nearshore
+749.0,Stainless Steel Subway,164292,Mid-Atlantic Coastal Waters Area
+750.0,Stainless Steel Subway,164168,Waters off New Jersey
+750.0,Stainless Steel Subway,164297,Southern Nearshore
+750.0,Stainless Steel Subway,164292,Mid-Atlantic Coastal Waters Area
+753.0,Ke?ehi Barge,145094,Hawaiian Islands Humpback Whale
+754.0,Mud Skow Barge,145094,Hawaiian Islands Humpback Whale
+756.0,Navy LCU,145094,Hawaiian Islands Humpback Whale
+771.0,Site 11,164296,Southern Mid-Atlantic Waters
+771.0,Site 11,164297,Southern Nearshore
+771.0,Site 11,164292,Mid-Atlantic Coastal Waters Area
+772.0,"NA",164296,Southern Mid-Atlantic Waters
+772.0,"NA",164297,Southern Nearshore
+772.0,"NA",164292,Mid-Atlantic Coastal Waters Area
+773.0,"NA",164296,Southern Mid-Atlantic Waters
+773.0,"NA",164297,Southern Nearshore
+773.0,"NA",164292,Mid-Atlantic Coastal Waters Area
+774.0,"NA",164296,Southern Mid-Atlantic Waters
+774.0,"NA",164297,Southern Nearshore
+774.0,"NA",164292,Mid-Atlantic Coastal Waters Area
+775.0,"NA",164296,Southern Mid-Atlantic Waters
+775.0,"NA",164297,Southern Nearshore
+775.0,"NA",164292,Mid-Atlantic Coastal Waters Area
+776.0,"NA",164296,Southern Mid-Atlantic Waters
+776.0,"NA",164297,Southern Nearshore
+776.0,"NA",164292,Mid-Atlantic Coastal Waters Area
+777.0,"NA",164296,Southern Mid-Atlantic Waters
+777.0,"NA",164297,Southern Nearshore
+777.0,"NA",164292,Mid-Atlantic Coastal Waters Area
+778.0,P3,164168,Waters off New Jersey
+778.0,P3,164297,Southern Nearshore
+778.0,P3,164292,Mid-Atlantic Coastal Waters Area
+779.0,Dolphin,164168,Waters off New Jersey
+779.0,Dolphin,164297,Southern Nearshore
+779.0,Dolphin,164292,Mid-Atlantic Coastal Waters Area
+780.0,Margie Ann,164296,Southern Mid-Atlantic Waters
+780.0,Margie Ann,164297,Southern Nearshore
+780.0,Margie Ann,164292,Mid-Atlantic Coastal Waters Area
+781.0,Yon 80,164296,Southern Mid-Atlantic Waters
+781.0,Yon 80,164297,Southern Nearshore
+781.0,Yon 80,164292,Mid-Atlantic Coastal Waters Area
+782.0,Margaret,164296,Southern Mid-Atlantic Waters
+782.0,Margaret,164297,Southern Nearshore
+782.0,Margaret,164292,Mid-Atlantic Coastal Waters Area
+783.0,William C. Snow,164296,Southern Mid-Atlantic Waters
+783.0,William C. Snow,164297,Southern Nearshore
+783.0,William C. Snow,164292,Mid-Atlantic Coastal Waters Area
+784.0,Fels Points,164296,Southern Mid-Atlantic Waters
+784.0,Fels Points,164297,Southern Nearshore
+784.0,Fels Points,164292,Mid-Atlantic Coastal Waters Area
+785.0,Cittie Point,164296,Southern Mid-Atlantic Waters
+785.0,Cittie Point,164297,Southern Nearshore
+785.0,Cittie Point,164292,Mid-Atlantic Coastal Waters Area
+786.0,Golden Eagle,164168,Waters off New Jersey
+786.0,Golden Eagle,164297,Southern Nearshore
+786.0,Golden Eagle,164292,Mid-Atlantic Coastal Waters Area
+787.0,Delilah,164296,Southern Mid-Atlantic Waters
+787.0,Delilah,164297,Southern Nearshore
+787.0,Delilah,164292,Mid-Atlantic Coastal Waters Area
+788.0,YC 1479,164296,Southern Mid-Atlantic Waters
+788.0,YC 1479,164297,Southern Nearshore
+788.0,YC 1479,164292,Mid-Atlantic Coastal Waters Area
+789.0,Buchannon,164168,Waters off New Jersey
+789.0,Buchannon,164297,Southern Nearshore
+789.0,Buchannon,164292,Mid-Atlantic Coastal Waters Area
+790.0,Gregory Poole,164296,Southern Mid-Atlantic Waters
+790.0,Gregory Poole,164297,Southern Nearshore
+790.0,Gregory Poole,164292,Mid-Atlantic Coastal Waters Area
+791.0,Mr.G,164296,Southern Mid-Atlantic Waters
+791.0,Mr.G,164297,Southern Nearshore
+791.0,Mr.G,164292,Mid-Atlantic Coastal Waters Area
+792.0,Rusty Pusher,164296,Southern Mid-Atlantic Waters
+792.0,Rusty Pusher,164297,Southern Nearshore
+792.0,Rusty Pusher,164292,Mid-Atlantic Coastal Waters Area
+793.0,Bay Tide,164296,Southern Mid-Atlantic Waters
+793.0,Bay Tide,164297,Southern Nearshore
+793.0,Bay Tide,164292,Mid-Atlantic Coastal Waters Area
+794.0,Crazy Horse,164296,Southern Mid-Atlantic Waters
+794.0,Crazy Horse,164297,Southern Nearshore
+794.0,Crazy Horse,164292,Mid-Atlantic Coastal Waters Area
+795.0,YC-725a,164296,Southern Mid-Atlantic Waters
+795.0,YC-725a,164297,Southern Nearshore
+795.0,YC-725a,164292,Mid-Atlantic Coastal Waters Area
+796.0,Frieda Marie,164296,Southern Mid-Atlantic Waters
+796.0,Frieda Marie,164297,Southern Nearshore
+796.0,Frieda Marie,164292,Mid-Atlantic Coastal Waters Area
+797.0,Sandy Point,164296,Southern Mid-Atlantic Waters
+797.0,Sandy Point,164297,Southern Nearshore
+797.0,Sandy Point,164292,Mid-Atlantic Coastal Waters Area
+798.0,Unnamed,164296,Southern Mid-Atlantic Waters
+798.0,Unnamed,164297,Southern Nearshore
+798.0,Unnamed,164292,Mid-Atlantic Coastal Waters Area
+799.0,Atlantic Mist,164296,Southern Mid-Atlantic Waters
+799.0,Atlantic Mist,164297,Southern Nearshore
+799.0,Atlantic Mist,164292,Mid-Atlantic Coastal Waters Area
+800.0,Del-Jersey-Land Inshore Site,164296,Southern Mid-Atlantic Waters
+800.0,Del-Jersey-Land Inshore Site,164297,Southern Nearshore
+800.0,Del-Jersey-Land Inshore Site,164292,Mid-Atlantic Coastal Waters Area
+801.0,Del-Jersey-Land Inshore Site,164296,Southern Mid-Atlantic Waters
+801.0,Del-Jersey-Land Inshore Site,164297,Southern Nearshore
+801.0,Del-Jersey-Land Inshore Site,164292,Mid-Atlantic Coastal Waters Area
+802.0,Del-Jersey-Land Inshore Site,164296,Southern Mid-Atlantic Waters
+802.0,Del-Jersey-Land Inshore Site,164297,Southern Nearshore
+802.0,Del-Jersey-Land Inshore Site,164292,Mid-Atlantic Coastal Waters Area
+803.0,Del-Jersey-Land Inshore Site,164296,Southern Mid-Atlantic Waters
+803.0,Del-Jersey-Land Inshore Site,164297,Southern Nearshore
+803.0,Del-Jersey-Land Inshore Site,164292,Mid-Atlantic Coastal Waters Area
+804.0,Del-Jersey-Land Inshore Site,164296,Southern Mid-Atlantic Waters
+804.0,Del-Jersey-Land Inshore Site,164297,Southern Nearshore
+804.0,Del-Jersey-Land Inshore Site,164292,Mid-Atlantic Coastal Waters Area
+805.0,Del-Jersey-Land Inshore Site,164296,Southern Mid-Atlantic Waters
+805.0,Del-Jersey-Land Inshore Site,164297,Southern Nearshore
+805.0,Del-Jersey-Land Inshore Site,164292,Mid-Atlantic Coastal Waters Area
+806.0,Del-Jersey-Land Inshore Site,164296,Southern Mid-Atlantic Waters
+806.0,Del-Jersey-Land Inshore Site,164297,Southern Nearshore
+806.0,Del-Jersey-Land Inshore Site,164292,Mid-Atlantic Coastal Waters Area
+937.0,Dan Barge,164067,St. Andrews
+941.0,MC Comick Barge,164067,St. Andrews
+942.0,Buoy Barge,164067,St. Andrews
+943.0,Navy Barge,164067,St. Andrews
+946.0,B & B Reef,164067,St. Andrews
+954.0,Spanish Shanty Barge (Bay),164067,St. Andrews
+956.0,Navy Barge,164067,St. Andrews
+957.0,Life Boats (Bay),164067,St. Andrews
+959.0,Fsfa Reef Site #2-Steel Sailboat,164291,Southeast U.S.
+960.0,Fsfa Reef Site #2-Steel Yacht,164291,Southeast U.S.
+961.0,Fsfa Reef Site #2,164291,Southeast U.S.
+962.0,Sufix I,164291,Southeast U.S.
+963.0,Gallatea,164291,Southeast U.S.
+964.0,Shelby Lee,164291,Southeast U.S.
+965.0,Steel Sailboat 35',164291,Southeast U.S.
+966.0,Titan Experimental Reef,164291,Southeast U.S.
+967.0,Brevard Reef Site - Damocles,164291,Southeast U.S.
+968.0,Lead Wreck - Ocean Venus,164291,Southeast U.S.
+969.0,Lois Dubois Reef,164291,Southeast U.S.
+970.0,Brevard Reef 1,164291,Southeast U.S.
+971.0,Tiger Red,164291,Southeast U.S.
+972.0,Moby Dick - Brevard Reef 2,164291,Southeast U.S.
+1052.0,Spike Reef,164291,Southeast U.S.
+1053.0,Bunnie's Web (Bw),164291,Southeast U.S.
+1054.0,AH Site - Tug Monachan,164291,Southeast U.S.
+1055.0,Hh Reef,164291,Southeast U.S.
+1056.0,BB Site - Bus Stop Barge,164291,Southeast U.S.
+1057.0,BB Site - Morantz,164291,Southeast U.S.
+1058.0,NHL Site -Powerful,164291,Southeast U.S.
+1059.0,HH Site - Shark Barge,164291,Southeast U.S.
+1060.0,JW Site - MTC 120 Barge,164291,Southeast U.S.
+1061.0,OSJ Site - Drydocks,164291,Southeast U.S.
+1062.0,Nss Site - Coppedge,164291,Southeast U.S.
+1063.0,NM Site - Fishing Boat,164291,Southeast U.S.
+1064.0,EPV Site - Barge,164291,Southeast U.S.
+1065.0,Hl Site - Huggins,164291,Southeast U.S.
+1066.0,TR Site - Anna,164291,Southeast U.S.
+1067.0,MR Site -East Barge,164291,Southeast U.S.
+1068.0,PG Site - Barge 85,164291,Southeast U.S.
+1069.0,NM Site - Vic's Barge,164291,Southeast U.S.
+1070.0,MR Site -Reliance,164291,Southeast U.S.
+1071.0,TW Site - Barge,164291,Southeast U.S.
+1072.0,NM Site - Tugboat,164291,Southeast U.S.
+1073.0,NM Site - Barge '80,164291,Southeast U.S.
+1074.0,Ch Site - North Tug,164291,Southeast U.S.
+1075.0,NM Site - Tug,164291,Southeast U.S.
+1076.0,PM Site - Banana And Pogey Boats,164291,Southeast U.S.
+1077.0,CH Site - South Tug,164291,Southeast U.S.
+1078.0,AH Site - Barge,164291,Southeast U.S.
+1079.0,MR Site - Bills Barge,164291,Southeast U.S.
+1080.0,PM Site - South - #1Tug,164291,Southeast U.S.
+1081.0,Casablanca,164291,Southeast U.S.
+1082.0,TW Site - Tug,164291,Southeast U.S.
+1083.0,PM Site - North Barge,164291,Southeast U.S.
+1084.0,MG Site - Tug,164291,Southeast U.S.
+1085.0,MR Site - Upside-Down Barge,164291,Southeast U.S.
+1086.0,BB Site -Carpet Barge,164291,Southeast U.S.
+1087.0,BR Site - Barge #1,164291,Southeast U.S.
+1088.0,BR Site - N. Barge,164291,Southeast U.S.
+1089.0,MR Site - Barge,164291,Southeast U.S.
+1090.0,MR Site - Maxies,164291,Southeast U.S.
+1091.0,NM Site - Barge,164291,Southeast U.S.
+1092.0,NM Site - Nine Mile Barge,164291,Southeast U.S.
+1093.0,NM Site - Tar Barge,164291,Southeast U.S.
+1094.0,PM Site - Navy Barge,164291,Southeast U.S.
+1095.0,Rl Site - Barge,164291,Southeast U.S.
+1096.0,BR Site - Warwick,164291,Southeast U.S.
+1097.0,BR Site - Ocean Going Tug #1,164291,Southeast U.S.
+1098.0,BR Site - Tug #2,164291,Southeast U.S.
+1099.0,MR Site - Tug,164291,Southeast U.S.
+1100.0,BB Site - Wooden Tug,164291,Southeast U.S.
+1101.0,BB Site - Old Gibbs Drydock,164291,Southeast U.S.
+1103.0,Joe Patti Memorial Reef,164060,Fort Pickens
+1131.0,Three Barges,164060,Fort Pickens
+1147.0,Barrier Dunes Barge,164068,St. Joseph Bay
+1167.0,Hailey Glasrud,164212,Southeast U.S.
+1168.0,Kyle Conrad Memorial Reef,164212,Southeast U.S.
+1169.0,Glasrud Reef,164212,Southeast U.S.
+1170.0,Tension Barge 13,164212,Southeast U.S.
+1171.0,Wickstrom Reef,164212,Southeast U.S.
+1172.0,Tree Barge,164212,Southeast U.S.
+1173.0,Traffic Barge-Guardian Reef,164212,Southeast U.S.
+1174.0,LC6-Landing Craft-Guardian Reef,164212,Southeast U.S.
+1175.0,USS Rankin,164212,Southeast U.S.
+1176.0,Al Sirotkin Reef,164212,Southeast U.S.
+1177.0,David T. - Sirotkin Reef,164212,Southeast U.S.
+1178.0,Ernst Reef - South Barge,164212,Southeast U.S.
+1179.0,Ernst Reef - Corner Barge,164212,Southeast U.S.
+1180.0,Bull Shark Barge,164212,Southeast U.S.
+1181.0,Ernst Reef,164212,Southeast U.S.
+1182.0,Cement Barge,164212,Southeast U.S.
+1183.0,Donaldson Reef,164212,Southeast U.S.
+1184.0,Donaldson Reef,164212,Southeast U.S.
+1185.0,Donaldson Reef,164212,Southeast U.S.
+1186.0,Titan,164212,Southeast U.S.
+1187.0,Schooner Reef,164212,Southeast U.S.
+1216.0,Scott Mason-Chaite,145089,Florida Keys
+1236.0,Hugo's April Fool,145089,Florida Keys
+1237.0,Berry Patch,145089,Florida Keys
+1238.0,Tarpoon,144171,Biscayne
+1248.0,St. Anne D' Auray,145089,Florida Keys
+1249.0,Doc De Milly,145089,Florida Keys
+1260.0,Sir Scott,145089,Florida Keys
+1264.0,Pioneer One,145089,Florida Keys
+1267.0,Blue Fire,145089,Florida Keys
+1268.0,Moby One,145089,Florida Keys
+1274.0,Hopper Barge,145089,Florida Keys
+1275.0,Railroad Barge,145089,Florida Keys
+1282.0,Belcher Barge,145089,Florida Keys
+1283.0,Almirante,145089,Florida Keys
+1292.0,Hoyt Vandenberg,145089,Florida Keys
+1293.0,Spiegel Grove,145089,Florida Keys
+1294.0,Adolphus Busch Sr,145089,Florida Keys
+1295.0,Joe's Tug,145089,Florida Keys
+1296.0,Bibb,145089,Florida Keys
+1297.0,Duane,145089,Florida Keys
+1299.0,Thunderbolt,145089,Florida Keys
+1300.0,Eagle,145089,Florida Keys
+1301.0,Cayman Salvage Master,145089,Florida Keys
+1302.0,Alexander Barge,145089,Florida Keys
+1303.0,USS Curb,145089,Florida Keys
+1304.0,Key West Tournament Reef,145089,Florida Keys
+1305.0,"Key West Florida, Gulf of Mexicoside Reef #3",145089,Florida Keys
+1306.0,Key West Tournament Reef,145089,Florida Keys
+1307.0,"Key West Florida, Gulf of Mexicoside #2",145089,Florida Keys
+1309.0,Wilkes Barre -Stern Section,145089,Florida Keys
+1310.0,Wilkes Barre-Bow Section,145089,Florida Keys
+1311.0,USS Kendrick (DD-612),145089,Florida Keys
+1314.0,Whittaker's Snapper Hole Tug,164291,Southeast U.S.
+1315.0,Barbett - Fernandina Banks,164291,Southeast U.S.
+1316.0,Sahlmans Gulley Barge,164291,Southeast U.S.
+1317.0,Whittaker's Snapper Hole Barge,164291,Southeast U.S.
+1337.0,Danny Mccauley Reef,164212,Southeast U.S.
+1343.0,M/V Zion Train,164212,Southeast U.S.
+1352.0,Three Tugs,164212,Southeast U.S.
+1355.0,MG-111 Barge,164212,Southeast U.S.
+1356.0,Murpghy Ii Barge,164212,Southeast U.S.
+1361.0,Miss Jenny,164212,Southeast U.S.
+1364.0,Esso Bonaire,164212,Southeast U.S.
+1367.0,Spearman's Barge,164212,Southeast U.S.
+1368.0,Mizpah,164212,Southeast U.S.
+1369.0,Research Team Reef,164212,Southeast U.S.
+1370.0,Amaryllis,164212,Southeast U.S.
+1371.0,Lake Worth Inlet,164212,Southeast U.S.
+1403.0,Navy  Drydock,164291,Southeast U.S.
+1404.0,Dorothy Louise Barge,164291,Southeast U.S.
+1405.0,Outer Plane Reef-Ship,164291,Southeast U.S.
+1406.0,Nine Mile Reef,164291,Southeast U.S.
+1407.0,Fish America Foundation #1,164212,Southeast U.S.
+1408.0,Tug Lesley Lee Reef,164212,Southeast U.S.
+1409.0,Ft. Pierce Fish Haven,164212,Southeast U.S.
+1410.0,Two Barges Reef,164212,Southeast U.S.
+1411.0,Ken M Reef,164212,Southeast U.S.
+1412.0,50' Inshore Reef Site,164212,Southeast U.S.
+1413.0,Muliphen Reef,164212,Southeast U.S.
+1414.0,"""Beverly M"" Reef",164212,Southeast U.S.
+1416.0,"Ft Pierce Artificial Reef-""Deep Tug""",164212,Southeast U.S.
+1418.0,Site #6_2011_E,164291,Southeast U.S.
+1419.0,Site #4_2004 - Maxine D,164291,Southeast U.S.
+1420.0,Site #9_Tug  Reef,164291,Southeast U.S.
+1421.0,Site #3_1995 - Atlas,164291,Southeast U.S.
+1422.0,Site #3_1995 - Rio Yuna,164291,Southeast U.S.
+1423.0,Site #3_1995,164291,Southeast U.S.
+1424.0,Site #3_1995,164291,Southeast U.S.
+1425.0,Site #7_1994 - Argoil,164291,Southeast U.S.
+1426.0,Site #1_1994,164291,Southeast U.S.
+1427.0,Site #4_1994 - Maxine D,164291,Southeast U.S.
+1428.0,Site #2_1994 - Semarca,164291,Southeast U.S.
+1429.0,Site #2_1985,164291,Southeast U.S.
+1430.0,Site #3_1980 - Mindanao,164291,Southeast U.S.
+1457.0,Linden's Mystery Car Bodies,164291,Southeast U.S.
+1494.0,Jet Fighters,145089,Florida Keys
+1523.0,St. Pete Beach Site,164065,Pinellas County
+1524.0,St. Pete Beach Site,164065,Pinellas County
+1525.0,St. Pete Beach Site,164065,Pinellas County
+1526.0,St. Pete Beach Site,164065,Pinellas County
+1527.0,St. Pete Beach Site,164065,Pinellas County
+1528.0,St. Pete Beach Site,164065,Pinellas County
+1529.0,St. Pete Beach Site,164065,Pinellas County
+1530.0,St. Pete Beach Site,164065,Pinellas County
+1531.0,St. Pete Beach Site,164065,Pinellas County
+1547.0,Tampa,164291,Southeast U.S.
+1548.0,Edwin Nettleton,164291,Southeast U.S.
+1549.0,YFN 321,164291,Southeast U.S.
+1550.0,Henry Bacon,164291,Southeast U.S.
+1551.0,El Mira,164291,Southeast U.S.
+1552.0,Optimist,164291,Southeast U.S.
+1553.0,Motherlode,164291,Southeast U.S.
+1554.0,Scalper,164291,Southeast U.S.
+1555.0,Senasqua YTM 523,164291,Southeast U.S.
+1556.0,Recife,164291,Southeast U.S.
+1557.0,Janet,164291,Southeast U.S.
+1558.0,LCM-1,164291,Southeast U.S.
+1559.0,LCM-6,164291,Southeast U.S.
+1560.0,Delta Diamond,164291,Southeast U.S.
+1561.0,Modena,164291,Southeast U.S.
+1562.0,Ansley,164291,Southeast U.S.
+1563.0,Unnamed,164291,Southeast U.S.
+1564.0,Honey,164291,Southeast U.S.
+1565.0,Mary Lou,164291,Southeast U.S.
+1566.0,Thunderbolt,164291,Southeast U.S.
+1567.0,TM 1157,164291,Southeast U.S.
+1568.0,Unnamed,164291,Southeast U.S.
+1569.0,Unnamed,164291,Southeast U.S.
+1570.0,Matt Turecamo,164291,Southeast U.S.
+1571.0,Olympics- YC-1117,164291,Southeast U.S.
+1572.0,Jupiter (1),164291,Southeast U.S.
+1573.0,Recchi GLF,164291,Southeast U.S.
+1575.0,Mac Tide 21,164291,Southeast U.S.
+1576.0,Rio Apon,164291,Southeast U.S.
+1577.0,Rio Caroni,164291,Southeast U.S.
+1579.0,Zapala,164291,Southeast U.S.
+1580.0,Unnamed,164291,Southeast U.S.
+1581.0,Unnamed,164291,Southeast U.S.
+1582.0,Unnamed,164291,Southeast U.S.
+1583.0,MOBRO  Northern Hopper Barge,164291,Southeast U.S.
+1584.0,MOBRO Southern Hopper Barge,164291,Southeast U.S.
+1585.0,Bow string,164291,Southeast U.S.
+1586.0,Reid McAllister,164291,Southeast U.S.
+1587.0,McAllister,164291,Southeast U.S.
+1588.0,Unnamed,164291,Southeast U.S.
+1589.0,Unnamed,164291,Southeast U.S.
+1590.0,Unnamed,164291,Southeast U.S.
+1591.0,Barbara McAllister,164291,Southeast U.S.
+1592.0,Unnamed,164291,Southeast U.S.
+1593.0,Devon,164291,Southeast U.S.
+1594.0,Esparta,164291,Southeast U.S.
+1595.0,Euwin St. Phillips,164291,Southeast U.S.
+1596.0,Landing Craft,164291,Southeast U.S.
+1597.0,LLM,164291,Southeast U.S.
+1598.0,Vincent Turecamo,164291,Southeast U.S.
+1600.0,Grace,164291,Southeast U.S.
+1601.0,Oriental Trader,164291,Southeast U.S.
+1602.0,Rachael,164291,Southeast U.S.
+1603.0,Sapelo II,164291,Southeast U.S.
+1604.0,Pegasus,164291,Southeast U.S.
+1605.0,Kinsale,164291,Southeast U.S.
+1606.0,Margaret Turecamo,164291,Southeast U.S.
+1607.0,Jane Yarn,164291,Southeast U.S.
+1608.0,Unnamed,164291,Southeast U.S.
+1609.0,Unnamed,164291,Southeast U.S.
+1610.0,Jupiter (2),164291,Southeast U.S.
+1611.0,Sailboat,164291,Southeast U.S.
+1612.0,Steel Vessel,164291,Southeast U.S.
+1613.0,TIC,164291,Southeast U.S.
+1614.0,Unnamed,164291,Southeast U.S.
+1615.0,Unnamed,164291,Southeast U.S.
+1616.0,John Bird,164291,Southeast U.S.
+1617.0,M-60 Battle Tanks,164291,Southeast U.S.
+1618.0,M-60 Battle Tanks,164291,Southeast U.S.
+1619.0,M-60 Battle Tanks,164291,Southeast U.S.
+1620.0,M-60 Battle Tanks,164291,Southeast U.S.
+1621.0,M-60 Battle Tanks,164291,Southeast U.S.
+1622.0,M-60 Battle Tanks,164291,Southeast U.S.
+1623.0,M-60 Battle Tanks,164291,Southeast U.S.
+1624.0,M-60 Battle Tanks,164291,Southeast U.S.
+1625.0,M-60 Battle Tanks,164291,Southeast U.S.
+1626.0,M-60 Battle Tanks,164291,Southeast U.S.
+1627.0,M-60 Battle Tanks,164291,Southeast U.S.
+1628.0,M-60 Battle Tanks,164291,Southeast U.S.
+1629.0,M-60 Battle Tanks,164291,Southeast U.S.
+1630.0,M-60 Battle Tanks,164291,Southeast U.S.
+1631.0,M-60 Battle Tanks,164291,Southeast U.S.
+1632.0,M-60 Battle Tanks,164291,Southeast U.S.
+1633.0,M-60 Battle Tanks,164291,Southeast U.S.
+1634.0,M-60 Battle Tanks,164291,Southeast U.S.
+1635.0,M-60 Battle Tanks,164291,Southeast U.S.
+1636.0,M-60 Battle Tanks,164291,Southeast U.S.
+1637.0,M-60 Battle Tanks,164291,Southeast U.S.
+1638.0,M-60 Battle Tanks,164291,Southeast U.S.
+1639.0,M-60 Battle Tanks,164291,Southeast U.S.
+1640.0,M-60 Battle Tanks,164291,Southeast U.S.
+1641.0,M-60 Battle Tanks,164291,Southeast U.S.
+1642.0,M-60 Battle Tanks,164291,Southeast U.S.
+1643.0,M-60 Battle Tanks,164291,Southeast U.S.
+1644.0,M-60 Battle Tanks,164291,Southeast U.S.
+1645.0,M-60 Battle Tanks,164291,Southeast U.S.
+1646.0,M-60 Battle Tanks,164291,Southeast U.S.
+1647.0,M-60 Battle Tanks,164291,Southeast U.S.
+1648.0,NYCTA Subway Car,164291,Southeast U.S.
+1649.0,NYCTA Subway Car,164291,Southeast U.S.
+1650.0,NYCTA Subway Car,164291,Southeast U.S.
+1651.0,NYCTA Subway Car,164291,Southeast U.S.
+1652.0,NYCTA Subway Car,164291,Southeast U.S.
+1653.0,NYCTA Subway Car,164291,Southeast U.S.
+1654.0,NYCTA Subway Car,164291,Southeast U.S.
+1655.0,NYCTA Subway Car,164291,Southeast U.S.
+1656.0,NYCTA Subway Car,164291,Southeast U.S.
+1657.0,NYCTA Subway Car,164291,Southeast U.S.
+1658.0,NYCTA Subway Car,164291,Southeast U.S.
+1659.0,NYCTA Subway Car,164291,Southeast U.S.
+1660.0,NYCTA Subway Car,164291,Southeast U.S.
+1661.0,NYCTA Subway Car,164291,Southeast U.S.
+1662.0,NYCTA Subway Car,164291,Southeast U.S.
+1663.0,NYCTA Subway Car,164291,Southeast U.S.
+1664.0,NYCTA Subway Car,164291,Southeast U.S.
+1665.0,NYCTA Subway Car,164291,Southeast U.S.
+1666.0,NYCTA Subway Car,164291,Southeast U.S.
+1667.0,NYCTA Subway Car,164291,Southeast U.S.
+1668.0,NYCTA Subway Car,164291,Southeast U.S.
+1669.0,NYCTA Subway Car,164291,Southeast U.S.
+1670.0,NYCTA Subway Car,164291,Southeast U.S.
+1671.0,NYCTA Subway Car,164291,Southeast U.S.
+1672.0,NYCTA Subway Car,164291,Southeast U.S.
+1673.0,NYCTA Subway Car,164291,Southeast U.S.
+1674.0,NYCTA Subway Car,164291,Southeast U.S.
+1675.0,NYCTA Subway Car,164291,Southeast U.S.
+1676.0,NYCTA Subway Car,164291,Southeast U.S.
+1677.0,NYCTA Subway Car,164291,Southeast U.S.
+1678.0,NYCTA Subway Car,164291,Southeast U.S.
+1679.0,NYCTA Subway Car,164291,Southeast U.S.
+1680.0,NYCTA Subway Car,164291,Southeast U.S.
+1681.0,NYCTA Subway Car,164291,Southeast U.S.
+1682.0,NYCTA Subway Car,164291,Southeast U.S.
+1683.0,NYCTA Subway Car,164291,Southeast U.S.
+1684.0,NYCTA Subway Car,164291,Southeast U.S.
+1685.0,NYCTA Subway Car,164291,Southeast U.S.
+1686.0,NYCTA Subway Car,164291,Southeast U.S.
+1687.0,NYCTA Subway Car,164291,Southeast U.S.
+1688.0,NYCTA Subway Car,164291,Southeast U.S.
+1689.0,NYCTA Subway Car,164291,Southeast U.S.
+1690.0,NYCTA Subway Car,164291,Southeast U.S.
+1691.0,NYCTA Subway Car,164291,Southeast U.S.
+1692.0,NYCTA Subway Car,164291,Southeast U.S.
+1693.0,NYCTA Subway Car,164291,Southeast U.S.
+1694.0,NYCTA Subway Car,164291,Southeast U.S.
+1695.0,NYCTA Subway Car,164291,Southeast U.S.
+1696.0,NYCTA Subway Car,164291,Southeast U.S.
+1697.0,NYCTA Subway Car,164291,Southeast U.S.
+1698.0,NYCTA Subway Car,164291,Southeast U.S.
+1699.0,NYCTA Subway Car,164291,Southeast U.S.
+1700.0,NYCTA Subway Car,164291,Southeast U.S.
+1701.0,NYCTA Subway Car,164291,Southeast U.S.
+1702.0,NYCTA Subway Car,164291,Southeast U.S.
+1703.0,NYCTA Subway Car,164291,Southeast U.S.
+1704.0,NYCTA Subway Car,164291,Southeast U.S.
+1705.0,NYCTA Subway Car,164291,Southeast U.S.
+1706.0,NYCTA Subway Car,164291,Southeast U.S.
+1707.0,NYCTA Subway Car,164291,Southeast U.S.
+1708.0,NYCTA Subway Car,164291,Southeast U.S.
+1709.0,NYCTA Subway Car,164291,Southeast U.S.
+1710.0,NYCTA Subway Car,164291,Southeast U.S.
+1711.0,NYCTA Subway Car,164291,Southeast U.S.
+1712.0,NYCTA Subway Car,164291,Southeast U.S.
+1713.0,NYCTA Subway Car,164291,Southeast U.S.
+1714.0,NYCTA Subway Car,164291,Southeast U.S.
+1715.0,NYCTA Subway Car,164291,Southeast U.S.
+1716.0,NYCTA Subway Car,164291,Southeast U.S.
+1717.0,NYCTA Subway Car,164291,Southeast U.S.
+1718.0,NYCTA Subway Car,164291,Southeast U.S.
+1719.0,NYCTA Subway Car,164291,Southeast U.S.
+1720.0,NYCTA Subway Car,164291,Southeast U.S.
+1721.0,NYCTA Subway Car,164291,Southeast U.S.
+1722.0,NYCTA Subway Car,164291,Southeast U.S.
+1723.0,NYCTA Subway Car,164291,Southeast U.S.
+1724.0,NYCTA Subway Car,164291,Southeast U.S.
+1725.0,NYCTA Subway Car,164291,Southeast U.S.
+1726.0,NYCTA Subway Car,164291,Southeast U.S.
+1727.0,NYCTA Subway Car,164291,Southeast U.S.
+1728.0,NYCTA Subway Car,164291,Southeast U.S.
+1729.0,NYCTA Subway Car,164291,Southeast U.S.
+1730.0,NYCTA Subway Car,164291,Southeast U.S.
+1731.0,NYCTA Subway Car,164291,Southeast U.S.
+1732.0,NYCTA Subway Car,164291,Southeast U.S.
+1733.0,NYCTA Subway Car,164291,Southeast U.S.
+1734.0,NYCTA Subway Car,164291,Southeast U.S.
+1735.0,NYCTA Subway Car,164291,Southeast U.S.
+1736.0,NYCTA Subway Car,164291,Southeast U.S.
+1737.0,NYCTA Subway Car,164291,Southeast U.S.
+1738.0,NYCTA Subway Car,164291,Southeast U.S.
+1739.0,NYCTA Subway Car,164291,Southeast U.S.
+1740.0,NYCTA Subway Car,164291,Southeast U.S.
+1741.0,NYCTA Subway Car,164291,Southeast U.S.
+1742.0,NYCTA Subway Car,164291,Southeast U.S.
+1743.0,NYCTA Subway Car,164291,Southeast U.S.
+1744.0,NYCTA Subway Car,164291,Southeast U.S.
+1745.0,NYCTA Subway Car,164291,Southeast U.S.
+1746.0,NYCTA Subway Car,164291,Southeast U.S.
+1747.0,NYCTA Subway Car,164291,Southeast U.S.
+1748.0,NYCTA Subway Car,164291,Southeast U.S.
+1749.0,NYCTA Subway Car,164291,Southeast U.S.
+1750.0,NYCTA Subway Car,164291,Southeast U.S.
+1751.0,NYCTA Subway Car,164291,Southeast U.S.
+1752.0,NYCTA Subway Car,164291,Southeast U.S.
+1753.0,NYCTA Subway Car,164291,Southeast U.S.
+1754.0,NYCTA Subway Car,164291,Southeast U.S.
+1755.0,NYCTA Subway Car,164291,Southeast U.S.
+1756.0,NYCTA Subway Car,164291,Southeast U.S.
+1757.0,NYCTA Subway Car,164291,Southeast U.S.
+1758.0,NYCTA Subway Car,164291,Southeast U.S.
+1759.0,NYCTA Subway Car,164291,Southeast U.S.
+1760.0,NYCTA Subway Car,164291,Southeast U.S.
+1761.0,NYCTA Subway Car,164291,Southeast U.S.
+1762.0,NYCTA Subway Car,164291,Southeast U.S.
+1763.0,NYCTA Subway Car,164291,Southeast U.S.
+1764.0,NYCTA Subway Car,164291,Southeast U.S.
+1765.0,NYCTA Subway Car,164291,Southeast U.S.
+1766.0,NYCTA Subway Car,164291,Southeast U.S.
+1767.0,NYCTA Subway Car,164291,Southeast U.S.
+1768.0,NYCTA Subway Car,164291,Southeast U.S.
+1769.0,Addie Bagley Daniels SS,164291,Southeast U.S.
+1770.0,Sayler - CBC 601,164291,Southeast U.S.
+1772.0,Moreia MFV,122162,Parque Estadual Marinho Da Laje De Santos
+1772.0,Moreia MFV,122543,Apa Marinha Do Litoral Centro
+1773.0,Pietermaritzburg (HMS Pelorus),142766,Table Mountain National Park Marine Protected Area
+1776.0,Aster MFV (CTA214),142766,Table Mountain National Park Marine Protected Area
+1777.0,Doc Polson,116362,West Bay Replenishment Zone
+1778.0,Oro Verde MV,116353,Seven Mile Beach Marine Park
+1780.0,Round Table,16607,Little Tobago
+1781.0,Gran Roque MV,5343,Henri Pittier
+1784.0,Lesleen M,16614,"West Coast (incl. Soufriere, Rachette Reefs, Petit Piton, Gros Piton and Anse Chastenets)"
+1784.0,Lesleen M,16633,Pitons(Qualibou and Canaries)
+1786.0,Augustin Fresnel MV,13829,Guadeloupe
+1786.0,Augustin Fresnel MV,13831,Agoa
+1786.0,Augustin Fresnel MV,65409,Guadeloupe [aire d'adhésion]
+1787.0,Kittiwake USS (ASR-13),107583,West Bay Bight Marine Park
+1788.0,P-52 (Ulla),116306,Mar Menor y Costa Oriental De La Region De Murcia
+1788.0,P-52 (Ulla),204690,Espacio marino de Tabarca-Cabo de Palos
+1788.0,P-52 (Ulla),189407,Franja Litoral Sumergida de la Región de Murcia
+1789.0,P-54 (Turia),116306,Mar Menor y Costa Oriental De La Region De Murcia
+1789.0,P-54 (Turia),204690,Espacio marino de Tabarca-Cabo de Palos
+1789.0,P-54 (Turia),189407,Franja Litoral Sumergida de la Región de Murcia
+1792.0,Scylla HMS (F71),180301,Whitsand and Looe Bay
+1792.0,Scylla HMS (F71),93914,Whitsand and Looe Bay
+1793.0,Felipe Xicotencatl,210490,Arrecifes de Cozumel
+1799.0,HTMS Kledkaeo (AKS 861),9349,Had Noparatthara - Mu Koh Phi Phi
+1802.0,Transvaal,142766,Table Mountain National Park Marine Protected Area
+1803.0,Good Hope,142766,Table Mountain National Park Marine Protected Area
+1804.0,Rockeater,142766,Table Mountain National Park Marine Protected Area
+1805.0,Princess Elizabeth,142766,Table Mountain National Park Marine Protected Area
+1806.0,Oratava,142766,Table Mountain National Park Marine Protected Area
+1807.0,Franjack MV,13829,Guadeloupe
+1807.0,Franjack MV,13831,Agoa
+1807.0,Franjack MV,65409,Guadeloupe [aire d'adhésion]
+1812.0,Cominoland MV,209769,Il-Bahar ta' madwar Ghawdex
+1813.0,Imperial Eagle MV,71592,Zona fil-bahar fil-Grigal ta' Malta
+1813.0,Imperial Eagle MV,195947,Zona fil-Bahar fil-Grigal ta' Malta
+1813.0,Imperial Eagle MV,209769,Il-Bahar ta' madwar Ghawdex
+1814.0,P-31,209769,Il-Bahar ta' madwar Ghawdex
+1817.0,MV Karwela,209769,Il-Bahar ta' madwar Ghawdex
+1818.0,MV Xlendi,209769,Il-Bahar ta' madwar Ghawdex
+1822.0,Papuan Explorer MV,16651,Rakiraki District
+1822.0,Papuan Explorer MV,16684,Navolau District
+1824.0,Dania MV,142615,Mombasa
+1826.0,Bream,1989,Moreton Bay
+1826.0,Bream,128402,Moreton Bay
+1827.0,Maryborough,1989,Moreton Bay
+1827.0,Maryborough,128402,Moreton Bay
+1828.0,Remora,1989,Moreton Bay
+1828.0,Remora,128402,Moreton Bay
+1829.0,Platypus II,1989,Moreton Bay
+1829.0,Platypus II,128402,Moreton Bay
+1830.0,Seal,1989,Moreton Bay
+1830.0,Seal,128402,Moreton Bay
+1831.0,Stingaree,1989,Moreton Bay
+1831.0,Stingaree,128402,Moreton Bay
+1832.0,Lady Norman,128402,Moreton Bay
+1833.0,Otter,1973,"Great Sandy Strait (including Great Sandy Strait, Tin Can Bay and Tin Can Inlet)"
+1833.0,Otter,124249,Hervey Bay - Tin Can Bay
+1833.0,Otter,128311,Great Sandy
+1833.0,Otter,138685,Great Sandy
+1834.0,Kos I,1989,Moreton Bay
+1834.0,Kos I,128402,Moreton Bay
+1835.0,Pelican,1973,"Great Sandy Strait (including Great Sandy Strait, Tin Can Bay and Tin Can Inlet)"
+1835.0,Pelican,124249,Hervey Bay - Tin Can Bay
+1835.0,Pelican,128311,Great Sandy
+1835.0,Pelican,138685,Great Sandy
+1836.0,Morwong,1989,Moreton Bay
+1836.0,Morwong,128402,Moreton Bay
+1837.0,Kos II,1989,Moreton Bay
+1837.0,Kos II,128402,Moreton Bay
+1838.0,Iceberg,1989,Moreton Bay
+1838.0,Iceberg,128402,Moreton Bay
+1839.0,Lass O'Gowrie,1973,"Great Sandy Strait (including Great Sandy Strait, Tin Can Bay and Tin Can Inlet)"
+1839.0,Lass O'Gowrie,124249,Hervey Bay - Tin Can Bay
+1839.0,Lass O'Gowrie,128311,Great Sandy
+1839.0,Lass O'Gowrie,138685,Great Sandy
+1840.0,Kgari,129839,Great Sandy
+1840.0,Kgari,138685,Great Sandy
+1843.0,Uki,1989,Moreton Bay
+1843.0,Uki,128402,Moreton Bay
+1844.0,Melbourne,128402,Moreton Bay
+1849.0,Unidentified,1973,"Great Sandy Strait (including Great Sandy Strait, Tin Can Bay and Tin Can Inlet)"
+1849.0,Unidentified,124249,Hervey Bay - Tin Can Bay
+1849.0,Unidentified,128311,Great Sandy
+1849.0,Unidentified,138685,Great Sandy
+1850.0,Unidentified,1973,"Great Sandy Strait (including Great Sandy Strait, Tin Can Bay and Tin Can Inlet)"
+1850.0,Unidentified,124249,Hervey Bay - Tin Can Bay
+1850.0,Unidentified,128311,Great Sandy
+1850.0,Unidentified,138685,Great Sandy
+1851.0,Mourilyan,180004,Great Barrier Reef
+1853.0,Neville Bonnar,128402,Moreton Bay
+1855.0,Echeneis,1989,Moreton Bay
+1855.0,Echeneis,128402,Moreton Bay
+1858.0,Loevestein,128402,Moreton Bay
+1859.0,Solace,128402,Moreton Bay
+1860.0,Crusader II,128401,Moreton Bay
+1862.0,Barrambin,128402,Moreton Bay
+1866.0,Oil fuel lighter,128402,Moreton Bay
+1870.0,Centipede,128402,Moreton Bay
+1871.0,Goori,1973,"Great Sandy Strait (including Great Sandy Strait, Tin Can Bay and Tin Can Inlet)"
+1871.0,Goori,124249,Hervey Bay - Tin Can Bay
+1871.0,Goori,128311,Great Sandy
+1871.0,Goori,138685,Great Sandy
+1872.0,No. 25,128402,Moreton Bay
+1875.0,Ceratodus II,128311,Great Sandy
+1875.0,Ceratodus II,138685,Great Sandy
+1876.0,Point Lookout,128402,Moreton Bay
+1877.0,Lady Joyus,180137,"Shark Bay, Western Australia"
+1878.0,Seahorse,180137,"Shark Bay, Western Australia"
+1880.0,Kunmunya,128267,Dampier
+1881.0,Unidentified,128311,Great Sandy
+1881.0,Unidentified,138685,Great Sandy
+1882.0,Unidentified,128311,Great Sandy
+1882.0,Unidentified,138685,Great Sandy
+1883.0,Unidentified,128311,Great Sandy
+1883.0,Unidentified,138685,Great Sandy
+1884.0,Bermagui,1989,Moreton Bay
+1884.0,Bermagui,128402,Moreton Bay
+1885.0,Bremer,128402,Moreton Bay
+1886.0,Groper,1989,Moreton Bay
+1886.0,Groper,128402,Moreton Bay
